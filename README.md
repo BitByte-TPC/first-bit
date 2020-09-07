@@ -4,7 +4,7 @@
 
 # first-bit
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We at [BitByte - The Programming Club]() wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We at [BitByte - The Programming Club](https://github.com/BitByte-TPC) wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? So, to provide guidance and simplify the way beginners make their first contribution, we have created this amazing project.
 
@@ -12,11 +12,9 @@ If you are a beginner and want to get your hands dirty, you have hopped on to th
 
 ## About first-bit
 
-This is a project created and maintained by [BitByte - The Programming Club]() to help young developers of IIITDMJ kickstart their journey to the world of Open Source. This is a very basic project where you can easily make your first contribution and learn the complete workflow of using Git and Github along the way.
+This is a project created and maintained by [BitByte - The Programming Club](https://github.com/BitByte-TPC) to help young developers of IIITDMJ kickstart their journey to the world of Open Source. This is a very basic project where you can easily make your first contribution and learn the complete workflow of using Git and Github along the way.
 
 So, let's first start with the first and most basic step, installing **Git**.
-
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 ## Install Git
 
@@ -27,6 +25,8 @@ If you don't have git on your machine, [install it]( https://help.github.com/art
 .........
 
 ## Fork this repository
+
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
