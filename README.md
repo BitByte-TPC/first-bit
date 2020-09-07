@@ -6,15 +6,15 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We at [BitByte - The Programming Club](https://github.com/BitByte-TPC) wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? So, to provide guidance and simplify the way beginners make their first contribution, we have created this amazing project.
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? So, to provide guidance and simplify the way beginners make their first contribution, we've created this amazing project.
 
-If you are a beginner and want to get your hands dirty, you have hopped on to the right place. This project is made just for you.
+If you are a beginner and wants to get your hands dirty with Open Source contributions, you've hopped on to the right place. This project is made just for you.
 
 ## About first-bit
 
-This is a project created and maintained by [BitByte - The Programming Club](https://github.com/BitByte-TPC) to help young developers of IIITDMJ kickstart their journey to the world of Open Source. This is a very basic project where you can easily make your first contribution and learn the complete workflow of using Git and Github along the way.
+This project is created and maintained by [BitByte - The Programming Club](https://github.com/BitByte-TPC) to help young developers of [IIITDMJ](https://iiitdmj.ac.in) kickstart their journey to the world of Open Source. This is a very basic project where you can easily make your first contribution and learn the complete workflow of using Git and Github along the way.
 
-So, let's first start with the first and most basic step, installing **Git**.
+So, let's start with the first and the most basic step, installing **Git**.
 
 ## Install Git
 
@@ -48,16 +48,16 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 For example:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/first-bit.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-bit repository on GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd first-bit
 ```
 Now create a branch using the `git checkout` command:
 ```
