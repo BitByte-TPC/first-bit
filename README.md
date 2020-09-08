@@ -72,25 +72,28 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+```
+cp public/directory/name.json.example public/directory/<yout-github-id>.json
+```
+
+Replace `<your-github-id>` with your original id.
+
+Open  `public/directory/<yout-github-id>.json` and fill it.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
-
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add public/directory/<yout-github-id>.json
 ```
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <your-github-id> to Contributors list"
 ```
-replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
