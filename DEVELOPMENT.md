@@ -11,6 +11,8 @@ yarn lint # Lints and fixes files
 
 ## Building the nameDB.json
 
+For Quick setup grab a copy from [gh-pages](https://github.com/BitByte-TPC/first-bit/blob/gh-pages/nameDB.json) branch and in put it inside `public/`.
+
 The nameDB is a big json file which contains all user added json files into one. It also fetches github avatar url from GitHuB id. You will need a GitHub oAuth token to build nameDB.json. The script fetches avatar_url from GitHuB id and without oAuth GitHub limits 60 request per hours.
 
 1. Visit [Personal Acess Tokens](https://github.com/settings/tokens) and create one. 
