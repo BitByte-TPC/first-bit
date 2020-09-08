@@ -18,10 +18,19 @@ export default {
     githubId: String,
     bio: String,
   },
-
+  data(){
+    return{
+      text: this.turncate(this.bio),
+    }
+  },
   methods: {
-    fetchImage() {
-    },
+    truncate:(str, length = 64, ending='...') => {
+    if (str.length > length) {
+      return str.substring(0, length - ending.length) + ending;
+    } else {
+      return str;
+    }
+  }
   },
 };
 </script>
@@ -63,9 +72,17 @@ export default {
   text-align: left;
   padding: 5px;
   background: #080e28;
-  height: fit-content;
+  max-height: 105px;
+  min-height: 105px;
   flex: 1 1 auto;
   border-radius: 0 0 5px 5px;
+  transition: all 150ms ease-out;
+  overflow: hidden;
+  height: auto;
+}
+
+.item:hover > .des {
+  max-height: 200px;
 }
 
 .name {
@@ -76,7 +93,7 @@ export default {
 }
 
 .bio {
-    font-size: 14px;
-    margin: 3px 0;
+  font-size: 14px;
+  margin: 3px 0;
 }
 </style>
