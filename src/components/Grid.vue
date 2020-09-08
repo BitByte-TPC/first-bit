@@ -1,20 +1,23 @@
 <template>
-    <div class="container">
-        <Card v-for="(item, index) in nameDB"
-          :key="index"
-          :name="item.name"
-          :bio="item.bio"
-          :githubId="item.githubId"
-          :avatar_url="item.avatar_url" />
-    </div>
+  <div class="container">
+    <Card
+      v-for="(item, index) in nameDB"
+      :key="index"
+      :name="item.name"
+      :bio="item.bio"
+      :githubId="item.githubId"
+      :avatar_url="item.avatar_url"
+    />
+  </div>
 </template>
 
 <script>
-import nameDB from '../../public/nameDB.json';
-import Card from './Card.vue';
+// eslint-disable-line
+import nameDB from "../../public/nameDB.json";
+import Card from "./Card.vue";
 
 export default {
-  name: 'Grid',
+  name: "Grid",
   components: {
     Card,
   },
@@ -45,7 +48,6 @@ export default {
 </script>
 
 <style>
-
 .container {
   display: flex;
   flex-direction: row;
@@ -53,6 +55,6 @@ export default {
   justify-content: center;
   align-items: start;
   align-content: flex-start;
+  margin: 10% 0;
 }
-
 </style>

@@ -3,6 +3,8 @@
 # abort on errors
 set -e
 
+node buildDB.js
+
 yarn run build
 
 cd dist
