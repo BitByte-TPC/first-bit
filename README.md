@@ -72,6 +72,44 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
+### Using Terminal
+
+Change to `public/directory` directory/folder inside your repository where you need to add a new file.
+
+```
+cd public/directory
+```
+
+Create a new file in your current directory (`first-bit/public/directory`) with name `this-is-you.json` where `this-is-you` is your GitHub username.
+
+#### For Windows Users
+
+* On cmd, type `notepad this-is-you.json` which will search for a file with name `this-is-you.json` in your current directory.
+* If a file with the same name exists in your current directory (which will not be the case unless you create one), it will be opened using notepad.
+* If not (which is our case :wink:), Windows will display a prompt saying `Do you want to create a new file?`.
+* On clicking `Yes`, a file with name `this-is-you.json` will be created in your current directory and opened using notepad.
+* Now copy the follwing text and paste it in your newly created file:
+  ```
+    {
+        "githubId": "this-is-you",
+        "name": "your-name",
+        "bio": "Something about yourself using not more than 64 characters." 
+    }
+  ```
+  replacing `this-is-you` with your GitHub ID, `your-name` with your Full Name and updating the text in bio.
+
+  **For example:**
+  ```
+    {
+        "githubId": "sdhiman99",
+        "name": "Shivansh Dhiman",
+        "bio": "Searching new horizons.."
+    }
+  ```
+* Save the file pressing `Ctrl + s` and close the notepad.
+
+#### For Linux Users
+
 ```
 cp public/directory/name.json.example public/directory/<yout-github-id>.json
 ```
