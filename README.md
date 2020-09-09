@@ -70,7 +70,7 @@ git checkout -b add-alonzo-church
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-## Make necessary changes and commit those changes
+## Make necessary changes
 
 ### Using Terminal
 
@@ -110,17 +110,26 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
 
 #### For Linux Users
 
-```
-cp public/directory/name.json.example public/directory/<yout-github-id>.json
-```
+- Copy the template
 
-Replace `<your-github-id>` with your original id.
+  ```bash
+  cp public/directory/name.json.example public/directory/<yout-github-id>.json
+  ```
 
-Open  `public/directory/<yout-github-id>.json` and fill it.
+  Replace `<your-github-id>` with your original id.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+- Open  `public/directory/<yout-github-id>.json` and fill it.
+
+  ```bash
+  gedit public/directory/<yout-github-id>.json
+  ```
+- Save file `ctrl+s` and close the editor. 
+
+## Commit those changes
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
+<img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 Add those changes to the branch you just created using the `git add` command:
 
