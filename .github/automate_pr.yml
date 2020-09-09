@@ -1,0 +1,19 @@
+name : PR_test
+
+  on:
+      pull_request:
+        branches:
+          - master
+
+  env:
+     PULL_NUMBER: $(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+
+  jobs:
+    automation:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: actions/setup-python@v2
+          with:
+            python-version: '3.8'
+        - run: python automate_pr.py
