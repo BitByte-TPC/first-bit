@@ -12,6 +12,8 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "@actions/core": "^1.2.5",
+    "@actions/github": "^4.0.0",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",

@@ -1,0 +1,29 @@
+name: Merge Bot
+
+on:
+  pull_request:
+    types: [opened]
+    paths:
+    - 'public/directory/**.json'
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    name: Merge
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    
+    - name: Yarn install
+      uses: actions/setup-node@v1
+    - run: yarn install
+
+    - name: Validating json file
+      uses: ./.github/actions/checkDB
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Integration check
+      uses: squalrus/merge-bot@v0.1.0
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
