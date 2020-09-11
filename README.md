@@ -113,17 +113,19 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
 - Copy the template
 
   ```bash
-  cp public/directory/name.json.example public/directory/<yout-github-id>.json
+  cp public/directory/name.json.example public/directory/<this-is-you>.json
   ```
 
-  Replace `<your-github-id>` with your original id.
+  Replace `<this-is-you>` with your GitHub username.
 
-- Open  `public/directory/<yout-github-id>.json` and fill it.
+- Open  `public/directory/<this-is-you>.json`.
 
   ```bash
-  gedit public/directory/<yout-github-id>.json
+  gedit public/directory/<this-is-you>.json
   ```
-- Save file `ctrl+s` and close the editor.
+
+- In the file you just opened, replace `this-is-you` with your GitHub ID, `your-name` with your Full Name and update the text in bio.
+- Save the file by pressing `Ctrl + s` and close the editor.
 
 ### Using GUI
 
