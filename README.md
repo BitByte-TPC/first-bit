@@ -87,7 +87,7 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
 * On cmd, type `notepad this-is-you.json` which will search for a file with name `this-is-you.json` in your current directory.
 * If a file with the same name exists in your current directory (which will not be the case unless you create one), it will be opened using notepad.
 * If not (which is our case :wink:), Windows will display a prompt saying `Do you want to create a new file?`.
-* On clicking `Yes`, a file with name `this-is-you.json` will be created in your current directory and opened using notepad.
+* On clicking `Yes`, a file with name `this-is-you.json` will be created in your current directory :tada: and opened using notepad.
 * Now copy the follwing text and paste it in your newly created file:
   ```
     {
@@ -123,7 +123,18 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
   ```bash
   gedit public/directory/<yout-github-id>.json
   ```
-- Save file `ctrl+s` and close the editor. 
+- Save file `ctrl+s` and close the editor.
+
+### Using GUI
+
+- Open the cloned repository on your pc using your File Manager.
+  (You can check the address where you cloned the repository by typing `pwd` in your terminal).
+- Go to `public/directory` from there.
+- Create a new file with name `<this-is-you>.json` where `this-is-you` is your GitHub username and `json` is the file extension.
+- Open `name.json.example` file using your favourite text editor and copy its content.
+- Open the newly created file using your favourite text editor and paste the content you just copied.
+- Replace `this-is-you` with your GitHub ID, `your-name` with your Full Name and update the text in bio in your newly created file.
+- Save the file by pressing `Ctrl + s` and close the text editor.
 
 ## Commit those changes
 
