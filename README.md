@@ -41,8 +41,13 @@ Done that? Well congrats again!! :tada: Now, you're all set to start using Git o
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+So, you've come this far. That means you're dedicated enough to make your first contribution to this repository. Amazing! :heart_eyes:
+
+So, let's start by forking this repository. But, what exactly is *forking*, you'd ask! Well, as you don't own this repository, you cannot make any changes directly into it. Anyways, it would cause a disaster if anyone could make any changes into it, wouldn't it? Like assume, some notorious person comes and deletes this whole repository! Well what would we do then. restore the repository you'd say but why should we go through all this trouble? :information_desk_person:
+
+So, how would you make changes to this repository then? Well, that's where forking comes in. Forking this repository will create an exact copy of this repository in your account. And guess what, you can make any changes in that copy and send a Pull Request (we'll talk about that later) to us when you're done with making changes asking us to merge those changes into our main repository. Isn't that amazing? :grinning:
+
+So, what are your waiting for? Go ahead and Fork this repository by clicking on the fork button on the top of this page.
 
 ## Clone the repository
 
