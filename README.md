@@ -1,4 +1,4 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -8,21 +8,34 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? So, to provide guidance and simplify the way beginners make their first contribution, we've created this amazing project.
 
-If you are a beginner and wants to get your hands dirty with Open Source contributions, you've hopped on to the right place. This project is made just for you.
+If you are a beginner and wants to get your hands dirty in Open Source, you've hopped on to the right place. This project is made just for you.
 
 ## About first-bit
 
-This project is created and maintained by [BitByte - The Programming Club](https://github.com/BitByte-TPC) to help young developers of [IIITDMJ](https://iiitdmj.ac.in) kickstart their journey to the world of Open Source. This is a very basic project where you can easily make your first contribution and learn the complete workflow of using Git and Github along the way.
+This project is developed and maintained by [BitByte - The Programming Club](https://github.com/BitByte-TPC) to help young developers kickstart their journey to the world of Open Source. This is a very basic project where you can easily make your first contribution and learn the complete workflow of using Git and Github along the way.
 
 So, let's start with the first and the most basic step, installing **Git**.
 
 ## Install Git
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+If you don't have git on your machine, [install it](https://git-scm.com/downloads).
 
 ## Configure Git
 
-.........
+So by now you must have successfully downloaded and installed Git on your system. Congrats! :tada: You have completed your first and the most basic step into Open Source.
+
+Now, it's time to let Git know who you really are, i.e., provide your Name and Email Address to Git. This step is important because Git attaches your identity with every commit (we'll talk about that later) you make; so that if someone comes around asking, *Hey! Who made these changes?* or *Hey! Who wrote this beautiful code?*, Git can instantly say, oh it was this guy or that lady.
+
+To set your *username* and *email* in Git, open your Terminal (on Linux, press `Ctrl + Alt + t`) or Command Prompt (on Windows, press `Windows + r` to open Run box, type `cmd` there and hit `Enter`) and type the following comands:
+
+```
+git config --global user.name "your-full-name"
+git config --global user.email "your-email@domain.com"
+```
+
+replacing `your-full-name` with your Full Name and `your-email@domain.com` with your email address (associated with your GitHub Account).
+
+Done that? Well congrats again!! :tada: Now, you're all set to start using Git on your system and make wonderful Open Source contributions. :raised_hand:
 
 ## Fork this repository
 
@@ -140,9 +153,9 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
 
 ## Commit those changes
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
