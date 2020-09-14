@@ -1,4 +1,4 @@
-![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -35,15 +35,15 @@ git config --global user.email "your-email@domain.com"
 
 replacing `your-full-name` with your Full Name and `your-email@domain.com` with your email address (associated with your GitHub Account).
 
-Done that? Well congrats again!! :tada: Now, you're all set to start using Git on your system and make wonderful Open Source contributions. :raised_hand:
+Done that? Well congrats again!! :tada: Now, you're all set to start using Git on your system and make wonderful Open Source contributions. :raised_hands:
 
 ## Fork this repository
-
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 So, you've come this far. That means you're dedicated enough to make your first contribution to this repository. Amazing! :heart_eyes:
 
 So, let's start by forking this repository. But, what exactly is *forking*, you'd ask! Well, as you don't own this repository, you cannot make any changes directly into it. Anyways, it would cause a disaster if anyone could make any changes into it, wouldn't it? Like assume, some notorious person comes and deletes this whole repository! Well what would we do then. restore the repository you'd say but why should we go through all this trouble? :information_desk_person:
+
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 So, how would you make changes to this repository then? Well, that's where forking comes in. Forking this repository will create an exact copy of this repository in your account. And guess what, you can make any changes in that copy and send a Pull Request (we'll talk about that later) to us when you're done with making changes asking us to merge those changes into our main repository. Isn't that amazing? :grinning:
 
@@ -114,7 +114,7 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
         "bio": "Something about yourself using not more than 64 characters." 
     }
   ```
-  replacing `this-is-you` with your GitHub ID, `your-name` with your Full Name and updating the text in bio.
+  replacing `this-is-you` with your GitHub username, `your-name` with your Full Name and updating the text in bio.
 
   **For example:**
   ```
@@ -131,18 +131,18 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
 - Copy the template
 
   ```bash
-  cp public/directory/name.json.example public/directory/<this-is-you>.json
+  cp public/directory/name.json.example public/directory/this-is-you.json
   ```
 
-  Replace `<this-is-you>` with your GitHub username.
+  where `this-is-you` is your GitHub username.
 
-- Open  `public/directory/<this-is-you>.json`.
+- Open  `public/directory/this-is-you.json`.
 
   ```bash
-  gedit public/directory/<this-is-you>.json
+  gedit public/directory/this-is-you.json
   ```
 
-- In the file you just opened, replace `this-is-you` with your GitHub ID, `your-name` with your Full Name and update the text in bio.
+- In the file you just opened, replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio.
 - Save the file by pressing `Ctrl + s` and close the editor.
 
 ### Using GUI
@@ -153,7 +153,7 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
 - Create a new file with name `<this-is-you>.json` where `this-is-you` is your GitHub username and `json` is the file extension.
 - Open `name.json.example` file using your favourite text editor and copy its content.
 - Open the newly created file using your favourite text editor and paste the content you just copied.
-- Replace `this-is-you` with your GitHub ID, `your-name` with your Full Name and update the text in bio in your newly created file.
+- Replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio in your newly created file.
 - Save the file by pressing `Ctrl + s` and close the text editor.
 
 ## Commit those changes
@@ -165,12 +165,12 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add public/directory/<yout-github-id>.json
+git add public/directory/this-is-you.json
 ```
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-github-id> to Contributors list"
+git commit -m "Add this-is-you to Contributors list"
 ```
 
 ## Push changes to GitHub
