@@ -3,7 +3,7 @@
 # abort on errors
 set -e
 
-node buildDB.js
+node actions/buildDB.js
 
 yarn run build
 

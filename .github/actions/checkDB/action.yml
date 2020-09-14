@@ -1,0 +1,8 @@
+name: 'PR Check'
+description: 'matches pr author with file name of name.json file'
+inputs:
+  GITHUB_TOKEN:
+    description: "The GITHUB_TOKEN secret"
+runs:
+  using: 'node12'
+  main: 'checkDB.js' 
