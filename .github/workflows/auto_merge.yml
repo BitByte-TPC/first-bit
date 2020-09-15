@@ -24,6 +24,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Integration check
-      uses: squalrus/merge-bot@v0.1.0
-      with:
+      uses: pascalgn/automerge-action@v0.9.0
+      env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
