@@ -103,22 +103,22 @@ git checkout -b add-alonzo-church
   ```bash
   cp name.json.example this-is-you.json
   ```
-  (Don't forget to replace `this-is-you` with your username above)
+  (Don't forget to replace `this-is-you` with your GitHub username above)
 
-- Open your newly created file in `gedit` editor to make necessary changes.
+- Open your newly created file with `gedit` editor to make necessary changes.
 
   ```bash
   gedit this-is-you.json
   ```
 
-- In the file, replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio.
+- In the file you just opened, replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio.
 - Save the file by pressing `Ctrl + s` and then close the editor.
 
 Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
 
 ### For Windows Users
 
-#### Using Terminal
+#### Using Command Prompt 
 
 - On your command prompt (cmd), change directory (`cd`) to `public/directory` (it's where you'll need to add a new file).
 
@@ -218,9 +218,10 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebrate your contribution and share it with your friends and followers on [Twitter](https://twitter.com/intent/tweet?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20first%2Dbit.%20You%20can%20too%20at%20https%3A//github.com/bitbyte-tpc/first-bit%0A&hashtags=OpenSource,CodeNewbie), [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/bitbyte-tpc/first-bit&quote=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20first%2Dbit.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https%3A//github.com/bitbyte-tpc/first-bit&hashtag=%23OpenSource) and [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/bitbyte-tpc/first-bit&title=first%2Dbit%20&summary=A%20project%20to%20help%20beginners%20get%20started%20with%20contributing%20to%20open%20source&source=https://github.com/bitbyte-tpc/first-bit).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+You could join our Discord server in case you need any help or have any questions. [Join Discord server](https://discord.gg/42KgFmJ).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Now let's get you started with contributing to other projects. We've compiled a list of resources and projects with easy issues you can get started on. Check out the following links:
+- [first-contributions](https://firstcontributions.github.io/#project-list)
 
