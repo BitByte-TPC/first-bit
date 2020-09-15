@@ -156,21 +156,25 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
 - Replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio in your newly created file.
 - Save the file by pressing `Ctrl + s` and close the text editor.
 
-## Commit those changes
+## Commit your changes
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="assets/git-status1.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add public/directory/this-is-you.json
+git add this-is-you.json
 ```
+
+<img align="right" width="450" src="assets/git-status2.png" alt="git status" />
+
+Execute `git status` again to check that your changes are ready to be committed.
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add this-is-you to Contributors list"
+git commit -m "Add this-is-you.json"
 ```
 
 ## Push changes to GitHub
