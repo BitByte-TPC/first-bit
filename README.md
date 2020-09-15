@@ -90,23 +90,47 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes
 
-### Using Terminal
+### For Linux Users
 
-Change to `public/directory` directory/folder inside your repository where you need to add a new file.
+- On your terminal, change directory (`cd`) to `public/directory`  (it's where you'll need to add a new file).
 
-```
-cd public/directory
-```
+  ```
+  cd public/directory
+  ```
 
-Create a new file in your current directory (`first-bit/public/directory`) with name `this-is-you.json` where `this-is-you` is your GitHub username.
+- Copy the template (`name.json.example`) in a new file with name `this-is-you.json` where `this-is-you` is your GitHub username.
 
-#### For Windows Users
+  ```bash
+  cp name.json.example this-is-you.json
+  ```
+  (Don't forget to replace `this-is-you` with your username above)
 
-* On cmd, type `notepad this-is-you.json` which will search for a file with name `this-is-you.json` in your current directory.
-* If a file with the same name exists in your current directory (which will not be the case unless you create one), it will be opened using notepad.
-* If not (which is our case :wink:), Windows will display a prompt saying `Do you want to create a new file?`.
-* On clicking `Yes`, a file with name `this-is-you.json` will be created in your current directory :tada: and opened using notepad.
-* Now copy the follwing text and paste it in your newly created file:
+- Open your newly created file in `gedit` editor to make necessary changes.
+
+  ```bash
+  gedit this-is-you.json
+  ```
+
+- In the file, replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio.
+- Save the file by pressing `Ctrl + s` and then close the editor.
+
+Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
+
+### For Windows Users
+
+#### Using Terminal
+
+- On your command prompt (cmd), change directory (`cd`) to `public/directory` (it's where you'll need to add a new file).
+
+  ```
+  cd public/directory
+  ```
+
+- Now, type `notepad this-is-you.json` in your command prompt (replace `this-is-you` with your GitHub username) and hit `Enter`. This will search for a file with name `this-is-you.json` in your current directory.
+- If a file with the same name exists in your current directory (which will not be the case unless you create one), it will be opened using notepad.
+- If not (which is our case :wink:), Windows will display a prompt saying `Do you want to create a new file?`.
+- On clicking `Yes`, a file with name `this-is-you.json` will be created in your current directory :tada: and opened using notepad.
+- Now copy the follwing text and paste it in your newly created file:
   ```
     {
         "githubId": "this-is-you",
@@ -124,37 +148,30 @@ Create a new file in your current directory (`first-bit/public/directory`) with 
         "bio": "Searching new horizons.."
     }
   ```
-* Save the file pressing `Ctrl + s` and close the notepad.
+- Save the file by pressing `Ctrl + s` and close the notepad.
 
-#### For Linux Users
+Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
 
-- Copy the template
+#### Using GUI
 
-  ```bash
-  cp public/directory/name.json.example public/directory/this-is-you.json
-  ```
-
-  where `this-is-you` is your GitHub username.
-
-- Open  `public/directory/this-is-you.json`.
-
-  ```bash
-  gedit public/directory/this-is-you.json
-  ```
-
-- In the file you just opened, replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio.
-- Save the file by pressing `Ctrl + s` and close the editor.
-
-### Using GUI
-
-- Open the cloned repository on your pc using your File Manager.
-  (You can check the address where you cloned the repository by typing `pwd` in your terminal).
-- Go to `public/directory` from there.
+- Open your file explorer and navigate to the directory where you cloned your forked repository.
+  (You can check the address where you cloned the repository by typing `pwd` in your command prompt).
+- Navigate to `public/directory` from there.
 - Create a new file with name `<this-is-you>.json` where `this-is-you` is your GitHub username and `json` is the file extension.
-- Open `name.json.example` file using your favourite text editor and copy its content.
+- Open `name.json.example` file using your favourite text editor, copy its content and then close it.
 - Open the newly created file using your favourite text editor and paste the content you just copied.
-- Replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio in your newly created file.
+- Replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio in the content you just pasted.
 - Save the file by pressing `Ctrl + s` and close the text editor.
+
+Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:.
+
+One last thing you need to do before moving on to the next step is to change directory (`cd`) to `public/directory` on your command prompt, where you've just created your new file.
+
+```
+cd public/directory
+```
+
+Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
 
 ## Commit your changes
 
