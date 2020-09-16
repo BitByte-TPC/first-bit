@@ -26,5 +26,5 @@ jobs:
     - name: Integration check
       uses: pascalgn/automerge-action@v0.9.0
       env:
-        GITHUB_TOKEN: ${{ secrets.AUTO_MERGE }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         MERGE_LABELS: ""
