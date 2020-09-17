@@ -223,5 +223,11 @@ Celebrate your contribution and share it with your friends and followers on [Twi
 You could join our Discord server in case you need any help or have any questions. [Join Discord server](https://discord.gg/42KgFmJ).
 
 Now let's get you started with contributing to other projects. We've compiled a list of resources and projects with easy issues you can get started on. Check out the following links:
+- [Choosing Projects - GitHub](https://github.com/collections/choosing-projects)
 - [first-contributions](https://firstcontributions.github.io/#project-list)
-
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [CodeTriage](https://www.codetriage.com/)
+- [Up For Grabs](https://up-for-grabs.net/#/)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Open Source Guides](https://opensource.guide/)
+- [Your First Pull Request](https://yourfirstpr.github.io/)
