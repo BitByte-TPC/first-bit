@@ -175,11 +175,15 @@ Now, hop on to [Commit your changes](#commit-your-changes) section to create a n
 
 ## Commit your changes
 
+So now, let's take a look on what files you have added or modified.
+
 <img align="right" width="450" src="assets/git-status1.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+To do that, go ahead and execute `git status` in you terminal or command prompt. You must get an output something like that shown in the attached screenshot.
 
-Add those changes to the branch you just created using the `git add` command:
+See that your changes are currently untracked. Which means that Git is not currently tracking the changes in that file. This always happens when you create a new file.
+
+Go ahead and add your file to staging area so that your new file can be tracked and is ready to be committed.
 
 ```
 git add this-is-you.json
@@ -187,12 +191,15 @@ git add this-is-you.json
 
 <img align="right" width="450" src="assets/git-status2.png" alt="git status" />
 
-Execute `git status` again to check that your changes are ready to be committed.
+Execute `git status` again to check that your changes are in staging area and thus, ready to be committed.
 
 Now commit those changes using the `git commit` command:
 ```
 git commit -m "Add this-is-you.json"
 ```
+where `Add this-is-you.json` is the small message you are attaching with your commit.
+
+Congrats!! You changes are successfully committed now and you've made a new version out of your changes. :tada: :tada:
 
 ## Push changes to GitHub
 
