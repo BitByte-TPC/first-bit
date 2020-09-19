@@ -7,6 +7,7 @@ name : PR_test
 
   env:
      PULL_NUMBER: $(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+     ACCESS_TOKEN : ${{ secrets.GITHUB_TOKEN }}
 
   jobs:
     automation:
@@ -16,4 +17,5 @@ name : PR_test
         - uses: actions/setup-python@v2
           with:
             python-version: '3.8'
-        - run: python automate_pr.py
+        - run: python3 check_pr.py
+        - run: python3 automate_pr.py

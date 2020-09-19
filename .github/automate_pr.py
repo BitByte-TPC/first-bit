@@ -1,5 +1,6 @@
-from check_PR import status
+from check_pr import status
 from github import Github
+import os
 
 PR = os.environ[PULL_NUMBER]
 ACCESS_TOKEN = os.environ[ACCESS_TOKEN]
@@ -16,7 +17,7 @@ failure_labels = ['blocked', 'help wanted']
 COMMIT = "Add " + pr.user.login + " to the directory."
 
 # Add reviewers
-REVIEWERS = ['avats-dev']
+REVIEWERS = ['garg3133', 'Janglee123', 'avats-dev']
 
 print("Adding labels and automating PRs....")
 
