@@ -18,20 +18,6 @@ export default {
     githubId: String,
     bio: String,
   },
-  data(){
-    return{
-      text: this.turncate(this.bio),
-    }
-  },
-  methods: {
-    truncate:(str, length = 64, ending='...') => {
-    if (str.length > length) {
-      return str.substring(0, length - ending.length) + ending;
-    } else {
-      return str;
-    }
-  }
-  },
 };
 </script>
 
