@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div id="sketch"></div>
     <div class="title"> &lt;First Bit/&gt; </div>
     <div class="about">
       It's hard. It's always hard the first time you do something.
@@ -7,7 +8,7 @@
       We at <a class="link" href="https://github.com/BitByte-TPC">BitByte - The Programming Club</a> wanted to simplify the way new open-source contributors learn & contribute for the first time.
       <br/>
       <br/>
-      If you are a beginner and wants to get your hands dirty with Open Source contributions, you've hopped on to the right place. 
+      If you are a beginner and wants to get your hands dirty with Open Source contributions, you've hopped on to the right place.
       This project is made just for you. Visit <a class="link" href="https://github.com/BitByte-TPC/first-bit#readme">README.md</a> to get started.
     </div>
     <Grid />
@@ -16,12 +17,17 @@
 
 <script>
 import Grid from './components/Grid.vue';
+import P5 from "p5";
+import '../public/sketch.js'
 
 export default {
   name: 'App',
   components: {
     Grid,
   },
+  created(){
+    const p = new P5();
+  }
 };
 </script>
 
