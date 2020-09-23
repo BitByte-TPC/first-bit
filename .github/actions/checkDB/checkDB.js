@@ -11,12 +11,10 @@ const owner   = repo.owner;
 const gh = github.getOctokit(core.getInput('GITHUB_TOKEN', { required: true }));
 const args = { owner: owner.name || owner.login, repo: repo.name };
 
-
-
 const checkDB = async () => {
   const dir = path.join(__dirname, '..', '..', '..', 'public', 'directory');
   const files = fs.readdirSync(dir);
-  
+
   for (let i = 0; i < files.length; i++) {
 
     const file = files[i];
@@ -27,8 +25,17 @@ const checkDB = async () => {
       } catch (e) {
         core.setFailed(`${file} is not a valid json file.`);
       }
+
       if (!(data.name && data.bio && data.githubId)) {
         core.setFailed(`${file} does not follow the scheme.`);
+      }
+
+      if(!data.githubId === file.replace('.json', '')){
+        core.setFailed(`${file} does not has vaild githubId.`);
+      }
+
+      if(data.bio === 'Something about yourself using not more than 128 characters.'){
+        core.setFailed(`${file} does not has vaild bio.`);
       }
 
       if (data.bio.length > 256) {
@@ -53,7 +60,7 @@ const getFileNames = async (result) => {
   if (! result || ! result.data) {
 		return;
   }
-  
+
   const files = [];
   result.data.files.forEach( file => {
     console.log(file);
@@ -68,15 +75,15 @@ const checkPR = async () => {
   let commit = commits[0];
 
   let authorId = commit.author.login;
-  
+
   let results = await fetchCommitData(commit);
   let files = await getFileNames(results);
   let file = files[0];
   let filename = file.filename.split('/')[2];
   filename = filename.split('.')[0];
-  
+
   console.log({filename, authorId});
-  
+
   if(filename.toLowerCase() !== authorId.toLowerCase()){
     core.setFailed(`${filename} does not match with author id ${authorId}.`);
   }
