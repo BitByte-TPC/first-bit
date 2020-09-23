@@ -16,12 +16,6 @@ For Quick setup grab a copy from [gh-pages](https://github.com/BitByte-TPC/first
 The nameDB is a big json file which contains all user added json files into one. It also fetches github avatar url from GitHuB id. You will need a GitHub oAuth token to build nameDB.json. The script fetches avatar_url from GitHuB id and without oAuth GitHub limits 60 request per hours.
 
 1. Visit [Personal Acess Tokens](https://github.com/settings/tokens) and create one. 
-2. Run `cp example.env .env`
-3. Add token in .env file
-4. Run `node buildDB.js` 
-
-## Deploying site to GitHub pages
-Make sure you have forked the repo.
-```
-sh deploy.sh <your-github-id>
-```
+2. Create `.env` file.
+3. Add token in .env as `GITHUB_TOKEN=<your token here>`
+4. Run `node .github/actions/buildDB.js` 
