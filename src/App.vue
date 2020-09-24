@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div id="sketch"></div>
     <div class="title"> &lt;First Bit/&gt; </div>
     <div class="about">
       It's hard. It's always hard the first time you do something.
@@ -7,7 +8,7 @@
       We at <a class="link" href="https://github.com/BitByte-TPC">BitByte - The Programming Club</a> wanted to simplify the way new open-source contributors learn & contribute for the first time.
       <br/>
       <br/>
-      If you are a beginner and wants to get your hands dirty with Open Source contributions, you've hopped on to the right place. 
+      If you are a beginner and wants to get your hands dirty with Open Source contributions, you've hopped on to the right place.
       This project is made just for you. Visit <a class="link" href="https://github.com/BitByte-TPC/first-bit#readme">README.md</a> to get started.
     </div>
     <Grid />
@@ -16,12 +17,17 @@
 
 <script>
 import Grid from './components/Grid.vue';
+import P5 from "p5";
+import '../public/sketch.js'
 
 export default {
   name: 'App',
   components: {
     Grid,
   },
+  created(){
+    const p = new P5();
+  }
 };
 </script>
 
@@ -29,10 +35,8 @@ export default {
 
 @font-face{
     font-family: 'JetBrains Mono';
-    src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/web/eot/JetBrainsMono-Regular.eot') format('embedded-opentype'),
-         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/web/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/web/woff/JetBrainsMono-Regular.woff') format('woff'),
-         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/ttf/JetBrainsMono-Regular.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/web/JetBrainsMono-Regular.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/web/JetBrainsMono-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -43,10 +47,10 @@ body {
 }
 
 .title {
-  font-size: 56px;
+  font-size: 64px;
   text-align: center;
   color: #47cdd6;
-  font-weight: 500;
+  letter-spacing: -5px;
 }
 
 .about {

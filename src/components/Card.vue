@@ -18,11 +18,6 @@ export default {
     githubId: String,
     bio: String,
   },
-
-  methods: {
-    fetchImage() {
-    },
-  },
 };
 </script>
 
@@ -63,9 +58,17 @@ export default {
   text-align: left;
   padding: 5px;
   background: #080e28;
-  height: fit-content;
+  max-height: 105px;
+  min-height: 105px;
   flex: 1 1 auto;
   border-radius: 0 0 5px 5px;
+  transition: all 150ms ease-out;
+  overflow: hidden;
+  height: auto;
+}
+
+.item:hover > .des {
+  max-height: 200px;
 }
 
 .name {
@@ -76,7 +79,7 @@ export default {
 }
 
 .bio {
-    font-size: 14px;
-    margin: 3px 0;
+  font-size: 14px;
+  margin: 3px 0;
 }
 </style>

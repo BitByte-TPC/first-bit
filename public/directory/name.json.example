@@ -1,5 +1,5 @@
 {
-    "githubId": "GitHub ID",
-    "name": "Your name",
-    "bio": "Tell about yourself in short, around 64 chars" 
+    "githubId": "this-is-you",
+    "name": "your-name",
+    "bio": "Something about yourself using not more than 128 characters."
 }
