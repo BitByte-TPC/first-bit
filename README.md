@@ -1,6 +1,7 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
+![GH Pages](https://github.com/BitByte-TPC/first-bit/workflows/GH%20Pages/badge.svg)
+![Merge Bot](https://github.com/BitByte-TPC/first-bit/workflows/Merge%20Bot/badge.svg)
 
 # first-bit
 
@@ -173,6 +174,15 @@ cd public/directory
 
 Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
 
+### Before you commit
+
+You need to make sure that details in `json` file are correct so that when you open a Pull Request, it would be accepted. This would save last minute hassles.
+- the `githubId` key in the json (where the alias is `this-is-you`) is your **GitHub Username**, not your name.
+ > You can get you GitHub username in many ways. Best would be to click on the upper right corner of github website where your avatar is, and open you profile and then the string below your name is your username. In your profile url (somewhat like `https://www.github.com/user`), the string user would be your username. Watch this gif, if you still don't get it.
+ 
+ 
+- write your own bio describing yourself briefly, the deafult bio is just given as a reference.
+
 ## Commit your changes
 
 So now, let's take a look on what files you have added or modified.
@@ -231,10 +241,14 @@ You could join our Discord server in case you need any help or have any question
 
 Now let's get you started with contributing to other projects. We've compiled a list of resources and projects with easy issues you can get started on. Check out the following links:
 - [Choosing Projects - GitHub](https://github.com/collections/choosing-projects)
+- [Open Source Guides](https://opensource.guide/)
 - [first-contributions](https://firstcontributions.github.io/#project-list)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Your First Pull Request](https://yourfirstpr.github.io/)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [CodeTriage](https://www.codetriage.com/)
 - [Up For Grabs](https://up-for-grabs.net/#/)
-- [First Timers Only](https://www.firsttimersonly.com/)
-- [Open Source Guides](https://opensource.guide/)
-- [Your First Pull Request](https://yourfirstpr.github.io/)
+- [issuehub](http://issuehub.io/)
+- [24pullrequests](https://24pullrequests.com/)
+- [contrib](https://gauger.io/contrib/#/language/javascript)
+- [contribulator](https://contribulator.24pullrequests.com/)
