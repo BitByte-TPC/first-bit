@@ -203,11 +203,15 @@ Congrats!! You changes are successfully committed now and you've made a new vers
 
 ## Push changes to GitHub
 
-Push your changes using the command `git push`:
+Now you need to push (upload) your new version of the project to your forked copy of the original project on GitHub. Remember, you cannot directly push to the original project as you don't have the permission to make any changes there (that's the reason you forked the project in the first place).
+
+Push your changes to GitHub using the command `git push`:
 ```
 git push origin <add-your-branch-name>
 ```
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+replacing `<add-your-branch-name>` with the name of the branch you created earlier (branch on which your new changes reside).
+
+Hooray!! You've successfully pushed your changes to GitHub. :rocket:
 
 ## Submit your changes for review
 
