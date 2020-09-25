@@ -215,15 +215,34 @@ Hooray!! You've successfully pushed your changes to GitHub. :rocket:
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+Now, it's time to create a Pull Request.
+
+Pull Request is a way to request the maintainers of the original repository of the project, to merge your changes into their main project and make them live. :rocket:
+
+If they like your changes, they'll merge them otherwise they'll send you a detailed review on, at what places you need to make changes for them to be able to merge your code.
+
+To create a Pull Request, you go to your forked repository on GitHub, you'll see a  `Compare & pull request` button, as shown in the screenshot[1]. Click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+If you don't see the above button, don't worry! Everything is fine. The button automatically disappears after some time.
+- To create a Pull Request in this case, click on the dropdown menu, as shown in the screenshot[2].
+- From there, select the branch on which you made your changes.
+- Then, click on the `Pull Request` link, as shown in the screenshot[3].
+
+And you are good to go.
+
+Now, write the short title of your PR along with a small description on what changes you made in this PR. It helps reviewers to easily review your work and give you the feedback more quickly.
+
+Now, submit the pull request and wait for reviewers to review you work and give you appropriate feedback.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Yayyyy!!! :tada: :tada: You have successfully completed all the necessary steps to make your first contribution to Open Source. A huge congratulations to you.
+
+For this repository, if the contribution made by you is good and you pass all tests, `github-actions` will automatically merge your changes to the main repository.
+
+Otherwise, it will show you a :x: sign against your commit. On clicking on that and then on `Details`, you may find the error which occured while testing your changes and then fix that by making the new commit in your branch and pushing your changes again. You don't need to open a Pull Request again, it will automatically append your changes in the existing Pull Request as from one branch, only one Pull Request can be opened.
 
 ## Where to go from here?
 
