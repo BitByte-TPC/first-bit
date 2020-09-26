@@ -240,9 +240,9 @@ Now, submit the pull request and wait for reviewers to review you work and give 
 
 Yayyyy!!! :tada: :tada: You have successfully completed all the necessary steps to make your first contribution to Open Source. A huge congratulations to you.
 
-For this repository, if the contribution made by you is good and you pass all tests, `github-actions` will automatically merge your changes to the main repository.
-
-Otherwise, it will show you a :x: sign against your commit. On clicking on that and then on `Details`, you may find the error which occured while testing your changes and then fix that by making the new commit in your branch and pushing your changes again. You don't need to open a Pull Request again, it will automatically append your changes in the existing Pull Request as from one branch, only one Pull Request can be opened.
+For this repository,
+- If the contribution made by you is good and you pass all tests, `github-actions` will automatically merge your changes to the main repository.
+- Otherwise, it will show you a :x: sign against your commit. On clicking on that and then on `Details`, you may find the error which occured while testing your changes and then fix that by making the new commit in your branch and pushing your changes again. You don't need to open a Pull Request again, it will automatically append your changes in the existing Pull Request as from one branch, only one Pull Request can be opened.
 
 ## Where to go from here?
 
