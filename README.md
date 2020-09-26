@@ -189,10 +189,11 @@ Now, hop on to [Before you commit](#before-you-commit) section to see how to che
 ### Before you commit
 
 You need to make sure that details in `json` file are correct so that when you open a Pull Request, it would be accepted. This would save last minute hassles.
+
+<img align="right" width="450" src="https://media.giphy.com/media/v2sXSvENqFtUhwWK8P/giphy.gif" alt="github username" />
+
 - the `githubId` key in the json (where the alias is `this-is-you`) is your **GitHub Username**, not your name.
  > You can get you GitHub username in many ways. Best would be to click on the upper right corner of github website where your avatar is, and open you profile and then the string below your name is your username. In your profile url (somewhat like `https://www.github.com/user`), the string user would be your username. Watch this gif, if you still don't get it. The selected text in gif is the username for you.
- 
- <img align="center" width="800" src="https://media.giphy.com/media/v2sXSvENqFtUhwWK8P/giphy.gif" alt="github username" />
 
  
  - write your bio describing yourself briefly, the deafult bio is just given as a reference (don't use it).
