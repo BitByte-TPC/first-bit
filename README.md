@@ -3,6 +3,8 @@
 ![GH Pages](https://github.com/BitByte-TPC/first-bit/workflows/GH%20Pages/badge.svg)
 ![Merge Bot](https://github.com/BitByte-TPC/first-bit/workflows/Merge%20Bot/badge.svg)
 
+---
+
 # first-bit
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We at [BitByte - The Programming Club](https://github.com/BitByte-TPC) wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -16,6 +18,8 @@ If you are a beginner and wants to get your hands dirty in Open Source, you've h
 This project is developed and maintained by [BitByte - The Programming Club](https://github.com/BitByte-TPC) to help young developers kickstart their journey to the world of Open Source. This is a very basic project where you can easily make your first contribution and learn the complete workflow of using Git and Github along the way.
 
 So, let's start with the first and the most basic step, installing **Git**.
+
+---
 
 ## Install Git
 
@@ -38,6 +42,8 @@ replacing `your-full-name` with your Full Name and `your-email@domain.com` with 
 
 Done that? Well congrats again!! :tada: Now, you're all set to start using Git on your system and make wonderful Open Source contributions. :raised_hands:
 
+---
+
 ## Fork this repository
 
 So, you've come this far. That means you're dedicated enough to make your first contribution to this repository. Amazing! :heart_eyes:
@@ -49,6 +55,8 @@ So, let's start by forking this repository. But, what exactly is *forking*, you'
 So, how would you make changes to this repository then? Well, that's where forking comes in. Forking this repository will create an exact copy of this repository in your account. And guess what, you can make any changes in that copy and send a Pull Request (we'll talk about that later) to us when you're done with making changes asking us to merge those changes into our main repository. Isn't that amazing? :grinning:
 
 So, what are your waiting for? Go ahead and Fork this repository by clicking on the fork button on the top of this page.
+
+---
 
 ## Clone the repository
 
@@ -71,6 +79,8 @@ git clone https://github.com/this-is-you/first-bit.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-bit repository on GitHub to your computer.
 
+---
+
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
@@ -88,6 +98,8 @@ For example:
 git checkout -b add-alonzo-church
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+
+---
 
 ## Make necessary changes
 
@@ -115,7 +127,7 @@ git checkout -b add-alonzo-church
 - In the file you just opened, replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio.
 - Save the file by pressing `Ctrl + s` and then close the editor.
 
-Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
+Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Before you commit](#before-you-commit) section to see how to check if your changes are going to be valid or not.
 
 ### For Windows Users
 
@@ -151,7 +163,7 @@ Congrats! :raised_hands: You've now made all the necessary changes required for 
   ```
 - Save the file by pressing `Ctrl + s` and close the notepad.
 
-Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
+Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Before you commit](#before-you-commit) section to see how to check if your changes are going to be valid or not.
 
 #### Using GUI
 
@@ -172,7 +184,7 @@ One last thing you need to do before moving on to the next step is to change dir
 cd public/directory
 ```
 
-Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live.
+Now, hop on to [Before you commit](#before-you-commit) section to see how to check if your changes are going to be valid or not.
 
 ### Before you commit
 
@@ -182,7 +194,12 @@ You need to make sure that details in `json` file are correct so that when you o
  
  <img align="center" width="800" src="https://media.giphy.com/media/v2sXSvENqFtUhwWK8P/giphy.gif" alt="github username" />
 
- - write your own bio describing yourself briefly, the deafult bio is just given as a reference.
+ 
+ - write your bio describing yourself briefly, the deafult bio is just given as a reference (don't use it).
+
+Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live. 
+ 
+---
 
 ## Commit your changes
 
@@ -212,6 +229,8 @@ where `Add this-is-you.json` is the small message you are attaching with your co
 
 Congrats!! You changes are successfully committed now and you've made a new version out of your changes. :tada: :tada:
 
+---
+
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
@@ -219,6 +238,8 @@ Push your changes using the command `git push`:
 git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+---
 
 ## Submit your changes for review
 
@@ -231,6 +252,8 @@ Now submit the pull request.
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+---
 
 ## Where to go from here?
 
