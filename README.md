@@ -196,7 +196,7 @@ You need to make sure that details in `json` file are correct so that when you o
  > You can get you GitHub username in many ways. Best would be to click on the upper right corner of github website where your avatar is, and open you profile and then the string below your name is your username. In your profile url (somewhat like `https://www.github.com/user`), the string user would be your username. Watch this gif, if you still don't get it. The selected text in gif is the username for you.
 
  
- - write your bio describing yourself briefly, the deafult bio is just given as a reference (don't use it).
+ - write your bio describing yourself briefly, the default bio is just given as a reference (don't use it).
 
 Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live. 
  
