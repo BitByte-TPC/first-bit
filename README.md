@@ -29,18 +29,18 @@ If you don't have git on your machine, [install it](https://git-scm.com/download
 
 So by now you must have successfully downloaded and installed Git on your system. Congrats! :tada: You have completed your first and the most basic step into Open Source.
 
-Now, it's time to let Git know who you really are, i.e., provide your Name and Email Address to Git. This step is important because Git attaches your identity with every commit (we'll talk about that later) you make; so that if someone comes around asking, *Hey! Who made these changes?* or *Hey! Who wrote this beautiful code?*, Git can instantly say, oh it was this guy or that lady.
+Now, it's time to let Git know who you really are, i.e., provide your Name and Email Address to Git. This step is important because Git attaches your identity with every commit you make (we'll talk about that later); so that if someone comes around asking, *Hey! Who made these changes?* or *Hey! Who wrote this beautiful code?*, Git can instantly say, oh it was this guy or that lady.
 
-To set your *username* and *email* in Git, open your Terminal (on Linux, press `Ctrl + Alt + t`) or Command Prompt (on Windows, press `Windows + r` to open Run box, type `cmd` there and hit `Enter`) and type the following comands:
+To set your *username* and *email* in Git, open your Terminal (on Linux, press `Ctrl + Alt + t`) or Command Prompt (on Windows, press `Windows + r` to open the Run box, type `cmd` there and hit `Enter`) and type the following commands:
 
 ```
 git config --global user.name "your-full-name"
 git config --global user.email "your-email@domain.com"
 ```
 
-replacing `your-full-name` with your Full Name and `your-email@domain.com` with your email address (associated with your GitHub Account).
+replacing `your-full-name` with your Full Name and `your-email@domain.com` with your email address (associated with your GitHub account).
 
-Done that? Well congrats again!! :tada: Now, you're all set to start using Git on your system and make wonderful Open Source contributions. :raised_hands:
+Done that? Well, congrats again!! :tada: Now, you're all set to start using Git on your system and make wonderful Open Source contributions. :raised_hands:
 
 ---
 
@@ -48,13 +48,13 @@ Done that? Well congrats again!! :tada: Now, you're all set to start using Git o
 
 So, you've come this far. That means you're dedicated enough to make your first contribution to this repository. Amazing! :heart_eyes:
 
-So, let's start by forking this repository. But, what exactly is *forking*, you'd ask! Well, as you don't own this repository, you cannot make any changes directly into it. Anyways, it would cause a disaster if anyone could make any changes into it, wouldn't it? Like assume, some notorious person comes and deletes this whole repository! Well what would we do then. restore the repository you'd say but why should we go through all this trouble? :information_desk_person:
+So, let's start by forking this repository. But, what exactly is *forking*, you'd ask! Well, as you don't own this repository, you cannot make any changes directly into it. Anyways, it would cause a disaster if anyone could make any changes into it, wouldn't it? Like assume, some notorious person comes and deletes this whole repository! What would we do then? "Restore the repository", you'd say, but why should we go through all this trouble? :information_desk_person:
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 So, how would you make changes to this repository then? Well, that's where forking comes in. Forking this repository will create an exact copy of this repository in your account. And guess what, you can make any changes in that copy and send a Pull Request (we'll talk about that later) to us when you're done with making changes asking us to merge those changes into our main repository. Isn't that amazing? :grinning:
 
-So, what are your waiting for? Go ahead and Fork this repository by clicking on the fork button on the top of this page.
+So, what are you waiting for? Go ahead and fork this repository by clicking on the Fork button on the top of this page.
 
 ---
 
@@ -143,7 +143,7 @@ Congrats! :raised_hands: You've now made all the necessary changes required for 
 - If a file with the same name exists in your current directory (which will not be the case unless you create one), it will be opened using notepad.
 - If not (which is our case :wink:), Windows will display a prompt saying `Do you want to create a new file?`.
 - On clicking `Yes`, a file with name `this-is-you.json` will be created in your current directory :tada: and opened using notepad.
-- Now copy the follwing text and paste it in your newly created file:
+- Now copy the following text and paste it in your newly created file:
   ```
     {
         "githubId": "this-is-you",
@@ -193,9 +193,8 @@ You need to make sure that details in `json` file are correct so that when you o
 <img align="right" width="450" src="https://media.giphy.com/media/v2sXSvENqFtUhwWK8P/giphy.gif" alt="github username" />
 
 - the `githubId` key in the json (where the alias is `this-is-you`) is your **GitHub Username**, not your name.
- > You can get you GitHub username in many ways. Best would be to click on the upper right corner of github website where your avatar is, and open you profile and then the string below your name is your username. In your profile url (somewhat like `https://www.github.com/user`), the string user would be your username. Watch this gif, if you still don't get it. The selected text in gif is the username for you.
+ > You can get you GitHub username in many ways. The best way would be to click on the upper right corner of Github website where your avatar is, and open your profile and then the string below your name is your username. In your profile url (something like `https://www.github.com/user`), the string user would be your username. Watch this gif, if you still don't get it. The selected text in the gif is the username for you.
 
- 
  - write your bio describing yourself briefly, the default bio is just given as a reference (don't use it).
 
 Now, hop on to [Commit your changes](#commit-your-changes) section to create a new version of this repository out of the changes made by you (isn't that amazing :heart_eyes:) and then make those changes live. 
@@ -204,15 +203,15 @@ Now, hop on to [Commit your changes](#commit-your-changes) section to create a n
 
 ## Commit your changes
 
-So now, let's take a look on what files you have added or modified.
+So now, let's take a look at what files you have added or modified.
 
 <img align="right" width="450" src="assets/git-status1.png" alt="git status" />
 
-To do that, go ahead and execute `git status` in you terminal or command prompt. You must get an output something like that shown in the attached screenshot.
+To do that, go ahead and execute `git status` in your terminal or command prompt. You must get an output something like that shown in the attached screenshot.
 
 See that your changes are currently untracked. Which means that Git is not currently tracking the changes in that file. This always happens when you create a new file.
 
-Go ahead and add your file to staging area so that your new file can be tracked and is ready to be committed.
+Go ahead and add your file to the staging area so that your new file can be tracked and is ready to be committed.
 
 ```
 git add this-is-you.json
@@ -220,7 +219,7 @@ git add this-is-you.json
 
 <img align="right" width="450" src="assets/git-status2.png" alt="git status" />
 
-Execute `git status` again to check that your changes are in staging area and thus, ready to be committed.
+Execute `git status` again to check that your changes are in the staging area and thus, ready to be committed.
 
 Now commit those changes using the `git commit` command:
 ```
@@ -228,7 +227,7 @@ git commit -m "Add this-is-you.json"
 ```
 where `Add this-is-you.json` is the small message you are attaching with your commit.
 
-Congrats!! You changes are successfully committed now and you've made a new version out of your changes. :tada: :tada:
+Congrats!! Your changes are successfully committed now and you've made a new version out of your changes. :tada: :tada:
 
 ---
 
@@ -265,9 +264,9 @@ If you don't see the above button, don't worry! Everything is fine. The button a
 
 And you are good to go.
 
-Now, write the short title of your PR along with a small description on what changes you made in this PR. It helps reviewers to easily review your work and give you the feedback more quickly.
+Now, write the short title of your PR along with a small description of what changes you made in this PR. It helps reviewers to easily review your work and give you the feedback more quickly.
 
-Now, submit the pull request and wait for reviewers to review you work and give you appropriate feedback.
+Now, submit the pull request and wait for reviewers to review your work and give you appropriate feedback.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
@@ -275,7 +274,7 @@ Yayyyy!!! :tada: :tada: You have successfully completed all the necessary steps 
 
 For this repository,
 - If the contribution made by you is good and you pass all tests, `github-actions` will automatically merge your changes to the main repository.
-- Otherwise, it will show you a :x: sign against your commit. On clicking on that and then on `Details`, you may find the error which occured while testing your changes and then fix that by making the new commit in your branch and pushing your changes again. You don't need to open a Pull Request again, it will automatically append your changes in the existing Pull Request as from one branch, only one Pull Request can be opened.
+- Otherwise, it will show you a :x: sign against your commit. On clicking on that and then on `Details`, you may find the error which occurred while testing your changes and then fix that by making the new commit in your branch and pushing your changes again. You don't need to open a Pull Request again, it will automatically append your changes in the existing Pull Request as from one branch, only one Pull Request can be opened.
 
 ---
 
