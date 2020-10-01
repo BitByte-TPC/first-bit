@@ -73,7 +73,7 @@ const getFile = async (result) => {
 const checkPR = async () => {
     try {
         let commits = await getCommits();
-        let commit = commits[0];
+        let commit = commits.pop();
 
         let authorId = commit.author.login;
 
