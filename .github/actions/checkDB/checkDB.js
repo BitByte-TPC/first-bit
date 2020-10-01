@@ -56,18 +56,18 @@ const fetchCommitData = async (commit) => {
     return gh.repos.getCommit(args);
 }
 
-const getFileNames = async (result) => {
+const getFile = async (result) => {
     if (!result || !result.data) {
         return;
     }
 
-    const files = [];
     result.data.files.forEach(file => {
-        console.log(file);
-        files.push(file);
+        if (file.status === 'added') {
+            return file;
+        }
     });
 
-    return files;
+    throw 'Couldn`t find any file.';
 }
 
 const checkPR = async () => {
@@ -78,12 +78,11 @@ const checkPR = async () => {
         let authorId = commit.author.login;
 
         let results = await fetchCommitData(commit);
-        let files = await getFileNames(results);
-        let file = files[0];
+        let file = await getFile(results);
         let filename = file.filename.split('/')[2];
         filename = filename.split('.')[0];
 
-        console.log({ filename, authorId });
+        console.log({ file, filename, authorId });
 
         if (filename.toLowerCase() !== authorId.toLowerCase()) {
             core.setFailed(`${filename} does not match with author id ${authorId}.`);
