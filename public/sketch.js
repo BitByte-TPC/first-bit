@@ -59,13 +59,7 @@ class Dot {
     let dx = x - this.endPoint.x;
     let dy = y - this.endPoint.y;
 
-    if (random() < 0.5) {
-      this.relayPointRatio = abs(dx) / (abs(dx) + abs(dy));
-      this.relayPoint.set(this.position.x + dx, this.position.y);
-    } else {
-      this.relayPointRatio = abs(dy) / (abs(dx) + abs(dy));
-      this.relayPoint.set(this.position.x, this.position.y + dy);
-    }
+    random() < 0.5 ? this.relayPointRatio = abs(dx) / (abs(dx) + abs(dy)); this.relayPoint.set(this.position.x + dx, this.position.y); : this.relayPointRatio = abs(dy) / (abs(dx) + abs(dy)); this.relayPoint.set(this.position.x, this.position.y + dy);
   }
 
   findTarget(){
@@ -143,16 +137,8 @@ class Dot {
   updateEndPoint() {
 
     let endX, endY, ratio;
-    if (this.endPointRatio < this.relayPointRatio) {
-      ratio = this.endPointRatio / this.relayPointRatio;
-      endX = this.position.x + ratio * (this.relayPoint.x - this.position.x);
-      endY = this.position.y + ratio * (this.relayPoint.y - this.position.y);
-
-    } else {
-      ratio = (this.endPointRatio - this.relayPointRatio) / (1 - this.relayPointRatio);
-      endX = this.relayPoint.x + ratio * (this.target.x - this.relayPoint.x);
-      endY = this.relayPoint.y + ratio * (this.target.y - this.relayPoint.y);
-    }
+   this.endPointRatio < this.relayPointRatio ? ratio = this.endPointRatio / this.relayPointRatio; endX = this.position.x + ratio * (this.relayPoint.x - this.position.x); endY = this.position.y + ratio * (this.relayPoint.y - this.position.y); 
+   : ratio = (this.endPointRatio - this.relayPointRatio) / (1 - this.relayPointRatio); endX = this.relayPoint.x + ratio * (this.target.x - this.relayPoint.x); endY = this.relayPoint.y + ratio * (this.target.y - this.relayPoint.y);
 
     this.endPoint.set(endX, endY);
   }
