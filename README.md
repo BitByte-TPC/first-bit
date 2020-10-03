@@ -144,7 +144,7 @@ Congrats! :raised_hands: You've now made all the necessary changes required for 
   ```
   (Don't forget to replace `this-is-you` with your GitHub username above)
 
-- Open your newly created file with `gedit` editor to make necessary changes.
+- Open your newly created file with `nano` editor to make necessary changes.
 
   ```
   nano ~/this-is-you.json
