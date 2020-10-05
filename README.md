@@ -129,6 +129,32 @@ git checkout -b add-alonzo-church
 
 Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Before you commit](#before-you-commit) section to see how to check if your changes are going to be valid or not.
 
+### For macOS Users
+
+- On your terminal, change directory (`cd`) to `public/directory`  (it's where you'll need to add a new file).
+
+  ```
+  cd public/directory
+  ```
+
+- Copy the template (`name.json.example`) in a new file with name `this-is-you.json` where `this-is-you` is your GitHub username.
+
+  ```
+  cp ./name.json.example ./this-is-you.json
+  ```
+  (Don't forget to replace `this-is-you` with your GitHub username above)
+
+- Open your newly created file with `nano` editor to make necessary changes.
+
+  ```
+  nano ./this-is-you.json
+  ```
+
+- In the file you just opened, replace `this-is-you` with your GitHub username, `your-name` with your Full Name and update the text in bio.
+- Save the file by pressing `Command + O` and then close the editor by pressing `Command + X`.
+
+Congrats! :raised_hands: You've now made all the necessary changes required for you to contribute to this repository and get yourself featured on the [first-bit](https://bitbyte-tpc.github.io/first-bit/) website :tada: :tada:. Now, hop on to [Before you commit](#before-you-commit) section to see how to check if your changes are going to be valid or not.
+
 ### For Windows Users
 
 #### Using Command Prompt 
