@@ -78,7 +78,7 @@ const isRenamed = (file) => {
 }
 
 const processCommitData = async (result) => {
-    debug('Processing API Response', result);
+    console.log('Processing API Response', result);
 
     if (!result || !result.data) {
         return;
