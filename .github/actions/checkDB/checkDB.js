@@ -78,7 +78,6 @@ const isRenamed = (file) => {
 }
 
 const processCommitData = async (result) => {
-    console.log('Processing API Response', result);
 
     if (!result || !result.data) {
         return;
@@ -86,7 +85,7 @@ const processCommitData = async (result) => {
 
     result.data.files.forEach(file => {
         console.log(file);
-        if (file.filename.endsWith(`${AUTHOR}.json`)) {
+        if (file.filename === `public/directory/${AUTHOR}.json`.toLowerCase()) {
             JSON_FILE = file;
             return;
         }
