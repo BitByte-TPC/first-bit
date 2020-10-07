@@ -24,7 +24,7 @@ const checkNameFile = async () => {
 
     let raw_url = JSON_FILE.raw_url;
 
-    let file = fetch(raw_url).then(res => res.text());
+    let file = await fetch(raw_url).then(res => res.text());
 
     let data;
     try {
