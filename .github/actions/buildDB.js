@@ -24,9 +24,7 @@ const build = async () => {
             await gh.getUser(data.githubId).getProfile().then( prof => {
                 data.avatar_url = prof.data.avatar_url;
                 nameDb.push(data);
-            }).catch(e){
-                console.log(e);
-            }
+            }).catch(console.log);
         }
     }
 };
