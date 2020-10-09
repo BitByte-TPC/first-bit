@@ -85,7 +85,7 @@ const processCommitData = async (result) => {
 
     result.data.files.forEach(file => {
         console.log(file);
-        if (file.filename === `public/directory/${AUTHOR}.json`.toLowerCase()) {
+        if (file.filename.toLowerCase() === `public/directory/${AUTHOR}.json`.toLowerCase()) {
             JSON_FILE = file;
             return;
         }
