@@ -21,9 +21,12 @@ const build = async () => {
         if (file.endsWith('.json')) {
             const data = require(path.join(dir, file));
 
-            const prof = await gh.getUser(data.githubId).getProfile();
-            data.avatar_url = prof.data.avatar_url;
-            nameDb.push(data);
+            await gh.getUser(data.githubId).getProfile().then( prof => {
+                data.avatar_url = prof.data.avatar_url;
+                nameDb.push(data);
+            }).catch(e){
+                console.log(e);
+            }
         }
     }
 };
