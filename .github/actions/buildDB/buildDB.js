@@ -18,7 +18,7 @@ const build = async () => {
             const data = require(path.join(dir, file));
             
             await gh.users.getByUsername({username: data.githubId}).then(prof => {
-                data.avatar_url = prof.avatar_url;
+                data.avatar_url = prof.data.avatar_url;
                 nameDb.push(data);
             }).catch(console.log);
         }
