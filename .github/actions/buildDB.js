@@ -1,16 +1,12 @@
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
-const GitHub = require('github-api');
 const core = require('@actions/core');
 
 const dir = path.join(__dirname, '..', '..', 'public', 'directory');
 const files = fs.readdirSync(dir);
 
-const gh = new GitHub({
-    token: process.env.GITHUB_TOKEN,
-});
-
+const gh = github.getOctokit(process.env.GITHUB_TOKEN);
 const nameDb = [];
 
 const build = async () => {
@@ -20,9 +16,9 @@ const build = async () => {
 
         if (file.endsWith('.json')) {
             const data = require(path.join(dir, file));
-
-            await gh.getUser(data.githubId).getProfile().then( prof => {
-                data.avatar_url = prof.data.avatar_url;
+            
+            await gh.users.getByUsername({username: data.githubId}).then(prof => {
+                data.avatar_url = prof.avatar_url;
                 nameDb.push(data);
             }).catch(console.log);
         }
