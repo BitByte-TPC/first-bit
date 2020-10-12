@@ -2,7 +2,7 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const core = require('@actions/core');
-
+const github = require('@actions/github');
 const dir = path.join(__dirname, '..', '..', 'public', 'directory');
 const files = fs.readdirSync(dir);
 
