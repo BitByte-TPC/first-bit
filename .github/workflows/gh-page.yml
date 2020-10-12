@@ -15,16 +15,20 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    
-    - name: Build DB and static site 
-      uses: actions/setup-node@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.AVATAR_TOKEN }}
-    - run: yarn install
-    - run: node .github/actions/buildDB.js
-    - run: yarn run build
 
+    - name: Yarn install
+      uses: actions/setup-node@v1
     
+    - run: yarn install
+
+    - name: Build DB
+      uses: ./.github/actions/buildDB
+      with:
+        GITHUB_TOKEN: ${{ secrets.AVATAR_TOKEN }}
+
+    - name: Build static site
+      run: yarn run build
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:

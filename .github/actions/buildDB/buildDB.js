@@ -3,10 +3,10 @@ const fs = require('fs');
 const path = require('path');
 const core = require('@actions/core');
 const github = require('@actions/github');
-const dir = path.join(__dirname, '..', '..', 'public', 'directory');
+const dir = path.join(__dirname, '..', '..', '..', 'public', 'directory');
 const files = fs.readdirSync(dir);
 
-const gh = github.getOctokit(process.env.GITHUB_TOKEN);
+const gh = github.getOctokit(core.getInput('GITHUB_TOKEN', { required: true }));
 const nameDb = [];
 
 const build = async () => {
@@ -26,7 +26,7 @@ const build = async () => {
 };
 
 build().then(() => {
-    fs.writeFileSync(path.join(__dirname, '..', '..', 'public', 'nameDB.json'), JSON.stringify(nameDb));
+    fs.writeFileSync(path.join(__dirname, '..', '..', '..', 'public', 'nameDB.json'), JSON.stringify(nameDb));
 }).catch(e => {
     core.setFailed(`Failed to compile a DB, \n${e.message} `);
 })

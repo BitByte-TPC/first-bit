@@ -1,0 +1,8 @@
+name: "Build DB"
+description: "Compiles separate files into one json file"
+inputs:
+  GITHUB_TOKEN:
+    description: "The GITHUB_TOKEN secret"
+runs:
+  using: "node12"
+  main: "buildDB.js"
