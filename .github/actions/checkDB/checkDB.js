@@ -125,7 +125,7 @@ const processCommitData = async (result) => {
 
 const checkFiles = async () => {
     console.log({ FILES_ADDED, FILES_MODIFIED, FILES_REMOVED, FILES_RENAMED });
-    if (FILES_ADDED.length > 0 || FILES_MODIFIED.length > 0 || FILES_RENAMED.length > 0 || FILES_REMOVED.length > 0) {
+    if (FILES_ADDED.size > 0 || FILES_MODIFIED.size > 0 || FILES_RENAMED.size > 0 || FILES_REMOVED.size > 0) {
         core.setFailed('PR has extra modified/added/deleted/renamed files.');
         return;
     }
