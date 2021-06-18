@@ -310,8 +310,6 @@ Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflo
 
 Celebrate your contribution and share it with your friends and followers on [Twitter](https://twitter.com/intent/tweet?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20first%2Dbit.%20You%20can%20too%20at%20https%3A//github.com/bitbyte-tpc/first-bit%0A&hashtags=OpenSource,CodeNewbie), [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/bitbyte-tpc/first-bit&quote=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20first%2Dbit.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https%3A//github.com/bitbyte-tpc/first-bit&hashtag=%23OpenSource) and [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/bitbyte-tpc/first-bit&title=first%2Dbit%20&summary=A%20project%20to%20help%20beginners%20get%20started%20with%20contributing%20to%20open%20source&source=https://github.com/bitbyte-tpc/first-bit).
 
-You could join our Discord server in case you need any help or have any questions. [Join Discord server](https://discord.gg/42KgFmJ).
-
 Now let's get you started with contributing to other projects. We've compiled a list of resources and projects with easy issues you can get started on. Check out the following links:
 - [Choosing Projects - GitHub](https://github.com/collections/choosing-projects)
 - [Open Source Guides](https://opensource.guide/)

@@ -7,7 +7,6 @@ newIssueWelcomeComment: |
   Thanks for opening your first issue! 
   Please follow the issue template to help us help you 👍🎉😄
   If you have screenshots or a gif to share demonstrating the issue, that's really helpful! 📸
-  Do join our [discord channel](https://discord.gg/42KgFmJ) for some brainstorming discussions. 
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
@@ -15,7 +14,6 @@ newIssueWelcomeComment: |
 newPRWelcomeComment: |
  Thanks for opening this pull request!  
  There may be some errors, **but don't worry!** We'll work through them with you! 👍🎉😄
- Do join our [discord channel](https://discord.gg/42KgFmJ) for some brainstorming discussions. 
  
  ![welcome](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
   
@@ -28,9 +26,7 @@ firstPRMergeComment: |
  ![cheers](https://media.giphy.com/media/f9RzoxHizH72k15FKS/giphy.gif)
  
  Now that you've completed this, you can help someone else take their first step!
- <details>
- <summary><b>Help others take their first step</b></summary>
- <p>Now that you've merged your first pull request, you're the perfect person to help someone else out with this challenging first step. 🙌 </p>
- <p>Join our <a href="https://discord.gg/42KgFmJ">discord channel</a>, and see if someone else is waiting for feedback, or even stuck! 😕 </p>
- <p>People often get stuck at the same steps, so you might be able to help someone get unstuck, or help lead them to some documentation that'd help. Reach out and be encouraging and friendly! 😄 🎉 </p>
- </details>
+
+ If you liked this project, share about this project in your groups and communities.
+
+ Feel free to open an issue or even a PR, if there's something we you can improve about this project.
