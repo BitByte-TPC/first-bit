@@ -1,0 +1,3776 @@
+[33mcommit a87f8bd30c0e15f0ab40297a158108b26692223b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32ma=master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msuchendra_charith[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 7034182 833eafe
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:59:09 2025 +1000
+
+    Merge pull request #367 from xmwriam/animation
+    
+    added mari's message
+
+[33mcommit 7034182bae05f1fdd4866afad6f58ecabd86fbb1[m
+Merge: 0583362 aa56429
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:58:38 2025 +1000
+
+    Merge pull request #326 from AyushNarsian/animation
+    
+    added Narsian's message
+
+[33mcommit 0583362c8bbde729d95f0ad050c04833554dda84[m
+Merge: 8500f91 f2b6fca
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:55:51 2025 +1000
+
+    Merge pull request #358 from shounakpatil/animation
+    
+    Added shounakpatil.json
+
+[33mcommit 8500f91bc4194c4ef61b51c689809b84cb3a35f3[m
+Merge: 825e065 58c45df
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:54:25 2025 +1000
+
+    Merge pull request #388 from ShashaankS/animation
+    
+    new file added - #Shashaank04.json
+
+[33mcommit 825e0656a323134bf9387072e77adb5f0298118f[m
+Merge: af83bd7 6038965
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:53:41 2025 +1000
+
+    Merge pull request #391 from Siddharth091/master
+    
+    added siddharth.json
+
+[33mcommit af83bd77a88877b25c6511664e9bea3dc79c3421[m
+Merge: f5fd665 fbdfc4b
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:53:30 2025 +1000
+
+    Merge pull request #392 from tanny1357/master
+    
+    love u bitbyte tpc
+
+[33mcommit f5fd6656304004cd226490711bfb68410786e69b[m
+Merge: e47c475 19dc4f7
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:52:48 2025 +1000
+
+    Merge pull request #394 from Harshrj1502/animation
+    
+    i have successfully added my file
+
+[33mcommit e47c4759312645d5c6fcaaffbe38de887e33e0d1[m
+Merge: 3c74924 241f2e7
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:52:28 2025 +1000
+
+    Merge pull request #395 from Flashl3opard/Yash
+    
+    Submitted by Yash Sheorey
+
+[33mcommit 3c74924b7abc6058c11541da39a3c0d5039f54d4[m
+Merge: 28457a5 7c615a5
+Author: Om Thorat <76207818+Om-Thorat@users.noreply.github.com>
+Date:   Mon Apr 14 20:52:04 2025 +1000
+
+    Merge pull request #400 from abhijeetw035/Abhijeet
+    
+    Added Abhijeet.json
+
+[33mcommit 7c615a506e15384d54b55e5e8a3b5ef421b52f5c[m
+Author: abhijeetw035 <abhijeetw035@gmail.com>
+Date:   Mon Apr 14 11:48:04 2025 +0530
+
+    Added Abhijeet.json
+
+[33mcommit 28457a59efbd70da6188570489813c9bc371cb86[m
+Author: Om Thorat <thoratom1104@gmail.com>
+Date:   Mon Apr 14 10:52:09 2025 +0530
+
+    fix: Deploy workflow and error handling in builDb.js
+
+[33mcommit 58c45df69251607205c849c6d1f1bdc3a77afc82[m
+Author: ShashaankS <shashaank.srivastava04@gmail.com>
+Date:   Mon Apr 22 01:15:18 2024 +0530
+
+    new file added - #Shashaank04.json
+
+[33mcommit 241f2e7d708345c014abcf7126028e02c5eb3c29[m
+Author: Flashl3opard <sheoreyyash@gmail.com>
+Date:   Sun Apr 21 21:54:05 2024 +0530
+
+    Submitted by Yash Sheorey
+
+[33mcommit f2b6fca3b183059b7dd5af5464145b972597da3d[m
+Author: shounakpatil <shounakpatil77@gmail.com>
+Date:   Sun Apr 21 20:23:09 2024 +0530
+
+    Itna bada commitment kyu chahiye
+
+[33mcommit 60389651b5531ab97b6f0f17fa4aff4644469475[m
+Author: Siddharth091 <sbj2835@gmail.com>
+Date:   Sun Apr 21 20:06:14 2024 +0530
+
+    added siddharth.json
+
+[33mcommit aa564294a3c01a8ef074ba8457ee587dedf4695f[m
+Author: AyushNarsian <ayushnarsian@yahoo.com>
+Date:   Sun Apr 21 19:49:22 2024 +0530
+
+    added
+
+[33mcommit fbdfc4b380c4e9815096d823c51865a0946341b7[m
+Author: tanny1357 <tanmay.wani1357@gmail.com>
+Date:   Sun Apr 21 19:47:12 2024 +0530
+
+    love u bitbyte tpc
+
+[33mcommit 19dc4f7dfa44af8a07629e80732f4059c17ac41b[m
+Author: Harshrj1502 <harshrj1501@gmail.com>
+Date:   Sun Apr 21 19:46:21 2024 +0530
+
+    i have successfully added my file
+
+[33mcommit 833eafe7dacba96c98b9e37e8d04f4a28d5c7478[m
+Author: xmwriam <eqbalmariam@gmail.com>
+Date:   Sun Apr 21 19:46:04 2024 +0530
+
+    added mari's message
+
+[33mcommit 4a9761759d386ce40c13a7e5f09e32eab23de829[m
+Author: shounakpatil <shounakpatil77@gmail.com>
+Date:   Sun Apr 21 19:45:18 2024 +0530
+
+    Hope this commitment wont hurt
+
+[33mcommit ef9c2fa4ad85ec27b8380bda848338ba074d12d3[m
+Author: Snarky-posiedon <128700035+Snarky-posiedon@users.noreply.github.com>
+Date:   Sat Apr 1 03:40:56 2023 +0530
+
+            new file:   public/directory/ParishkritChandra.json (#233)
+    
+    Co-authored-by: Snarky-posiedon <parishkritchandra23@email.com>
+
+[33mcommit aacf8b789c6bf883386594ca620c7d89c30f1445[m
+Author: Eshaan Modi <119070798+NightFury742@users.noreply.github.com>
+Date:   Sat Apr 1 03:40:35 2023 +0530
+
+    Please add my changes to your project (#232)
+    
+    * eshaanmodi.json added
+    
+    * changes in public/index.html reverted
+
+[33mcommit ff39a3a8696ab2e3c2a5069459330b851bfa0253[m
+Author: RISHIKESHk07 <117551967+RISHIKESHk07@users.noreply.github.com>
+Date:   Sat Apr 1 03:40:06 2023 +0530
+
+    Rishikeshk.json (#231)
+
+[33mcommit 0d730026871dd32da04d603216e5771bb73996f2[m
+Author: Divij Sharma <119073504+dvjsharma@users.noreply.github.com>
+Date:   Sat Apr 1 03:39:44 2023 +0530
+
+    added by shi (#234)
+
+[33mcommit 44f49c15eb625278f0ec6255877e16b887af6628[m
+Author: Zaid Alam <113824146+Predcodes69@users.noreply.github.com>
+Date:   Sat Apr 1 03:39:21 2023 +0530
+
+            new file:   public/directory/Zaid-Alam.json (#235)
+
+[33mcommit 71fc5a5ef9a74bb22d46bdfb0da07208c12b8775[m
+Author: Akash Paloju <119884665+AkashPaloju@users.noreply.github.com>
+Date:   Sat Apr 1 03:39:04 2023 +0530
+
+    added aakash.json (#236)
+
+[33mcommit f7442b30670b89ca39cd7e6a23a4d80b7636cb52[m
+Author: Prajjwal kapoor <68912239+prajjwalkapoor@users.noreply.github.com>
+Date:   Sat Apr 1 03:38:52 2023 +0530
+
+    added prajjwal.json (#237)
+
+[33mcommit 286434d2ca2092bc64a623da5a91138e818896e8[m
+Author: vishalverma9572 <129514369+vishalverma9572@users.noreply.github.com>
+Date:   Sat Apr 1 03:38:43 2023 +0530
+
+    added vishal_verma.json (#238)
+
+[33mcommit cc3b540dd508a45edcfa50d87af8b77c237e6ebd[m
+Author: adityaghai07 <119144814+adityaghai07@users.noreply.github.com>
+Date:   Sat Apr 1 03:38:26 2023 +0530
+
+    added aditya_ghai.json (#239)
+
+[33mcommit e9c68eff24d275035b7aa6a66baa18031f25eb68[m
+Author: nehalsarraf3 <129504865+nehalsarraf3@users.noreply.github.com>
+Date:   Sat Apr 1 03:38:15 2023 +0530
+
+    added nehal-sarraf.json (#240)
+
+[33mcommit 87569b472959a96a42c147f66ff51282d5737021[m
+Author: Gauri Parkhedkar <119090063+gauri1024@users.noreply.github.com>
+Date:   Sat Apr 1 03:38:05 2023 +0530
+
+    added gaurip1024 (#241)
+
+[33mcommit 457c973b7cefefb38e95a57e520c1b52fc0e6366[m
+Author: abansal15 <120590200+abansal15@users.noreply.github.com>
+Date:   Sat Apr 1 03:37:55 2023 +0530
+
+    added ajay-bansal.json (#242)
+
+[33mcommit 18bac67bd969fb0680f9f5c5457942a698de3d2b[m
+Author: Utkarsh Baranwal <120746219+Baranwal-47@users.noreply.github.com>
+Date:   Sat Apr 1 03:37:45 2023 +0530
+
+    added Utkarsh_Baranwal.json (#243)
+    
+    * added Utkarsh_Baranwal.json
+    
+    * added Utkarsh_Baranwal.json
+
+[33mcommit 94e8ef3fc18d719e48d8dbd93b633df064b68e03[m
+Author: shramanpaul <110323017+shramanpaul@users.noreply.github.com>
+Date:   Sat Apr 1 03:37:33 2023 +0530
+
+    added shraman_paul.json (#245)
+    
+    Co-authored-by: shraman <22bcs229@iiitdmj.ac.in>
+
+[33mcommit 14160ee176c2cf82b583a606d9abbcaecbe25e29[m
+Author: rishigodre <128516087+rishigodre@users.noreply.github.com>
+Date:   Sat Apr 1 03:37:15 2023 +0530
+
+    added rishigodre.json (#244)
+
+[33mcommit 64b5647663611b21a150b69dddbcd3864b10188d[m
+Author: palakgarg19 <128913984+palakgarg19@users.noreply.github.com>
+Date:   Sat Apr 1 03:36:57 2023 +0530
+
+    added PalakGarg.json (#246)
+
+[33mcommit 175a447f5720f96d43a85307d67507d95d11d0ff[m
+Author: Kritika K. Sharma <128512600+kritikasharma4@users.noreply.github.com>
+Date:   Sat Apr 1 03:36:47 2023 +0530
+
+    added kritika-sharma.json (#247)
+
+[33mcommit da7c896054c8fbc0f50b3bf4207eb44dc8537f29[m
+Author: Shreyans2004 <128773151+Shreyans2004@users.noreply.github.com>
+Date:   Sat Apr 1 03:36:36 2023 +0530
+
+    added shreyanskatariya.json (#248)
+
+[33mcommit 2aa98d2dde86c770080f6159de4baa9b030c0de4[m
+Author: sagarkori143 <129517558+sagarkori143@users.noreply.github.com>
+Date:   Sat Apr 1 03:36:24 2023 +0530
+
+    added sagar.json (#249)
+
+[33mcommit 64da73ad980329246b0d68885a841b8dc8e1692c[m
+Author: jyotiduhan2004 <129490048+jyotiduhan2004@users.noreply.github.com>
+Date:   Sat Apr 1 03:36:10 2023 +0530
+
+    added jyoti.json (#250)
+
+[33mcommit 615c1093adbb539b73601f355dcead58d86b9170[m
+Author: Kaustubh8856 <129094688+Kaustubh8856@users.noreply.github.com>
+Date:   Sat Apr 1 03:35:57 2023 +0530
+
+    added KSW.json (#252)
+
+[33mcommit e6e89d1c5d5c7800a454cb00379adfd6ce2af32b[m
+Author: Divyansh Bisht <115489768+dcoder13@users.noreply.github.com>
+Date:   Sat Apr 1 03:35:40 2023 +0530
+
+    oye hoye ji bhaut commit shummit krre ho aap (#253)
+
+[33mcommit e7cba344fb11e90fa71b1224046dcee6cfc41c7a[m
+Author: Utkarsh-Purohit <129503848+Utkarsh-Purohit@users.noreply.github.com>
+Date:   Sat Apr 1 03:35:26 2023 +0530
+
+    added Utkarsh-purohit (#264)
+
+[33mcommit 10747ee08c15e2ee8ffc2da30164ac55c9a2eebd[m
+Author: idlidosa1206 <128808814+idlidosa1206@users.noreply.github.com>
+Date:   Sat Apr 1 03:34:42 2023 +0530
+
+    added uttarakamat.json (#254)
+
+[33mcommit 03914db423e041647bbefe1574908b7cb74c2045[m
+Author: abhijayrawat <128585063+abhijayrawat@users.noreply.github.com>
+Date:   Sat Apr 1 03:34:28 2023 +0530
+
+    added abhijay-rawat.json (#255)
+
+[33mcommit abc9307c1df559635b1e6a502f5216cee31c385e[m
+Author: dotniiko <115548274+dotniiko@users.noreply.github.com>
+Date:   Sat Apr 1 03:34:16 2023 +0530
+
+    added himanshu_k.json (#265)
+
+[33mcommit b8f38c00ba3b6ed6bdffe089e5ffc40a522ba893[m
+Author: ojasvatomar47 <129509980+ojasvatomar47@users.noreply.github.com>
+Date:   Sat Apr 1 03:34:05 2023 +0530
+
+    Added OjasvaTomar.json (#266)
+
+[33mcommit 0985d49be16a979d6605da8e49aa142deb7ed45d[m
+Author: aarav0012 <128894052+aarav0012@users.noreply.github.com>
+Date:   Sat Apr 1 03:33:52 2023 +0530
+
+    Aarav branch (#267)
+    
+    * added aarav-jain.json
+    
+    * added aarav-jain.json
+    
+    ---------
+    
+    Co-authored-by: aarav0012 <aaravjainjn@email.com>
+
+[33mcommit 8ad30739f23f2af10916dbc92199dfdf178d09aa[m
+Author: Bhanu725 <121854237+Bhanu725@users.noreply.github.com>
+Date:   Sat Apr 1 03:33:40 2023 +0530
+
+    added Bhanu.json (#268)
+
+[33mcommit 8a2e5d9dfd70cab5c008b1697054681d3df03c55[m
+Author: krushn-a <111559776+krushn-a@users.noreply.github.com>
+Date:   Sat Apr 1 03:33:28 2023 +0530
+
+    first commit (#270)
+
+[33mcommit 2ccb84fb63834f5c347b2438a492f33254761ba7[m
+Author: anshikkay <129502224+anshikkay@users.noreply.github.com>
+Date:   Fri Mar 31 22:15:07 2023 +0530
+
+    added anshika.json (#269)
+
+[33mcommit d63c1c95964ed6d2519a7c4b740ad779a68eca24[m
+Author: Code-eat-sleep-include <127587390+Code-eat-sleep-include@users.noreply.github.com>
+Date:   Fri Mar 31 22:14:16 2023 +0530
+
+    added NiharikaShah.json (#271)
+    
+    Co-authored-by: Niharika Shah <shahniharikagujju@gmail.com>
+
+[33mcommit 1ffccf700d1d0ae1c33edc5b655edf2c1100ea7d[m
+Author: Jasminej5220 <129514844+Jasminej5220@users.noreply.github.com>
+Date:   Fri Mar 31 22:13:50 2023 +0530
+
+    added jasminejayaswal.json (#272)
+
+[33mcommit f10004406f37af649d547ee5c4dedb571e30d3d3[m
+Author: uphadeharsh45 <128834201+uphadeharsh45@users.noreply.github.com>
+Date:   Fri Mar 31 22:13:24 2023 +0530
+
+    added Harsh-Uphade.json (#273)
+
+[33mcommit e5ee1d63d9b9928e36f9d6b93d854556b1cbdb34[m
+Author: ASHWIN MILIND KOTHAWADE <119505514+ashwinkothavade@users.noreply.github.com>
+Date:   Fri Mar 31 22:12:26 2023 +0530
+
+    Ashwink (#274)
+    
+    * added ashwink.json
+    
+    * added ashwink
+
+[33mcommit 80438238b8edac9999a0f806f9eed951e0edef5e[m
+Author: Aditya Kumar <105804332+ex2uply@users.noreply.github.com>
+Date:   Fri Mar 31 22:11:14 2023 +0530
+
+    added aditya005.json (#301)
+
+[33mcommit 2221d05927e1764151de19c2edb03e1bbd450ae7[m
+Author: The-Ajinkya <120747007+The-Ajinkya@users.noreply.github.com>
+Date:   Fri Mar 31 22:03:49 2023 +0530
+
+    add my name file (#275)
+
+[33mcommit 4e3ecd5230582d4c1134268e64644acc0bbfb378[m
+Author: Agrim2112 <128930038+Agrim2112@users.noreply.github.com>
+Date:   Fri Mar 31 22:03:33 2023 +0530
+
+    added Agrim.json (#276)
+
+[33mcommit c9c0829e8479dcfabed73f0a53b18dd4087d8f6b[m
+Author: Samriddhi Sharma <119089542+Samriddhi35@users.noreply.github.com>
+Date:   Fri Mar 31 22:03:10 2023 +0530
+
+    added samriddhi.json (#277)
+
+[33mcommit 60d97246da1c830c849264feeae002a5b7160b62[m
+Author: Kushdapush <129064700+Kushdapush@users.noreply.github.com>
+Date:   Fri Mar 31 22:02:00 2023 +0530
+
+    Kush branch (#278)
+
+[33mcommit 858bd1a045d6df4f0b2387e227293ffa7e7a9562[m
+Author: Itzhars <129524391+Itzhars@users.noreply.github.com>
+Date:   Fri Mar 31 09:31:10 2023 -0700
+
+    new commit (#279)
+
+[33mcommit 2c137890f4d9eb358543a4990e26f4782c3dfd1a[m
+Author: dakshata03 <128856294+dakshata03@users.noreply.github.com>
+Date:   Fri Mar 31 22:00:19 2023 +0530
+
+    added to dakshata.json (#280)
+    
+    Co-authored-by: DAKSHATA <dakshataborse30@gmail.com>
+
+[33mcommit 04697c4d1d62ccafc5d8448055bc0b559a001f95[m
+Author: Sayali <124203472+say2410@users.noreply.github.com>
+Date:   Fri Mar 31 21:59:34 2023 +0530
+
+    added sayali.json (#281)
+
+[33mcommit 3e4e64256b5cc08a202882b7eb28f3105721e4ac[m
+Author: parthksingh1 <128512586+parthksingh1@users.noreply.github.com>
+Date:   Fri Mar 31 21:58:49 2023 +0530
+
+    added parthksingh.json (#282)
+
+[33mcommit f04461b807c4204e284bd5a292dccf74acf8c781[m
+Author: yash-G-22 <129523179+yash-G-22@users.noreply.github.com>
+Date:   Fri Mar 31 21:58:31 2023 +0530
+
+    added yash-gupta.json (#283)
+
+[33mcommit cd646073a6bbaecdff232b8341e3776c90c65dda[m
+Author: Pitamber <129520458+whizzy23@users.noreply.github.com>
+Date:   Fri Mar 31 21:58:08 2023 +0530
+
+    Add My Name File (#284)
+    
+    * Initial Commit
+    
+    * Second commit
+
+[33mcommit 410670344f6d6ce458485f2cdf2e93eaf347b495[m
+Author: Pratik Solanki <128511266+Pratik2026@users.noreply.github.com>
+Date:   Fri Mar 31 21:57:45 2023 +0530
+
+    added Pratik-Solanki.json (#285)
+
+[33mcommit 6a979d99fec1f6a05b71b2a2cda5954703286056[m
+Author: Sakshi-Singhroha <128807757+Sakshi-Singhroha@users.noreply.github.com>
+Date:   Fri Mar 31 21:57:19 2023 +0530
+
+    added sakshi.json (#286)
+    
+    Co-authored-by: singhroha <singhroha@sakshi.com>
+
+[33mcommit d953afd9d4e827852fe7a9418eac4abb664ca14e[m
+Author: REC-1104 <127714898+REC-1104@users.noreply.github.com>
+Date:   Fri Mar 31 21:56:56 2023 +0530
+
+    added Dhruv_Parmar.json (#287)
+
+[33mcommit ff8fc8c3ad76e8759697a3cae45a8b50b958fc1c[m
+Author: Ishan Sharma <128961482+emperial-ishan@users.noreply.github.com>
+Date:   Fri Mar 31 21:56:32 2023 +0530
+
+    new commit (#288)
+
+[33mcommit 7d8b597a09784fda7543604f6c3e174b298f70b8[m
+Author: vikas1221149 <129517801+vikas1221149@users.noreply.github.com>
+Date:   Fri Mar 31 21:54:26 2023 +0530
+
+    adding (#289)
+
+[33mcommit 6e844037c248207720f97e9812660ec6ce2ce7f2[m
+Author: tanu-shree29 <111628468+tanu-shree29@users.noreply.github.com>
+Date:   Fri Mar 31 21:54:09 2023 +0530
+
+    added tanushree.jsn (#290)
+    
+    Co-authored-by: Tanushree <tanushreelko253@gmail.com~>
+
+[33mcommit 69f078a620075fae8bc86dc0a54d1ee7a301a1e9[m
+Author: Akash Paloju <119884665+AkashPaloju@users.noreply.github.com>
+Date:   Fri Mar 31 21:53:48 2023 +0530
+
+    added aakash.json (#291)
+
+[33mcommit 269ebf20bede7f1e281358617b7ac778e1eb75c2[m
+Author: Kamal Satwani <119106207+kamalHacker@users.noreply.github.com>
+Date:   Fri Mar 31 21:53:20 2023 +0530
+
+    added KamalSatwani.json (#292)
+    
+    * added KamalSatwani.json
+    
+    * added KamalSatwani.json
+
+[33mcommit 14517e583aa07c0948676f456ea2763dec0e226d[m
+Author: Prateek Jha <128575393+prateekjha1204@users.noreply.github.com>
+Date:   Fri Mar 31 21:52:13 2023 +0530
+
+    added prateek.json (#293)
+    
+    Co-authored-by: Prateek Jha <prateekjha1204gmail.com>
+
+[33mcommit 2e83a2fc4bc81a1b57ee3764bfdf279265c89312[m
+Author: PKB012 <129523173+PKB012@users.noreply.github.com>
+Date:   Fri Mar 31 21:51:54 2023 +0530
+
+    new (#294)
+    
+    * updating
+    
+    * updatethis
+
+[33mcommit 5d534e4b3d2f6975f59c54aad177545b1cf621f4[m
+Author: pri-yanka3005 <129520225+pri-yanka3005@users.noreply.github.com>
+Date:   Fri Mar 31 21:51:18 2023 +0530
+
+    added priyanka.json (#295)
+
+[33mcommit 0cba5aa7f4eed022bd8667ed82d5d6ae6616d03a[m
+Author: Aditya Kumar <105804332+ex2uply@users.noreply.github.com>
+Date:   Fri Mar 31 21:50:47 2023 +0530
+
+    added aditya005.json (#296)
+
+[33mcommit eba68523c705ac45e39f7236bca70e5e475e9dd3[m
+Author: arshsinha22 <128474911+arshsinha22@users.noreply.github.com>
+Date:   Fri Mar 31 21:50:26 2023 +0530
+
+    added Arsh-Sinha-dev.json (#298)
+
+[33mcommit e217c1f73ebd4a9f6cf93b4d44ccb095e5009af3[m
+Author: Joyee2004 <128905872+Joyee2004@users.noreply.github.com>
+Date:   Fri Mar 31 21:46:59 2023 +0530
+
+    added joyee.json (#299)
+
+[33mcommit 061737b7cf3802fef03321f76a550c086e40f4d4[m
+Author: akshay-20 <128886753+akshay-20@users.noreply.github.com>
+Date:   Fri Mar 31 21:46:40 2023 +0530
+
+    added akshayparewa.json (#300)
+    
+    Co-authored-by: akshay <akshayparewa00@gmail.com>
+
+[33mcommit 7f55bd05967fd5d574a1c249451c93105eff18bb[m
+Author: HarshRange <115213858+HarshRange@users.noreply.github.com>
+Date:   Fri Mar 31 20:34:23 2023 +0530
+
+    lmao (#297)
+
+[33mcommit ded034b55c18593646fc1a3219991dcdff173003[m
+Author: 5hiV2anSh <83578233+5hiV2anSh@users.noreply.github.com>
+Date:   Fri Mar 31 20:32:22 2023 +0530
+
+    added shivanshfulper.json (#256)
+
+[33mcommit b826f27fc550a74b538570799e3cfb1dc5e52416[m
+Author: Hardik Vardaan <37293677+AtOM18@users.noreply.github.com>
+Date:   Fri Mar 31 20:31:55 2023 +0530
+
+    added sigma male (#257)
+
+[33mcommit d7480385ed8a6078b617993af1496b50772f7b05[m
+Author: HarshiLMalani07 <129523897+HarshiLMalani07@users.noreply.github.com>
+Date:   Fri Mar 31 20:31:12 2023 +0530
+
+    added HarshiL-Malani.json (#258)
+
+[33mcommit e9a85180500c01274ff777d77715e854cfa196be[m
+Author: enigmasoul <129493911+enigmasoul@users.noreply.github.com>
+Date:   Fri Mar 31 20:31:02 2023 +0530
+
+    Added Ramgopal16.json (#259)
+
+[33mcommit 6627c1e23c04024248815c5ceebedbd3fd2b3217[m
+Author: theDRB123 <119250923+theDRB123@users.noreply.github.com>
+Date:   Fri Mar 31 20:30:45 2023 +0530
+
+    Dhruv (#260)
+    
+    * hue hue hue
+    
+    * hue hue hue
+
+[33mcommit 0ddcd3b0827fa48c0742554780b0d1e575cafedd[m
+Author: Stuti-soni <128817840+Stuti-soni@users.noreply.github.com>
+Date:   Fri Mar 31 20:28:00 2023 +0530
+
+    Stuti branch (#261)
+    
+    * added Stuti-soni
+    
+    * added stuti-soni.json
+    
+    ---------
+    
+    Co-authored-by: stuti <stutisoni123@gmail.com>
+
+[33mcommit 587de4d9e27e74bd4c7fb39242262cd4890de4ca[m
+Author: Charan2437 <129493881+Charan2437@users.noreply.github.com>
+Date:   Fri Mar 31 20:27:11 2023 +0530
+
+    added charan.json (#262)
+
+[33mcommit 2b03f515cadff2563ba0a7f83e6f6a38f70219d4[m
+Author: Sahil09722 <129095544+Sahil09722@users.noreply.github.com>
+Date:   Fri Mar 31 20:26:22 2023 +0530
+
+    added sahilrampurkar.json (#263)
+
+[33mcommit 85a83c0b27b162be954498a9d22d17e15ee57306[m
+Author: AKASH KUMAR SAH <73382164+Akashsah2003@users.noreply.github.com>
+Date:   Fri Mar 31 20:25:52 2023 +0530
+
+    Mai aa gya (#251)
+
+[33mcommit 778a5533d44bd1ab2b18c1101308f40372d9558d[m
+Merge: 22cab00 c4dbc83
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:32:08 2022 +0530
+
+    Merge pull request #163 from mittalvansh/Vansh_Mittal
+    
+    Added Vansh_Mittal.json
+
+[33mcommit 22cab00e22d18b4acbfd849b4f56fd2d9ed92a29[m
+Merge: 549203d 3292498
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:57 2022 +0530
+
+    Merge pull request #165 from Mojo-03/add-main
+    
+    Add Mojo-03.json
+
+[33mcommit 549203df33f153813678fa2c4b9df7c11e94184a[m
+Merge: 11d05d4 ae0747c
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:51 2022 +0530
+
+    Merge pull request #166 from rush1ke5h-010/rushikesh-shinde
+    
+    Adding my first commit
+
+[33mcommit 11d05d468de2d270899f216bbafa8d3e1e42ceb7[m
+Merge: 29d450e f5f61bf
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:42 2022 +0530
+
+    Merge pull request #167 from Tusharjain123/tushar_jain
+    
+    Added a new json file
+
+[33mcommit 29d450e818e6c65f062bc8f2d802de7feec0f205[m
+Merge: 0ab334b 48da2f2
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:37 2022 +0530
+
+    Merge pull request #168 from Prajwalrayal/rayal
+    
+    add rayal.json
+
+[33mcommit 0ab334b67a05d9bb904df25784474baeb0b5f110[m
+Merge: ef76199 8cd474d
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:31 2022 +0530
+
+    Merge pull request #169 from Daksh119/xyz
+    
+    Add Daksh119.json
+
+[33mcommit ef761997e33b6b68c2e2b3d65b4f0c3c3d76be8c[m
+Merge: ee41480 e12e7b8
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:24 2022 +0530
+
+    Merge pull request #170 from vijayjatin7/jatin
+    
+    my first commit
+
+[33mcommit ee41480248d0dcf320e9fc68ed6bf2cdda1f1b58[m
+Merge: 85fe820 ec12fd5
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:17 2022 +0530
+
+    Merge pull request #171 from user-ank/firstbitnew
+    
+    commmiting first
+
+[33mcommit 85fe8202d5918bb3b73c076fac303262f4c7eebc[m
+Merge: 8a1a569 e55358d
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:10 2022 +0530
+
+    Merge pull request #162 from nitin2606/nitin-maurya
+    
+    Add nitin2606.json
+
+[33mcommit 8a1a56989f29fae7e7ef3a43a44b55576eb6e081[m
+Merge: 23bfa64 2366cef
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:31:03 2022 +0530
+
+    Merge pull request #164 from sdeepanshu17/add-sdeepanshu17
+    
+    Add sdeepanshu17.json
+
+[33mcommit 23bfa64f38463b6dae575902380fd1e7088ac5c7[m
+Merge: fe78c3e 178c8b5
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:30:21 2022 +0530
+
+    Merge pull request #172 from omkarvw/add-myBranch
+    
+    Added omkarvw.json
+
+[33mcommit fe78c3ed38f37832664e535e1af24746cb87388d[m
+Merge: b246616 dc406c8
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:30:12 2022 +0530
+
+    Merge pull request #173 from yashPratp983/mynewbranch
+    
+    add yash.json
+
+[33mcommit b2466165c1b884ef0d33f0bbe7e12a352ce524cd[m
+Merge: ac1d8e0 41138eb
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:30:07 2022 +0530
+
+    Merge pull request #174 from hardik-pratap-singh/newbranch
+    
+    added hardik-pratap-singh.json
+
+[33mcommit ac1d8e0a96bc4eb23d8b663f11ad6030b14f4f7d[m
+Merge: ed21778 032b440
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:29:59 2022 +0530
+
+    Merge pull request #175 from jaysharma9618/master
+    
+    my first commit
+
+[33mcommit ed21778fbf34e7b7a8dbc625bd4580c95c84f6f3[m
+Merge: a6cb5e7 d9c6bad
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:29:53 2022 +0530
+
+    Merge pull request #176 from pathakharsh123/add-Harsh-pathak
+    
+    First Commit
+
+[33mcommit a6cb5e7c8c5ae80da34d8b7a6ac1625ad96ccd49[m
+Merge: f6ccdb8 d28779d
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:29:46 2022 +0530
+
+    Merge pull request #177 from Aragorn-64/add-Aragorn-64
+    
+    Add Aragorn-64.json
+
+[33mcommit f6ccdb8dcd0858d3a9726cb4cbea7354208081ca[m
+Merge: 185e54b 159283d
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:29:42 2022 +0530
+
+    Merge pull request #178 from Harshit0009/add-harshit-tiwari
+    
+    first commit
+
+[33mcommit 185e54b65bd8f97fb1cc2372f2ee82617ef99e69[m
+Merge: 533d066 5ddc4de
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:29:34 2022 +0530
+
+    Merge pull request #179 from MAX-786/mohammad
+    
+    add my dir file
+
+[33mcommit 533d0668ad9ce8778b25e384e3150b5c3a8ba00a[m
+Merge: 83b9221 ff02010
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:29:30 2022 +0530
+
+    Merge pull request #180 from anudeeps0306/master
+    
+    Added new file anudeep.json
+
+[33mcommit 83b922170c9534e4f3dc243abeb56a0e2372eca8[m
+Merge: 485d2c3 76bc21e
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:27:19 2022 +0530
+
+    Merge pull request #182 from deven-533/add_PR
+    
+    Add_PR
+
+[33mcommit 485d2c39c134c1ec92566ba6ebad375dae61cb53[m
+Merge: da0757c 56c6426
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:27:14 2022 +0530
+
+    Merge pull request #183 from Prabalpsingh7115/subbranch
+    
+    add Prabalpsingh7115.json
+
+[33mcommit da0757c0fc2440a4e5fdfb4399434b6db380dc65[m
+Merge: 96011d8 3fb66d8
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:27:05 2022 +0530
+
+    Merge pull request #184 from savi001/first-bit-mybranch
+    
+    add Savi001.json
+
+[33mcommit 3fb66d81999899cd8a70aadf40c1547d15d08018[m
+Merge: 78b93af 96011d8
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:26:41 2022 +0530
+
+    Merge branch 'master' into first-bit-mybranch
+
+[33mcommit 96011d8522994b97f4bce37ade401d422aa892c5[m
+Merge: 50fb87b 21a9e3a
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:25:35 2022 +0530
+
+    Merge pull request #185 from hardiksharma11/add-newbranch
+    
+    Add hardik.json
+
+[33mcommit 50fb87b44335d3f0e629ba1802b066ab3412f629[m
+Merge: 8daea13 4005f25
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:25:28 2022 +0530
+
+    Merge pull request #213 from TGFlame/add-advait
+    
+    add Advait.json
+
+[33mcommit 8daea13901a440fa9f021c9878ebc721de5c8c9d[m
+Merge: 0dd6c39 a7f0bd8
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:25:20 2022 +0530
+
+    Merge pull request #214 from omthakare16/technom
+    
+    Added OmThakare.json
+
+[33mcommit 0dd6c396dff42d4af1f070a5e2d7cf40aa3b52bf[m
+Merge: b7005af c9a5930
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:25:04 2022 +0530
+
+    Merge pull request #215 from rajutkarsh07/utkarsh
+    
+    added utkarsh.json
+
+[33mcommit b7005afb41afcb64c5a57039f2ede017526dcf74[m
+Merge: eb00004 f58dd1d
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:24:57 2022 +0530
+
+    Merge pull request #216 from aryan0723/local
+    
+    Local aryan0723
+
+[33mcommit eb000049ff278337606fb97117eaec2932165798[m
+Merge: 5cad606 080e09a
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 20:24:42 2022 +0530
+
+    Merge pull request #217 from prernadabi23/Firstbit
+    
+    add prerna.json
+
+[33mcommit 5cad606d2445967905b7bfeb3d77d123b9316f73[m
+Merge: 6caeb26 df10880
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Wed Sep 28 19:34:13 2022 +0530
+
+    Merge pull request #218 from Siddr04/add-Sidd
+    
+    Add SiddhantRaj.json
+
+[33mcommit df1088010e42ec18968364e602d2d76becf0d31a[m
+Author: Siddhant Raj <siddhantraj04@gmail.com>
+Date:   Wed Sep 28 00:50:55 2022 +0530
+
+    Add SiddhantRaj.json
+
+[33mcommit 080e09ae7108721cc9b524254c8a2f2e9cc6fa89[m
+Author: PRERNA <prernadabi24@gmail.com>
+Date:   Tue Sep 27 22:36:08 2022 +0530
+
+    add prerna.json
+
+[33mcommit f58dd1d69365795c0358893694d04d6ce34ffb6b[m
+Author: aryan0723 <aryanshrivastava237@gmail.com>
+Date:   Tue Sep 27 21:11:31 2022 +0530
+
+    aryan0723
+
+[33mcommit 4892064887684d049d11ca0b92f41e00a1253976[m
+Author: aryan0723 <aryanshrivastava237@gmail.com>
+Date:   Tue Sep 27 21:10:39 2022 +0530
+
+    aryan0723
+
+[33mcommit c9a5930306e16ecb93e8e07bc41a5ddaba17bed1[m
+Author: utkarsh_raj <rajutkarsh2505@gmail.com>
+Date:   Tue Sep 27 20:53:04 2022 +0530
+
+    added utkarsh.json
+
+[33mcommit a7f0bd8879e7a8c0f9ee16dea8cca0e789b70a40[m
+Author: Om Thakare <omthakare1606@gmail.com>
+Date:   Tue Sep 27 20:28:55 2022 +0530
+
+    Added OmThakare.json
+
+[33mcommit 6caeb267988373fad257d418d64b8d7ccf288ea8[m
+Merge: 9e0f407 80e9e53
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:18:52 2022 +0530
+
+    Merge pull request #186 from aniket2003/add-op
+    
+    Added aniketc.json
+
+[33mcommit 9e0f407eedb250afcefc7d3501ff747f2aaed6f3[m
+Merge: b5a8959 0e16572
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:18:43 2022 +0530
+
+    Merge pull request #187 from Anshul-Shukla22/master
+    
+    commit
+
+[33mcommit b5a89598d061b1607f08e7973e52eecb2dd474d5[m
+Merge: b0f33c1 a3bcb56
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:17:41 2022 +0530
+
+    Merge pull request #188 from athira-3000/first-bit-b1
+    
+    Add athira.json
+
+[33mcommit b0f33c1e6098b551e472701c477cd812b175b53e[m
+Merge: aeb0be3 3865091
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:17:32 2022 +0530
+
+    Merge pull request #189 from RakshitSathyakumar/new
+    
+    add rakshit.json
+
+[33mcommit aeb0be3169f30083988efaaffb0d5d0411364acc[m
+Merge: 1f52a39 bd2747c
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:16:46 2022 +0530
+
+    Merge pull request #190 from Anurag607/local
+    
+    Added Anurag607.json
+
+[33mcommit 1f52a397b3771ef04cc09496d9b0f921cb6cdd65[m
+Merge: 88a4816 802c066
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:16:35 2022 +0530
+
+    Merge pull request #191 from valak-69/valak
+    
+    added my json
+
+[33mcommit 88a4816a5f425f00eb66b2ad825f6f3400a2f9de[m
+Merge: bebb5cf 06beb0c
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:16:24 2022 +0530
+
+    Merge pull request #192 from amanaditya01/b
+    
+    add amanaditya.json
+
+[33mcommit bebb5cf51c1e86c9169ecfa59896067492536812[m
+Merge: 452d8c5 8d23cbf
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:16:18 2022 +0530
+
+    Merge pull request #193 from PriyanshuR98/newbranch9
+    
+    add priyanshu.json
+
+[33mcommit 452d8c58b40dd7403c4ba59c9aed63f7392d3ef3[m
+Merge: 8e61d15 1b81d0e
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:15:58 2022 +0530
+
+    Merge pull request #194 from yadavpritesh/mynewbranch
+    
+    yadav pritesh
+
+[33mcommit 8e61d15e308bab4abb20b765792116aff2dc8863[m
+Merge: 559c1f6 f7f4bf9
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:15:43 2022 +0530
+
+    Merge pull request #195 from abz4375/first-bit-mybranch
+    
+    added abz4375.json
+
+[33mcommit 559c1f6ca21883d7dab1871a096258a0b8348d0a[m
+Merge: 4b0f4bc 87e26ea
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:15:28 2022 +0530
+
+    Merge pull request #198 from Anushkabisen22/firstbranch
+    
+    first commit
+
+[33mcommit 4b0f4bc5285f50dccdbc5e112ea98fa847dac45e[m
+Merge: abb0ddd eae5640
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:15:14 2022 +0530
+
+    Merge pull request #208 from Sanika1710/qwerty
+    
+    Add Sanika-1710.json
+
+[33mcommit abb0dddd9f6912db0cd88d7fd9c387945373ac8e[m
+Merge: 7e33788 bd6e7d3
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:15:07 2022 +0530
+
+    Merge pull request #209 from sharmaananya1008/newbrnch
+    
+    Added ananya.json
+
+[33mcommit 7e3378893a0dfbb76908f08cbb404dbf0377716e[m
+Merge: 6083725 8e0f0ac
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:14:55 2022 +0530
+
+    Merge pull request #210 from shashank-23002/test
+    
+    added shashank.json
+
+[33mcommit 4005f25e47588a0fa5fd8accb4f1db4157549d6e[m
+Author: Advait Manke <advit2003@gmail.com>
+Date:   Tue Sep 27 20:14:52 2022 +0530
+
+    add Advait.json
+
+[33mcommit 60837258ab3f3dfa2642d031bf038a66b0b38750[m
+Merge: f7a45f6 b064b34
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:14:47 2022 +0530
+
+    Merge pull request #211 from harshraj438524/mynewbranch
+    
+    add harsh.json
+
+[33mcommit f7a45f668a9a0db990fc682915828afcfd579885[m
+Merge: d539b14 3322fcc
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 20:14:37 2022 +0530
+
+    Merge pull request #212 from Harshul-25/harshul
+    
+    added new json file
+
+[33mcommit 3322fccfbf810913f7327d739ac00536601dcbd1[m
+Merge: c668e97 d539b14
+Author: Harshul-25 <113760758+Harshul-25@users.noreply.github.com>
+Date:   Tue Sep 27 20:10:18 2022 +0530
+
+    Merge branch 'BitByte-TPC:master' into harshul
+
+[33mcommit b064b34a93fb96b481844babc4a81da57c3c6381[m
+Author: harshraj438524 <21bec050@iiitdmj.ac.in>
+Date:   Tue Sep 27 19:48:07 2022 +0530
+
+    hello
+
+[33mcommit bd6e7d344944985bf5586d431a35069733fe45c2[m
+Author: sharmaananya <sharmaananya1008@gmail.com>
+Date:   Tue Sep 27 19:46:58 2022 +0530
+
+    Added ananya.json
+
+[33mcommit d539b14f0b1ba8cc7f815664f69f9d978b42653e[m
+Merge: 7b147ed 7007f20
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:46:02 2022 +0530
+
+    Merge pull request #206 from Kaushals112/first-bit-mybranch
+    
+    add kaushalsahani.json
+
+[33mcommit 7b147eddd5b6b9c91d1fdce9db66d6863814b6a3[m
+Merge: 833731a 6203841
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:45:50 2022 +0530
+
+    Merge pull request #207 from Arjit1136/mynewbranch
+    
+    add arjit.json
+
+[33mcommit 833731ad2dbf195d20001f571e826c3f1888532a[m
+Merge: 0bb1c56 503158c
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:45:27 2022 +0530
+
+    Merge pull request #196 from 1AbhinavKumar/mynewbranch
+    
+    Abhinav Kumar
+
+[33mcommit 0bb1c56d468e83d6eecf8aea4e643baeda30ff63[m
+Merge: 3505729 2c09bce
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:44:42 2022 +0530
+
+    Merge pull request #197 from sammybh6/bit-branch
+    
+    add Samyak-Bh.json
+
+[33mcommit 3505729d2e8b79af145a6ae8e486dbcda9991137[m
+Merge: fad6780 a11bdf7
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:44:29 2022 +0530
+
+    Merge pull request #204 from singhkaran1203/mynewbranch
+    
+    added karan.json
+
+[33mcommit fad6780395c23b4fda4450b116d4dc77f2b5e72d[m
+Merge: 7293ad6 45a9356
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:42:28 2022 +0530
+
+    Merge pull request #205 from aryaupadhyay24/mynewbranch
+    
+    added arya.json
+
+[33mcommit 45a9356cf47f1aa7ff71ed0d95ae947f3866c78a[m
+Author: aryaupadhyay24 <uayush38@gmail>
+Date:   Wed Sep 28 19:42:38 2022 +0530
+
+    hello
+
+[33mcommit 593b98dfa133e4301a56e15629062ad188fb8e9b[m
+Author: aryaupadhyay24 <uayush38@gmail>
+Date:   Wed Sep 28 19:26:55 2022 +0530
+
+    commited
+
+[33mcommit 7293ad6bb4f90d6da0c06f063dde8919ef0bc132[m
+Merge: aabdfe1 8ce1fd9
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:41:20 2022 +0530
+
+    Merge pull request #200 from amitpanwar789/temp
+    
+    add amit.json
+
+[33mcommit aabdfe1b38d22cced8f37543612e9ee08a58801e[m
+Merge: e037488 ca64342
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:40:54 2022 +0530
+
+    Merge pull request #203 from ChaudharyRaman/mybranch
+    
+    Mybranch
+
+[33mcommit 8e0f0ac9c3b1620b692cb8a9f3f738bba5f6f411[m
+Author: Shashank <shashanksingh23002@gmail.com>
+Date:   Tue Sep 27 19:40:06 2022 +0530
+
+    added new json
+
+[33mcommit a11bdf78dfa82ca5c3e2ce1faaa0886be2ae2042[m
+Author: singhkaran1203 <ks29091@gmail.com>
+Date:   Tue Sep 27 19:39:48 2022 +0530
+
+    added karan.json
+
+[33mcommit e0374888a13ab2f622f6e966b9413099a478f86c[m
+Merge: 2cbbfd2 b54603f
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:39:46 2022 +0530
+
+    Merge pull request #201 from VarunAdi/ECE
+    
+    Added Varun.json
+
+[33mcommit 2cbbfd2bf3b2d32161ca7bf3710de982e41e6f6d[m
+Merge: a3f919c dcc6813
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:38:54 2022 +0530
+
+    Merge pull request #202 from SapnaSaini27/master
+    
+    first commit
+
+[33mcommit ca643428d7ad3d774ad6f5849d833dfa02c6e4bd[m
+Author: ChaudharyRaman <ramanchaudhary2704@gmail.com>
+Date:   Tue Sep 27 19:38:36 2022 +0530
+
+    ADD ChaudharyRaman.json
+
+[33mcommit a3f919c4fca2c95a53bafbe47d7bd489fb3af9e6[m
+Merge: e4303e5 93d2b6b
+Author: Anmol Sharma <65589791+theanmolsharma@users.noreply.github.com>
+Date:   Tue Sep 27 19:38:25 2022 +0530
+
+    Merge pull request #199 from jesvia/jesviaBranch
+    
+    added jess.json
+
+[33mcommit 87e26ea50edb0632be7f5658dda0dfa1eb497bce[m
+Author: Anushka Bisen <bisenanushka@gmail.com>
+Date:   Tue Sep 27 19:34:01 2022 +0530
+
+    first commit
+
+[33mcommit b54603f942ede203b24f1f5c0dc9ea5b58d1fcdb[m
+Author: Varun Aditya <mettuvarunadityareddy@gmail.com>
+Date:   Tue Sep 27 19:32:38 2022 +0530
+
+    Added Varun.json
+
+[33mcommit dcc681387550647ab2565736f40b1b502699cb73[m
+Author: SapnaSaini27 <spsaini.701@gmail.com>
+Date:   Tue Sep 27 19:32:17 2022 +0530
+
+    first commit
+
+[33mcommit ae0747cf4857c8552481458c4d2ef2a0a9ed876d[m
+Author: Rushikesh Vikas Shinde <21bcs190@iiitdmj.ac.in>
+Date:   Tue Sep 27 19:31:38 2022 +0530
+
+    rushikeh
+
+[33mcommit ff02010b72c131d557b8dc2e4fd62647dc8775f8[m
+Author: Anudeepexperiment <71971574+Anudeepexperiment@users.noreply.github.com>
+Date:   Tue Sep 27 19:30:47 2022 +0530
+
+    Create anudeep.json
+    
+    Adding anudeep.json file
+
+[33mcommit eae5640b3937ddfe993a6417245fc0369afe07c4[m
+Author: sanika1710 <sanikagajbhiye22@gmail.com>
+Date:   Tue Sep 27 19:29:44 2022 +0530
+
+    Add this-is-you.json
+
+[33mcommit 503158cd1c91cda99784eea31311730a8d7c0386[m
+Author: 1AbhinavKumar <abhinavkumar1105@gmail.com>
+Date:   Tue Sep 27 19:27:59 2022 +0530
+
+    Abhinav Kumar
+
+[33mcommit 620384116f066ca148b4d7f601e3bdd44fa2b7f5[m
+Author: Arjit Patel <Arjit1136>
+Date:   Tue Sep 27 19:24:23 2022 +0530
+
+    add arjit.json
+
+[33mcommit 032b44025d9bb05d07ea4cf258898141002c96f4[m
+Author: jaysharma9618 <sharmajay9137@gmail.com>
+Date:   Tue Sep 27 19:23:50 2022 +0530
+
+    my first commit
+
+[33mcommit d28779da53ef37aee724875462b11ced3eafd223[m
+Author: Aragorn-64 <advaysagarkar@gmail.com>
+Date:   Tue Sep 27 19:23:34 2022 +0530
+
+    Add Aragorn-64.json
+
+[33mcommit e12e7b85271a242e268377b6e0b56b1ddcb80f0b[m
+Author: vijayjatin7 <vijayjatin7@gmail.com>
+Date:   Tue Sep 27 19:21:11 2022 +0530
+
+    This is my second commit
+
+[33mcommit 8d23cbfd14ecfb9fb2bba5f532f5d27939bcd055[m
+Author: PriyanshuR98 <priyanshurawat243.com>
+Date:   Tue Sep 27 19:20:01 2022 +0530
+
+    add priyanshu.json
+
+[33mcommit 76bc21e03b1e26e5d1e120c3f38a6397ffa15f4a[m
+Author: Deven_Nehete <devendn533@gmail.com>
+Date:   Tue Sep 27 19:19:07 2022 +0530
+
+    PR commited
+
+[33mcommit 7007f2030f9b64b9d2ea87804b72d85a1a1d2add[m
+Author: Kaushals112 <21bcs112@iiitdmj.ac.in>
+Date:   Tue Sep 27 19:17:49 2022 +0530
+
+    add kaushalsahani.json
+
+[33mcommit 8ce1fd9478277aff9b98cbb6c8e8a4753b4487ad[m
+Author: Amit Panwar <amitpanwar02705@gmail.com>
+Date:   Tue Sep 27 19:17:37 2022 +0530
+
+    add amit.json
+
+[33mcommit d76859cfe9b2142e0ddf5f45aaac9b0ad4bba8bd[m
+Author: Deven_Nehete <devendn533@gmail.com>
+Date:   Tue Sep 27 19:17:36 2022 +0530
+
+    First PR Commited
+
+[33mcommit 3865091cd5f9a41381ae30e1b8928cb549fa152e[m
+Author: RakshitSathyakumar <92337338+RakshitSathyakumar@users.noreply.github.com>
+Date:   Tue Sep 27 19:17:31 2022 +0530
+
+    add rakshit.json
+
+[33mcommit 78b93af5e3fa495d0665d477e90fb8217dbea2ce[m
+Author: Saurav <sauravraj7632@gmail.com>
+Date:   Tue Sep 27 19:17:30 2022 +0530
+
+    add Savi001.json
+
+[33mcommit 06beb0c4500d242a242839182399eca57a191b40[m
+Author: amanaditya01 <amanaditya01@gmail.com>
+Date:   Tue Sep 27 19:17:29 2022 +0530
+
+    add amanaditya.json
+
+[33mcommit 2c09bce18056077772de52e02ecbcda820ae3e4d[m
+Author: Sammybh6 <samyakbhargav9@gmail.com>
+Date:   Tue Sep 27 19:17:28 2022 +0530
+
+    add Samyak-Bh.json
+
+[33mcommit 56c6426abee6b0538badf1d53dd390499202d3fa[m
+Author: Keher <prabalpsingh7115@gmail.com>
+Date:   Tue Sep 27 19:17:25 2022 +0530
+
+    add Prabalpsingh7115.json
+
+[33mcommit 1b81d0e1352d6496def3f089c0f154b016b79e63[m
+Author: yadavpritesh <yadavpritesh449@gmail.com>
+Date:   Tue Sep 27 19:17:22 2022 +0530
+
+    yadav pritesh
+
+[33mcommit 80e9e53eee0f440146c7066bbc6437e4f29e2872[m
+Author: Aniket <aniketsc93@gmail.com>
+Date:   Tue Sep 27 19:17:10 2022 +0530
+
+    Added aniketc.json
+
+[33mcommit f7f4bf9fad5c05633991db2590955e035f39e87b[m
+Author: Ayush Srivastava <abz4375.ayushsrivastava@gmail.com>
+Date:   Tue Sep 27 19:17:07 2022 +0530
+
+    added abz4375.json
+
+[33mcommit dc406c83b090be3f4963bce5585faea68a54d285[m
+Author: yashPratp983 <yash.here07@gmail.com>
+Date:   Tue Sep 27 19:17:03 2022 +0530
+
+    add yash.json
+
+[33mcommit 41138eb55481dce505980c58ddc1d5a39fbd0ddc[m
+Author: Hardik <hardikjanuary2021@gmail.com>
+Date:   Tue Sep 27 19:16:41 2022 +0530
+
+    added my info_21bcs090
+
+[33mcommit 21a9e3af040f80844ef95378470b768cde81cd3c[m
+Author: Hardik <hardik182002@gmail.com>
+Date:   Tue Sep 27 19:16:37 2022 +0530
+
+    Add hardik.json
+
+[33mcommit a3bcb569add4806bfbee6ec1dc67f5f6f81daebb[m
+Author: Athira <athirap337@gmail.com>
+Date:   Tue Sep 27 19:16:32 2022 +0530
+
+    Add athira.json
+
+[33mcommit c668e9762fe31e228ef95e2d11427d02d217f56b[m
+Author: ThunderClap <bankai@pop-os.localdomain>
+Date:   Tue Sep 27 19:16:30 2022 +0530
+
+    added new json file
+
+[33mcommit d9c6bad4d621a83fe82b232eb66124e131555821[m
+Author: pathakharsh123 <pathakharsh2014@gmail.com>
+Date:   Tue Sep 27 19:16:27 2022 +0530
+
+    First Commit
+
+[33mcommit 9545e19dd169fcf279983b112425ce9ad55009fa[m
+Author: vijayjatin7 <vijayjatin7@gmail.com>
+Date:   Tue Sep 27 19:15:59 2022 +0530
+
+    my first commit
+
+[33mcommit 5ddc4de663c1e7869953dc141c0a551e494299c4[m
+Author: Mohammad Hussain <hussainmohammad328@gmail.com>
+Date:   Tue Sep 27 19:14:52 2022 +0530
+
+    add my dir file
+
+[33mcommit 159283d4bda74c06a76736cda2198ecbf85e0e1e[m
+Author: Harshit Tiwari <tiwariharshit909@gmail.com>
+Date:   Tue Sep 27 19:14:00 2022 +0530
+
+    first commit
+
+[33mcommit 2e34e9ce0804f12a8867dc45cef6c06c810863bc[m
+Author: ChaudharyRaman <ramanchaudhary2704@gmail.com>
+Date:   Tue Sep 27 19:13:25 2022 +0530
+
+    ADD ChaudharyRaman.json
+
+[33mcommit 93d2b6bdfcae9840edcfa20fdf04daa53e8b7c65[m
+Author: jesvia <jesvia.rofl@gmail.com>
+Date:   Tue Sep 27 19:12:27 2022 +0530
+
+    added jess.json
+
+[33mcommit f5f61bfbf7e0268be23215266dd8f48eece8cfa4[m
+Author: Tusharjain123 <jain0735@gmail.com>
+Date:   Tue Sep 27 19:11:44 2022 +0530
+
+    Added a new txt file
+
+[33mcommit 8cd474de549d7a09a0b64d93f8a5b5193de3374a[m
+Author: Daksh Bajaj <dakshbajaj16@gmail.com>
+Date:   Tue Sep 27 19:11:35 2022 +0530
+
+    Add Daksh119.json
+
+[33mcommit 0e16572fdb533acda4861d2838ccdf1fb8c22a84[m
+Author: Anshul-Shukla22 <anshulshukla628@gmail.com>
+Date:   Tue Sep 27 19:11:13 2022 +0530
+
+    commit
+
+[33mcommit e791a824177e437c9b0fea5fa5d75b7e3c345231[m
+Author: Rushikesh Vikas Shinde <21bcs190@iiitdmj.ac.in>
+Date:   Tue Sep 27 19:10:53 2022 +0530
+
+    Adding my first commit
+
+[33mcommit 48da2f2c9da84a514c1ef862d72505fdf11d963b[m
+Author: Prajwalrayal <rayalprajwal82991@gmail.com>
+Date:   Tue Sep 27 19:10:34 2022 +0530
+
+    add rayal.json
+
+[33mcommit 178c8b559d9b3189e14b7824f29d6bcd1a682ab8[m
+Author: omkarvw <womkar0203@gmail.com>
+Date:   Tue Sep 27 19:09:51 2022 +0530
+
+    Added omkarvw.json
+
+[33mcommit 802c066135166b6be880570f4132d4d2182ddc53[m
+Author: valak-69 <valaknoob@gmail.com>
+Date:   Tue Sep 27 19:09:45 2022 +0530
+
+    added my json
+
+[33mcommit bd2747c22866416c8f3e4de5099eb17463d440d2[m
+Author: Anurag <anurag79002@gmail.com>
+Date:   Tue Sep 27 19:09:33 2022 +0530
+
+    Added Anurag607.json
+
+[33mcommit ec12fd58ea4bfb7a1aec7f2a416b0f55c05ba990[m
+Author: user-ank <ankush1maji@gmail.com>
+Date:   Tue Sep 27 19:07:52 2022 +0530
+
+    commmiting first
+
+[33mcommit 3292498e32398b1ee0f1df7cf16259f452d80b1c[m
+Author: Mojo <manojpanjwani111@gmail.com>
+Date:   Tue Sep 27 18:55:55 2022 +0530
+
+    Add Mojo-03.json
+
+[33mcommit 2366cefb584d272f520f5f921dd1ccb81d1d9ea4[m
+Author: Deepanshu Singh <deepanshu17092003@gmail.com>
+Date:   Tue Sep 27 18:54:53 2022 +0530
+
+    Add sdeepanshu17.json
+
+[33mcommit c4dbc8349feedd18a6b50c488fbfe953c3cb3d05[m
+Author: Vansh Mittal <mittalvansh69@gmail.com>
+Date:   Tue Sep 27 18:42:06 2022 +0530
+
+    Added Vansh_Mittal.json
+
+[33mcommit e55358db282ec1141e6678b9e91eae8b9598c10e[m
+Author: techinfinity1729 <techinfinity1729@gmail.com>
+Date:   Tue Sep 27 01:39:10 2022 +0530
+
+    Add nitin2606.json
+
+[33mcommit e4303e51b589a678115492411020e506b1f36ea0[m
+Merge: 085f04c 0ee7fc9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Sep 21 19:13:37 2021 +0000
+
+    Merge pull request #156 from errabun/add-eric-rabun
+
+[33mcommit 0ee7fc92069e80f10ba32653dd13915378c0c566[m
+Author: Eric Rabun <errabun@gmail.com>
+Date:   Tue Sep 21 13:10:49 2021 -0600
+
+    Add errabun.json
+
+[33mcommit 085f04c8caeead6f8ce94831071a149cb5c08334[m
+Merge: b8888e6 d792e29
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 3 12:42:15 2021 +0000
+
+    Merge pull request #155 from anishwar-007/my-branch
+
+[33mcommit d792e2964ae80e4c07c734a718cef8fa3db700bf[m
+Author: Anishwar Sharma <sharmaanish7779@gmail.com>
+Date:   Tue Aug 3 18:06:39 2021 +0530
+
+    anishwar-007.json
+
+[33mcommit b8888e642cbe1d9ebb7a9fdbf46d9873afd2cfc6[m
+Merge: 38470ef 19709cb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jul 19 12:57:12 2021 +0000
+
+    Merge pull request #154 from jatin142002/practice1
+
+[33mcommit 19709cbcfc21ac016d7c344414c829f2118d5762[m
+Author: Jatin Mehra <mehrajatin142002@gmail.com>
+Date:   Mon Jul 19 18:23:17 2021 +0530
+
+    Add jatin142002.json
+
+[33mcommit 38470ef203a69cfd2d88615072b5577adac19d0c[m
+Merge: 8ba5452 15c87ab
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jun 28 12:20:14 2021 +0000
+
+    Merge pull request #153 from riteshsoni123/my-first-branch
+
+[33mcommit 15c87ab3ab554f94788702d2bbef09bfd69c1901[m
+Author: riteshsoni123 <comedybuddy1@gmail.com>
+Date:   Mon Jun 28 17:36:45 2021 +0530
+
+    riteshsoni123.json
+
+[33mcommit 8ba5452ab02524706a8d075a10bc1f3fe14c13b7[m
+Merge: 0e6a6bd 89e8830
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 26 15:30:09 2021 +0000
+
+    Merge pull request #152 from brijsiyag/brij-siyag
+
+[33mcommit 89e88305c9d9dc6de0b3c6755d5f885773f9cc52[m
+Author: brijsiyag <brijsiyag@gmail.com>
+Date:   Sat Jun 26 20:58:03 2021 +0530
+
+    Create brijsiyag.json
+
+[33mcommit 0e6a6bd36484cfa7c52b9358f2aa92076e48ffbd[m
+Merge: 5e86e22 69faa47
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 26 04:11:29 2021 +0000
+
+    Merge pull request #151 from ShivamJhaa/master
+
+[33mcommit 69faa47dad562329b488d1120bbd61d34ba02ab0[m
+Author: ShivamJhaa <20bcs206@iiitdmj.ac.in>
+Date:   Sat Jun 26 09:39:17 2021 +0530
+
+    Add ShivamJhaa.json
+
+[33mcommit 5e86e2279494373500ba4b44020b2da022406625[m
+Merge: 0617d0e d9faee2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jun 25 10:37:37 2021 +0000
+
+    Merge pull request #149 from aparna-bhatt/add-aparnaa-bhatt
+
+[33mcommit 0617d0e3bf18e7e2a14779f72c480fff682eb044[m
+Merge: 0dcdd92 cc2d76c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jun 25 10:35:06 2021 +0000
+
+    Merge pull request #150 from Bhawna147/add-bhawna-khatri
+
+[33mcommit d9faee2a17bd053ecb1dc376e19012d8863a7274[m
+Author: aparna-bhatt <bhatt1996samishtha@gmail.com>
+Date:   Fri Jun 25 15:59:23 2021 +0530
+
+    add add-aparnaa-bhatt
+
+[33mcommit cc2d76cf0627cf2e9a872abe8011f5afe6acd392[m
+Author: Bhawna Khatri <khatribhawna77@gmail.com>
+Date:   Fri Jun 25 15:45:48 2021 +0530
+
+    add add-bhawna-khatri
+
+[33mcommit 665c0b9cf38dcec9ac1d0090832e670dbbe891ab[m
+Author: chini <bhatt1996samishtha@gmail.com>
+Date:   Fri Jun 25 15:33:38 2021 +0530
+
+    add add-aparna-bhatt
+
+[33mcommit 0dcdd9263c2015812fbc29ab2abb5ecc592a53cc[m
+Merge: 73f876e 16c74ce
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jun 24 15:03:29 2021 +0000
+
+    Merge pull request #148 from mohanishdc7/master
+
+[33mcommit 16c74ce28eba3cb226123178adfdea178c632a61[m
+Author: Mohanish Chavan <beingmohanish15@gmail.com>
+Date:   Thu Jun 24 18:59:14 2021 +0530
+
+    Add mohanishdc7.json
+
+[33mcommit 73f876ec1f7d21fec08c290b749da53477f2f977[m
+Merge: 775692a 3682b5b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Jun 22 19:02:34 2021 +0000
+
+    Merge pull request #147 from optimm/add-ayush-saxena
+
+[33mcommit 3682b5b260e0a849e797422fd583a1d1a3cc6677[m
+Author: optimm <ayushsaxena823@gmail.com>
+Date:   Wed Jun 23 00:24:07 2021 +0530
+
+    add add-ayush-saxena
+
+[33mcommit 775692ad4ea23b50cc1021c378d819197547fd49[m
+Merge: c181343 2c19d13
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jun 21 15:52:00 2021 +0000
+
+    Merge pull request #146 from ArnabMdev/add-ArnabMondal
+
+[33mcommit 2c19d130c808eaa74fc4c167411a371c334a38d1[m
+Author: Arnab Mondal <20bcs039@iiitdmj.ac.in>
+Date:   Mon Jun 21 21:02:53 2021 +0530
+
+    add ArnabMdev.json
+
+[33mcommit c1813430165d2bbf0caa859e7402e7eba2d9b65d[m
+Merge: 97e9105 286475e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jun 21 05:46:53 2021 +0000
+
+    Merge pull request #145 from abhinav520/add-Abhinav-Singh
+
+[33mcommit 286475ee425d99a7e11a468a52f1b632f81852d3[m
+Author: Abhinav <abhinavsingh0520@gmail.com>
+Date:   Mon Jun 21 11:09:34 2021 +0530
+
+    Add abhinav520.json
+
+[33mcommit 97e9105a7f92268ae916dfddf03a6b272f7feb0d[m
+Merge: 4fb44ee 222066a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Jun 20 20:20:19 2021 +0000
+
+    Merge pull request #144 from Rushil-ambastha/branch1
+
+[33mcommit 222066af5d493f9b3323da3fd38466a931675063[m
+Author: Rushil <rushil.ambastha@gmail.com>
+Date:   Mon Jun 21 01:41:04 2021 +0530
+
+    deleted Rushil_ambastha.json
+
+[33mcommit 4399c5859596cc5502be9919a3ca088db030f814[m
+Author: Rushil <rushil.ambastha@gmail.com>
+Date:   Mon Jun 21 01:38:24 2021 +0530
+
+    Add Rushil-ambastha.json
+
+[33mcommit aff2a41a2068141ba309e2051b5bdafe8d3994a9[m
+Author: Rushil <rushil.ambastha@gmail.com>
+Date:   Mon Jun 21 01:11:40 2021 +0530
+
+    Add Rushil_ambastha.json
+
+[33mcommit 4fb44ee25328eb68103a94e2d68a3e5fcb962d4a[m
+Merge: 596c49d 2420240
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Jun 19 04:43:32 2021 +0000
+
+    Merge pull request #143 from siddharthiiitdmj/addsid
+
+[33mcommit 24202402eee4aba0ad2c7ef0aae198c8f5b49a9d[m
+Author: Siddharth Gupta <20bcs215@iiitdmj.ac.in>
+Date:   Sat Jun 19 09:54:06 2021 +0530
+
+    Add siddharthiiitdmj.json
+
+[33mcommit 596c49d6b562d3cc973dbc7866962cdae8921a00[m
+Merge: e2513cd f07d05d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jun 18 15:24:13 2021 +0000
+
+    Merge pull request #142 from shivansh1808/addname
+
+[33mcommit e2513cdd89bae30f9afd6510da98b6b9ebd16ad6[m
+Merge: 66557cf 6f6cb1d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jun 18 15:21:11 2021 +0000
+
+    Merge pull request #141 from artizticamit/add-amit-kumar
+
+[33mcommit f07d05d1a7b8bfc270578c85b073040ada601318[m
+Author: Shivansh Chaudhary <shivanshchaudhary18@gmail.com>
+Date:   Fri Jun 18 20:48:46 2021 +0530
+
+    add shivansh1808.json
+
+[33mcommit 66557cfd31b55e9300d38917342c37cfaf546d55[m
+Merge: 80f1803 8649c63
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Jun 18 20:42:23 2021 +0530
+
+    Merge branch 'master' of https://github.com/bitbyte-tpc/first-bit
+
+[33mcommit 6f6cb1d699ddcee0dcbedf688f30edb0e277b3bf[m
+Author: Artistic Amit <amit6539101@gmail.com>
+Date:   Fri Jun 18 20:39:57 2021 +0530
+
+    Add artizticamit.json
+
+[33mcommit 80f1803dfb3fb305c179aaf784cf6f92be8cbc39[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Jun 18 19:01:46 2021 +0530
+
+    Update first PR merge comment.
+
+[33mcommit 8649c63ba7bb2de61eb6454818dc7b56a89824cc[m
+Merge: 4ae3ea3 c8fb929
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jun 18 13:29:55 2021 +0000
+
+    Merge pull request #140 from Aksh-Bansal-dev/master
+
+[33mcommit 4ae3ea31c9f2310462602a013e6cfa472125c8a4[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Jun 18 18:58:56 2021 +0530
+
+    Update automerge-action version.
+
+[33mcommit 2a48897cb6401225a3a5e7b5f729ecb712663f2b[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Jun 18 18:54:15 2021 +0530
+
+    Remove discord links from the project.
+
+[33mcommit c8fb9294d8252c9553252ded3ffb397e4bfc223a[m
+Author: Aksh Bansal <akshmark@gmail.com>
+Date:   Wed Jun 16 18:05:51 2021 +0530
+
+    Add Aksh-Bansal-dev.json
+
+[33mcommit 163053dece84e686b29e3eb2309db678f6977216[m
+Merge: 829dd05 31ceac6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Apr 5 18:27:37 2021 +0000
+
+    Merge pull request #136 from divyanshkhetan/add-divyansh-khetan
+
+[33mcommit 31ceac60462a5d9a4f08382646fc57f2125e044d[m
+Author: Divyansh Khetan <divyanshkhetan18@gmail.com>
+Date:   Mon Apr 5 23:52:11 2021 +0530
+
+    divyanshkhetan.json
+
+[33mcommit 829dd0576c4f8df5bc89afcc0773cf4b11304d7a[m
+Merge: a553908 fd24fcb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Feb 28 06:34:30 2021 +0000
+
+    Merge pull request #133 from Kushal997-das/patch-1
+
+[33mcommit fd24fcb0edb958fad7d84f82f3779b9987b806bb[m
+Author: Kushal Das <daskushal980@gmail.com>
+Date:   Sun Feb 28 12:03:33 2021 +0530
+
+    Added myself.
+
+[33mcommit a5539088b9425410e2a93dbb089249c0b1ff741c[m
+Merge: 3036f35 f3ff022
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 28 07:53:53 2020 +0000
+
+    Merge pull request #130 from AbhishekG-01/add-abhishek-gautam
+
+[33mcommit f3ff02225986661a28c7c158259c6c3706cfe6a7[m
+Author: Abhishek Gautam <abhishekgautam388@gmail.com>
+Date:   Sat Nov 28 13:20:01 2020 +0530
+
+    AbhishekG-01 adding
+
+[33mcommit 3036f35cd8fc520aa0d8233f44ad5a4ec91052a0[m
+Merge: 52c41c6 1a5e76b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 30 10:23:46 2020 +0000
+
+    Merge pull request #129 from ckorobov/master
+
+[33mcommit 1a5e76b11a0fb23849386cd72d44abc5e35e16ca[m
+Author: ckorobov <ckorobov@libertyglobal.com>
+Date:   Fri Oct 30 11:21:41 2020 +0100
+
+    Added myself
+
+[33mcommit 52c41c6be5f8a591987b168c3fcc258edc186921[m
+Merge: abfcc84 6e84ecb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 30 02:45:42 2020 +0000
+
+    Merge pull request #128 from luis-hsantos/add-luis-fernandes
+
+[33mcommit 6e84ecbc94d2e1474a2e633aa65319e587bbb76f[m
+Author: Luís Fernandes <luis.hsantos@yahoo.com.br>
+Date:   Thu Oct 29 23:41:46 2020 -0300
+
+    Add luis-hsantos.json
+
+[33mcommit abfcc8407bcd47dc019560fc0e94a42a5c7582da[m
+Merge: 0534d71 eb46035
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Oct 26 05:12:50 2020 +0000
+
+    Merge pull request #127 from SaiChandra2896/add-SaiChandra2896
+
+[33mcommit eb4603563c44a1c8aaeae853ec8aba43f6871dfe[m
+Author: SaiChandra2896 <saichandra2896@gmail.com>
+Date:   Mon Oct 26 10:39:10 2020 +0530
+
+    add SaiChandra2896.json
+
+[33mcommit 0534d711b5cda23db98cf898b703374bc6a8b0ba[m
+Merge: 060572c c35eb4e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 25 19:14:00 2020 +0000
+
+    Merge pull request #126 from tirthankarkundu17/add-tirthankarkundu
+
+[33mcommit c35eb4e8f6d83f21d34e0bb11500d8595e61376e[m
+Author: Tirthankar Kundu <tirthankar.kundu94@gmail.com>
+Date:   Mon Oct 26 00:41:26 2020 +0530
+
+    Added tirthankarkundu17.json
+
+[33mcommit 060572c3f87c7802f11a820ed90d517b13a1ccbc[m
+Merge: 1519d70 36e02d2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 25 18:35:07 2020 +0000
+
+    Merge pull request #125 from shivarajloni/shivaraj-loni
+
+[33mcommit 36e02d2f65e82f208746fbb6bb35dae4f0742456[m
+Author: shivaraj loni <shivarajbloni@gmail.com>
+Date:   Mon Oct 26 00:03:53 2020 +0530
+
+    added/changes in shivarajloni.json file
+
+[33mcommit f0a28ae9808103db33223dd2cf3875e182ca5fea[m
+Author: shivaraj loni <shivarajbloni@gmail.com>
+Date:   Sun Oct 25 23:52:06 2020 +0530
+
+    added shivarajloni.json file
+
+[33mcommit 1519d70861ed7d98ab7997d5481d40bccda8d3ac[m
+Merge: 9c48826 0cf43ff
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 23 16:29:19 2020 +0530
+
+    Merge pull request #50 from kathleencurran2021/add-kat
+
+[33mcommit 9c48826909c385fd531fb53e1fdd64c063b963e3[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Thu Oct 22 20:49:41 2020 +0530
+
+    Replaced length with size
+    
+    Thank you Weird JS.
+
+[33mcommit a2f738373cf4f2be101eedec19a0756de0bdf955[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Thu Oct 22 20:43:00 2020 +0530
+
+    Revert "Add this-is-you.json" (#120)
+
+[33mcommit 48d59bf79530a09c5423a86d796f0d13671bd708[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Thu Oct 22 20:42:36 2020 +0530
+
+    Revert "Kanishka8276" (#119)
+
+[33mcommit e2d195131e0a1501f6515800cb3247ea15d70ffc[m
+Merge: 7b5f46a bb7e61b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 21 17:13:28 2020 +0000
+
+    Merge pull request #118 from wisetok12680/contribution
+
+[33mcommit bb7e61bcb0a40177c4ba83c90ae6189013571fcf[m
+Author: Aarush Srivastava <53168325+wisetok12680@users.noreply.github.com>
+Date:   Wed Oct 21 22:41:25 2020 +0530
+
+    Add this-is-you.json
+
+[33mcommit 7b5f46a230f6d8c436d6971df94851bbcc7cb780[m
+Merge: 924dafa d505750
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Oct 20 17:06:44 2020 +0000
+
+    Merge pull request #116 from somya51p/patch-1
+
+[33mcommit d50575057d87816acbbddd4cc95d772c9b9072f4[m
+Author: Somya Prajapati <64978837+somya51p@users.noreply.github.com>
+Date:   Tue Oct 20 22:35:17 2020 +0530
+
+    Create somya51p.json
+
+[33mcommit 924dafa8681df4f4ed2aa9a402635374676fede5[m
+Merge: f25336b 6094195
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 18 15:49:28 2020 +0000
+
+    Merge pull request #115 from mridulrb/master
+
+[33mcommit 6094195516387e32a6a3253a087019f7554afd2f[m
+Author: Mridul Bhandari <f20150229@dubai.bits-pilani.ac.in>
+Date:   Sun Oct 18 19:48:26 2020 +0400
+
+    Rename MridulBhandari.json to mridulrb.json
+
+[33mcommit 4e2f7fac3e693f7ab00466a5be58f66ca361fd02[m
+Author: Mridul Bhandari <f20150229@dubai.bits-pilani.ac.in>
+Date:   Sun Oct 18 19:20:24 2020 +0400
+
+    Create MridulBhandari.json
+
+[33mcommit f25336bdb7e632bd6039498943d30f3dcae56db9[m
+Merge: 985b85c 1dc7f17
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 18 11:24:49 2020 +0000
+
+    Merge pull request #114 from fawazsiddiqi/add-fawazsiddiqi
+
+[33mcommit 1dc7f17acb6d4f06bac16041639062ce622a02da[m
+Author: Fawaz Siddiqi <mfawazsiddiqi@gmail.com>
+Date:   Sun Oct 18 15:21:41 2020 +0400
+
+    add fawazsiddiqi.json
+
+[33mcommit 985b85ccb109636cac433bac7784b7e8e300ce7c[m
+Merge: b5c318f 7d7bded
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 18 07:27:02 2020 +0000
+
+    Merge pull request #113 from naisofly/add-nai
+
+[33mcommit 7d7bded512a9e26a50dc2ff7c28c48bf17b37ebc[m
+Author: Naiyarah Hussain <naiyarah.h@gmail.com>
+Date:   Sun Oct 18 11:17:09 2020 +0400
+
+    Add naisofly.json
+
+[33mcommit b5c318f2455cb729b1cb8acf556654d19c052c9e[m
+Merge: 3d592e2 6325690
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 17 19:13:29 2020 +0000
+
+    Merge pull request #112 from PhroggDev/add-content
+
+[33mcommit 6325690d797a9c166510a987e9e498781eddfb56[m
+Author: Masked Phrogg <maskedphrogg@maskedfrog.net>
+Date:   Sat Oct 17 15:07:46 2020 -0400
+
+    Forgot to save contents of json )^:
+
+[33mcommit fde383b2185815f43e4a515f940375796bd57c4b[m
+Author: Masked Phrogg <maskedphrogg@maskedfrog.net>
+Date:   Sat Oct 17 14:56:38 2020 -0400
+
+    add PhroggDev.json
+
+[33mcommit 3d592e27740df1a20d2ecfc04fed495ec1269d9c[m
+Merge: 0d7ea50 279be69
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 15 22:06:06 2020 +0000
+
+    Merge pull request #111 from CormacKrum/AddMe
+
+[33mcommit 279be69028605ee1c6f46b0bf7f03020629c59ec[m
+Author: username <54479676+CormacKrum@users.noreply.github.com>
+Date:   Fri Oct 16 03:34:33 2020 +0530
+
+    Added new Contributor
+
+[33mcommit 0d7ea5056cd1522c079cc8b1f75daee77388cd02[m
+Merge: 52f0006 da84d45
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 15 21:34:27 2020 +0000
+
+    Merge pull request #110 from cmeyrueix4/add-cyrielle-m
+
+[33mcommit da84d457fde54183c4725383501ff2d72e461c7b[m
+Author: Cyrielle Meyrueix <cmeyrueix44@gmail.com>
+Date:   Thu Oct 15 14:31:37 2020 -0700
+
+    Add cmeyrueix4.json
+
+[33mcommit 52f0006407b9c7909ac5362ce88ed39586bf3eb5[m
+Merge: 096b46f f055f18
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 14 15:18:42 2020 +0000
+
+    Merge pull request #109 from extraalek/add-extraalek
+
+[33mcommit f055f188383c260e83fa6ead538df8d21d7bc6e9[m
+Author: Aleksandra Obradovic <aleksandra.obradovic.twint@interventure.info>
+Date:   Wed Oct 14 17:15:18 2020 +0200
+
+    Add extraalek.json
+
+[33mcommit 096b46f7326931f68e794523450d5fb01224d168[m
+Merge: e85dc57 e63895a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 14 13:38:41 2020 +0000
+
+    Merge pull request #108 from femakin/add-femi-akinyemi
+
+[33mcommit e63895a125f0d062b3cae3c405e9448c473841ac[m
+Author: Femi Akinyemi <akinfemi46@gmail.com>
+Date:   Wed Oct 14 14:32:31 2020 +0100
+
+    Add femakin.json
+
+[33mcommit e85dc576c135e2f0ca89e7e8fff0f773811299ef[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Oct 13 00:34:24 2020 +0530
+
+    Fixed avatar not found
+
+[33mcommit 7fe484ba62210ddf4ca541af2ce8a807fd797a5d[m
+Merge: f177084 a75cbd8
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Oct 13 00:22:01 2020 +0530
+
+    Merge pull request #107 from Janglee123/new-gh-page-action
+    
+    Fixed getting rate limited on building DB
+
+[33mcommit a75cbd8aa05fa897600a4fc5e65e258435bae87f[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Mon Oct 12 18:09:23 2020 +0000
+
+    Fixed getting rate limited on building DB
+
+[33mcommit f1770847fa13257ca50f31c44d5c810c182070e5[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Mon Oct 12 18:03:04 2020 +0000
+
+    Fixed github not found
+
+[33mcommit 30f4346d3d0fa703f7f19319f519ccfec1cae5e2[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Mon Oct 12 18:01:25 2020 +0000
+
+    Removed github-api package
+
+[33mcommit a6b942157c13765a9f3fd09cdfaa83b88ffe7363[m
+Merge: 081694c 52e6b26
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Oct 12 11:14:58 2020 +0000
+
+    Merge pull request #106 from Ralphive/add-ralphive
+
+[33mcommit 52e6b263ef26e26e4415c5e9c7f368164384cbdc[m
+Author: Ralph Oliveira <ralphrpo@gmail.com>
+Date:   Mon Oct 12 12:12:15 2020 +0100
+
+    add ralphive.json
+
+[33mcommit 081694c18226a42b350f5102a90620c58cda32ab[m
+Merge: 60da38c 63c8a20
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Oct 12 02:50:33 2020 +0000
+
+    Merge pull request #105 from maryanamorato/master
+
+[33mcommit 63c8a20356bc030013e6129dc2bfc09ac0be8e63[m
+Author: maryana morato <maryana.morato@natahouse.com>
+Date:   Sun Oct 11 19:46:45 2020 -0300
+
+    feat: adding myself
+
+[33mcommit 60da38c1d37df8f03e6572421cdd7552cd9230f5[m
+Merge: a5dc78a 585f269
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 11 00:59:47 2020 +0000
+
+    Merge pull request #104 from DevRenwick/my-first-branch
+
+[33mcommit 585f2693912b1fc48901d3dcf94f0a68cc9a7d7e[m
+Author: DevRenwick <renstermocker@gmail.com>
+Date:   Sat Oct 10 17:53:04 2020 -0700
+
+    DevRenwick.json
+
+[33mcommit a5dc78a41348bf1cb315d7b188d15f829a62b9f0[m
+Merge: bf4db17 67d4d68
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 10 18:26:56 2020 +0000
+
+    Merge pull request #103 from HarshitKumarOjha/add-Harshit-ojha
+
+[33mcommit bf4db17fe5d3f15e13cf40c86fb5553582fc65f9[m
+Merge: bee04eb a061b92
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 10 18:25:56 2020 +0000
+
+    Merge pull request #102 from diisophiia/diisophiiaBranch
+
+[33mcommit 67d4d68c7b132a1d763362bad4b0aa529c9857db[m
+Author: HarshitKumarOjha <harshitojha46@gmail.com>
+Date:   Sat Oct 10 23:55:04 2020 +0530
+
+    Add Harshit Ojha
+
+[33mcommit a061b92274db4eb4f7afad500822de1e00747b1e[m
+Author: Andreia Silva <andreiasofia810@gmail.com>
+Date:   Sat Oct 10 19:21:59 2020 +0100
+
+    Add diisophiia.json
+
+[33mcommit bee04ebc5cc7f35a6743a3c3439ab5dbf40368f0[m
+Merge: fc81f55 64316b1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 9 22:25:15 2020 +0000
+
+    Merge pull request #101 from kofosu2289/add-kofosu2289
+
+[33mcommit 64316b1c7c2e66899cda8321af110c9e91d39674[m
+Author: Kenneth Ofosu <kofosu89@gmail.com>
+Date:   Fri Oct 9 18:02:39 2020 -0400
+
+    Fix spelling error
+
+[33mcommit 11a6fd94543bc265f677fcb57b40d05986e685d8[m
+Merge: 894e864 f68a062
+Author: Kenneth Ofosu <kofosu89@gmail.com>
+Date:   Fri Oct 9 17:58:53 2020 -0400
+
+    fix merge conflict
+
+[33mcommit 894e8640dabf0545290d3c4d3b6fc2e0132261eb[m
+Author: Kenneth Ofosu <kofosu89@gmail.com>
+Date:   Fri Oct 9 17:54:44 2020 -0400
+
+    Add kofosu2289.json
+
+[33mcommit f68a062bf5907ca9e67b013e869aa0dc5bfb1313[m
+Author: Kenneth Ofosu <kofosu89@gmail.com>
+Date:   Fri Oct 9 17:47:03 2020 -0400
+
+    add kofosu2289.json to ./public/directory
+
+[33mcommit fc81f55599a0de3bc945dd6f98b5e0363860b911[m
+Merge: 54c4a4f 9c5d0b1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 9 16:56:48 2020 +0000
+
+    Merge pull request #100 from ashiaecs/add-ashiaecs
+
+[33mcommit 9c5d0b1687dc4833ccef09499693e7676aad7590[m
+Author: Ashi <ashiaecs@gmail.com>
+Date:   Fri Oct 9 22:25:22 2020 +0530
+
+    Add ashiaecs.json
+
+[33mcommit 745b1c8605e9a466bd1b7611a62fc4dde3177bf6[m
+Author: Ashi <ashiaecs@gmail.com>
+Date:   Fri Oct 9 22:15:28 2020 +0530
+
+    Add ashiaecs.json
+
+[33mcommit 9c245658a406b50be5f9eae43db52cfe788c046d[m
+Author: Ashi <ashiaecs@gmail.com>
+Date:   Fri Oct 9 21:57:40 2020 +0530
+
+    Add ashiaecs.json
+
+[33mcommit 54c4a4f65588149a6e97c2ffc9a80c9a07c8bc68[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 9 21:30:04 2020 +0530
+
+    Fixed syntax
+
+[33mcommit 9e081ce41ffd5a726bc84051e7b2bd64a708df9c[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 9 21:27:44 2020 +0530
+
+    Added error catching for profile not found
+
+[33mcommit abaf7d75f99cde8699e38da7075a834d4252b7db[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 9 21:23:31 2020 +0530
+
+    Delete mrinal-27.json
+
+[33mcommit fd79366947c56d8b6ea24c6538b3a87c97f5c053[m
+Merge: ef843a9 6f70c7f
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 9 21:05:07 2020 +0530
+
+    Merge pull request #99 from Fonta22/add-Fonta22
+    
+    Add Fonta22.json
+
+[33mcommit ef843a944e34c4cd12a4a87af5438b0b3bd98287[m
+Merge: 8b576ba e65d061
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 9 21:04:26 2020 +0530
+
+    Merge pull request #98 from FaMoSi/add-famosi
+
+[33mcommit 8b576bab989954eb0cc0468f2fcb939d887f2f48[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 9 15:39:16 2020 +0530
+
+    Fixed name not matching
+
+[33mcommit e65d061a64d66502cd6d19dd2e4f97ed94509343[m
+Author: Famosi <simone.faggi@yahoo.it>
+Date:   Thu Oct 8 14:25:41 2020 +0200
+
+    Add FaMoSi.json
+
+[33mcommit 6f70c7f5e152bdae9086d79f64b0038664e9a084[m
+Author: Fonta22 <paufontasp@gmail.com>
+Date:   Thu Oct 8 14:23:19 2020 +0200
+
+    Add Fonta22.json
+
+[33mcommit 8565686ddd840c98d508e44fb49a7403acee9b83[m
+Author: Famosi <simone.faggi@yahoo.it>
+Date:   Thu Oct 8 14:21:41 2020 +0200
+
+    Add FaMoSi.json
+
+[33mcommit d2004209aabf5bb25ad97abfd22c94ba49209228[m
+Author: Famosi <simone.faggi@yahoo.it>
+Date:   Thu Oct 8 14:12:08 2020 +0200
+
+    Add FaMoSi.json
+
+[33mcommit 53925e92856f2a066a4da8c3d86e375187b81a92[m
+Merge: 42020b9 cb6a389
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 8 07:09:17 2020 +0000
+
+    Merge pull request #97 from wisetok12680/contributed
+
+[33mcommit cb6a389cbf0f39dafc5f254b138b22879d8c9d25[m
+Author: Aarush Srivastava <53168325+wisetok12680@users.noreply.github.com>
+Date:   Thu Oct 8 12:36:04 2020 +0530
+
+    Add wisetok12680.json
+
+[33mcommit 42020b9b12f87631f63db8f571a1535c58f36f48[m
+Merge: be66959 5d68643
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 8 03:03:14 2020 +0000
+
+    Merge pull request #96 from viragz158/add-vzaveri-changes
+
+[33mcommit 5d68643b8917c4352abf7182a8b5dbde39eac1b4[m
+Author: Virag Zaveri <zaveri.v@husky.neu.edu>
+Date:   Wed Oct 7 22:59:17 2020 -0400
+
+    Add viragz158.json
+
+[33mcommit be6695973275c9172e35d99a8f22b813b6df72bf[m
+Merge: e9293bb 2652be3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 7 17:37:00 2020 +0000
+
+    Merge pull request #95 from isaxito/isaacsito-branch
+
+[33mcommit 2652be3411c925dd9125f7c22f1477242fc29727[m
+Author: Isaac <isaaceguaras@gmail.com>
+Date:   Wed Oct 7 14:33:57 2020 -0300
+
+    Add isaxito.json
+
+[33mcommit e9293bb48d19302c21b8f806566d4c2572f5ccbf[m
+Merge: 05a09a9 02a9330
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 7 07:58:26 2020 +0000
+
+    Merge pull request #94 from BitByte-TPC/Janglee123-patch-2
+
+[33mcommit 02a9330c98bb50ab55f5ad1b3c052f410084beb2[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 13:17:21 2020 +0530
+
+    Update janglee123.json
+
+[33mcommit 05a09a983d60214d23f1bab707fdca7c681f1fd2[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 07:56:43 2020 +0000
+
+    Fixed await
+
+[33mcommit 26cc62e23097d004c3c7d676b69dd38a02565314[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 07:52:13 2020 +0000
+
+    Fixed name not matching
+
+[33mcommit 2e6b29de17625a8e9ee90d4f91df3c6f227210dc[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 07:46:33 2020 +0000
+
+    Fixed debug not found
+
+[33mcommit d7bc530b2935232e7bc1578e1ad284d262d0f2f6[m
+Merge: fad3115 dbd9d97
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 7 07:43:11 2020 +0000
+
+    Merge pull request #93 from BitByte-TPC/Janglee123-patch-1
+
+[33mcommit dbd9d9767ec2fa45971a7c2ebddf5c6de52c4181[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 13:11:50 2020 +0530
+
+    Update janglee123.json
+
+[33mcommit fad31151f5dd75cc53c4f8bdafa7ad7980594c83[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 13:10:53 2020 +0530
+
+    Rewrote tests with new logic (#88)
+
+[33mcommit 1a789a3b66351d71806f4c7f155d5a5e60c07661[m
+Merge: 2c6d849 d5fd8b7
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 12:51:49 2020 +0530
+
+    Merge pull request #90 from dakshayahuja/add-Dakshay
+    
+    Added dakshayahuja.json
+
+[33mcommit 2c6d84955100bade5fad3702ce3ca8195b617181[m
+Merge: 61acb27 1f3ad8c
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Oct 7 12:51:30 2020 +0530
+
+    Merge pull request #91 from sankshitpandoh/sankshit
+    
+    Added sankshitpandoh.json
+
+[33mcommit 1f3ad8c2e3085db92b7f8d8585864df1ce7defe1[m
+Author: sankshitpandoh <sankshit.pandoh@signzy.com>
+Date:   Tue Oct 6 20:52:41 2020 +0530
+
+    Added sankshitpandoh.json
+
+[33mcommit d5fd8b7d6dbe2c09a4e0fe5205f2af87ab273eba[m
+Author: Dakshay Ahuja <dakshayahuja02@gmail.com>
+Date:   Tue Oct 6 14:49:46 2020 +0530
+
+    dakshayahuja.json
+
+[33mcommit 61acb27fbbe40621fe186cc16a7e434cc0f700e8[m
+Merge: f8e11bf 11eee49
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Oct 6 08:41:25 2020 +0530
+
+    Merge pull request #89 from hritikpnd24/hritik
+
+[33mcommit 11eee496d3f92aa1260f8481900a89bd8ff2929a[m
+Author: hritikpnd24 <hritikpnd24@gmail.com>
+Date:   Mon Oct 5 21:44:52 2020 +0530
+
+    Add hritikpnd24.json
+
+[33mcommit f8e11bf797b8678f8b38aa7219b0537b8765cd36[m
+Merge: 0706eaa 06bb065
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Mon Oct 5 12:01:20 2020 +0530
+
+    Merge pull request #48 from chamindujs/master
+    
+    Add macOS instructions
+
+[33mcommit 06bb065a60093a7cf3a6a74b20f9011e1af9b33c[m
+Author: Chamindu Amarasinghe <chamindujs@gmail.com>
+Date:   Mon Oct 5 08:41:01 2020 +0530
+
+    Update macOS guide
+
+[33mcommit 0706eaaa9f7a2bdad23f485bfc2391f7b592e2e7[m
+Merge: ed3f1e5 471a7b3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 4 09:14:51 2020 +0000
+
+    Merge pull request #87 from YASH3166/patch-1
+
+[33mcommit 471a7b35e6e05607fd6be5d5c58d734e95b996aa[m
+Author: YASH3166 <70128865+YASH3166@users.noreply.github.com>
+Date:   Sun Oct 4 14:43:42 2020 +0530
+
+    Create Yash.json
+
+[33mcommit ed3f1e54f1256394ffdf33730add036e2f58b9ed[m
+Merge: 14fc772 8d8c7f7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Oct 4 04:27:13 2020 +0000
+
+    Merge pull request #86 from RutvikJ77/master
+
+[33mcommit 8d8c7f79ebcba1aa693528ad6e30bfbbf40cc054[m
+Author: Rutvik J <rutvikj77@outlook.com>
+Date:   Sun Oct 4 09:55:40 2020 +0530
+
+    Added RutvikJ77.json
+
+[33mcommit 14fc7720d89fd1e4cbb51c66e8253718f55ad78e[m
+Merge: ae67a7f f22ad4c
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sun Oct 4 09:26:04 2020 +0530
+
+    Merge pull request #85 from BitByte-TPC/revert-83-master
+    
+    Revert "Added An-Eye.json"
+
+[33mcommit f22ad4c7ce2a0b3341992edfdeeb513dc8821dec[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sun Oct 4 09:25:07 2020 +0530
+
+    Revert "Added An-Eye.json"
+
+[33mcommit ae67a7ff4786c3a6ee24b9c6cfa94c1f44d08483[m
+Merge: d340c95 680ef18
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 3 19:23:24 2020 +0000
+
+    Merge pull request #83 from An-Eye/master
+
+[33mcommit 680ef18923cba7c51db5ff08203992cbed69e85f[m
+Author: Championrunner <27343592+Ishaan28malik@users.noreply.github.com>
+Date:   Sun Oct 4 00:52:34 2020 +0530
+
+    Delete sketch.js
+
+[33mcommit 6dfe3c561a06508cb89f552237c8d2696706b51a[m
+Author: Championrunner <27343592+Ishaan28malik@users.noreply.github.com>
+Date:   Sun Oct 4 00:51:35 2020 +0530
+
+    Create An-Eye.json
+
+[33mcommit d340c95502faa48e65cf19223a1af9b1775020c9[m
+Merge: 02bb03d 8037638
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 3 17:58:59 2020 +0000
+
+    Merge pull request #82 from Ishaan28malik/patch-1
+
+[33mcommit 80376380fdd90a5746767b0f2748acc572748ac5[m
+Author: Championrunner <27343592+Ishaan28malik@users.noreply.github.com>
+Date:   Sat Oct 3 23:27:30 2020 +0530
+
+    Create Ishaan.json
+
+[33mcommit 6fe6317422bdd4ccdbc79afff8d4e1af447278ac[m
+Author: Chamindu Amarasinghe <chamindujs@gmail.com>
+Date:   Sat Oct 3 22:06:34 2020 +0530
+
+    Update README.md
+
+[33mcommit 02bb03da82d88af733a3adbc4d2b8bf31b66a9aa[m
+Merge: dc7a844 6669132
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 3 13:25:11 2020 +0000
+
+    Merge pull request #81 from Sourav-Patel/master
+
+[33mcommit 6669132f61c84f519b19bed45cefc6b78eda78d0[m
+Author: Sourav-Patel <68344470+Sourav-Patel@users.noreply.github.com>
+Date:   Sat Oct 3 18:52:54 2020 +0530
+
+    Create sourav.json
+
+[33mcommit d3704945f8036014847c2ff7716a3c255b19cbcc[m
+Author: Championrunner <27343592+Ishaan28malik@users.noreply.github.com>
+Date:   Sat Oct 3 18:11:19 2020 +0530
+
+    Update sketch.js
+
+[33mcommit dc7a844f0e568154daa47ee885c82e5a01f462eb[m
+Merge: 8870dbd 0e27a34
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 3 12:31:10 2020 +0000
+
+    Merge pull request #79 from geetu-sharma/patch-1
+
+[33mcommit 0e27a3485ffab965de8a193a47114e7e803e8cbb[m
+Author: GEETU <35969449+geetu-sharma@users.noreply.github.com>
+Date:   Sat Oct 3 17:59:43 2020 +0530
+
+    Create Geetu.json
+
+[33mcommit 8870dbd5fc170ad6d33bbab14959d2cc03d76b20[m
+Merge: 9453617 04f3bed
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 3 12:29:00 2020 +0000
+
+    Merge pull request #78 from Hassnain21/patch-1
+
+[33mcommit 04f3bed88ef9c51976c3c1dde407b07983014aae[m
+Author: Luke <56715753+Hassnain21@users.noreply.github.com>
+Date:   Sat Oct 3 17:56:34 2020 +0530
+
+    Create Hassnain.json
+
+[33mcommit 9453617d777c62fda807396cabd61f5f2db8e89c[m
+Merge: c6ec85e a0002ec
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 3 10:16:55 2020 +0000
+
+    Merge pull request #77 from YasiOnFire/add-yasionfire
+
+[33mcommit a0002ecd5af06732f61f2cc2297458ec947c023a[m
+Author: Yasio <baszczok@yasio.pl>
+Date:   Sat Oct 3 12:14:15 2020 +0200
+
+    Add YasiOnFire.json
+
+[33mcommit c6ec85e578babc72179c00fe7afa56ddbdbb4351[m
+Merge: 55a4e2f c2c52b1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Oct 3 08:28:12 2020 +0000
+
+    Merge pull request #76 from Harshita248/add-harshita-raj
+
+[33mcommit c2c52b1e46b39c8de5716cb2c209cca0845f4de6[m
+Author: Harshita248 <harshitaraj248@gmail.com>
+Date:   Sat Oct 3 13:55:58 2020 +0530
+
+    Added harshita248.json
+
+[33mcommit 55a4e2fd65d52d6455895628e7027fcaf1158f9c[m
+Merge: aa1bc36 c8400a5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 2 20:05:37 2020 +0000
+
+    Merge pull request #75 from swetasahoo29/add-alonzo-church
+
+[33mcommit c8400a54e5cea84318a46b6da8659e5156a66d46[m
+Author: Your Name <you@example.com>
+Date:   Sat Oct 3 01:25:56 2020 +0530
+
+    Add swetasahoo29.json
+
+[33mcommit aa1bc364b30b03846b6ed9a1c54758a2e9d87840[m
+Merge: ebdd26a 8adfeb1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 2 18:37:40 2020 +0000
+
+    Merge pull request #74 from Priyanshu2802/master
+
+[33mcommit 8adfeb1e7efff0d62c4fda45d5c8768446588c60[m
+Author: PRIYANSHU RANJAN <63105488+Priyanshu2802@users.noreply.github.com>
+Date:   Sat Oct 3 00:06:08 2020 +0530
+
+    ADDED Priyanshu2802.json
+
+[33mcommit 8c6a936d253af59496963cc5443c312e256df466[m
+Author: hritikpnd24 <hritikpnd24@gmail.com>
+Date:   Sat Oct 3 00:01:09 2020 +0530
+
+    Add hritikpnd24.json
+
+[33mcommit ebdd26a32344013e366e7ab33091c05941992066[m
+Merge: 098268c 8f5186d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 2 16:56:07 2020 +0000
+
+    Merge pull request #72 from mrinal-27/add-mrinal-bhave
+
+[33mcommit 8f5186da120902ac7b851c7333c6dfe1823c6fe3[m
+Author: Mrinal Bhave <mrinalbhave27@gmail.com>
+Date:   Fri Oct 2 22:22:59 2020 +0530
+
+    Add mrinal-27.json
+
+[33mcommit 098268c7ee8a631a4c727e3192742787458888bb[m
+Merge: 50a98a0 b4d6540
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 2 07:37:31 2020 +0000
+
+    Merge pull request #71 from Zubair-12/master
+
+[33mcommit b4d6540aa75ee7be98a9121020e45376becc48b3[m
+Author: Zubair Ahmed Khushk <70325002+Zubair-12@users.noreply.github.com>
+Date:   Fri Oct 2 12:34:21 2020 +0500
+
+    Added Zubair-12.json
+
+[33mcommit 4e6656a7ee497ca1cc79c1357a06e0f7dc2c1306[m
+Author: Zubair Ahmed Khushk <70325002+Zubair-12@users.noreply.github.com>
+Date:   Fri Oct 2 12:32:05 2020 +0500
+
+    Add this-is-you
+
+[33mcommit 50a98a055f332961e0fcd375c6d067e5f597c581[m
+Merge: 2f44dd2 b492f4b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 2 06:54:02 2020 +0000
+
+    Merge pull request #70 from guptadhaval18/b1
+
+[33mcommit b492f4b20ec9cedd177d4866f4783dc9e8bba59b[m
+Author: Dhaval Gupta <guptadhaval18@gmail.com>
+Date:   Fri Oct 2 12:20:06 2020 +0530
+
+    Add guptadhaval18.json
+
+[33mcommit 2f44dd25ac4c8603f46ec656307a0d4d966b2f1d[m
+Merge: 9f57ebd 30d32b7
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Fri Oct 2 10:33:16 2020 +0530
+
+    Merge pull request #57 from Arihant25/patch-1
+    
+    Fix grammar and typos in README
+
+[33mcommit 9f57ebd66855d884265797a01a34b2d4f87d9bdf[m
+Merge: c3f7707 5feb39d
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 2 01:54:08 2020 +0530
+
+    Merge pull request #68 from BitByte-TPC/last-commit-check
+    
+    Fixed recent commit lookup
+
+[33mcommit 5feb39d513c1f48e10a5b0cdd47a2a2c5ee3e705[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Thu Oct 1 20:21:23 2020 +0000
+
+    Fixed recent commit lookup
+
+[33mcommit c3f7707851551a822d7a737cf4804e997979669c[m
+Merge: 58e1ca3 e8d9ff2
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 20:09:36 2020 +0000
+
+    Merge pull request #67 from Anjali041/new-user
+
+[33mcommit e8d9ff2ce3de361d9554e4c6ba2f08443ffe1a94[m
+Author: Anjali041 <anjali041kumari@gmail.com>
+Date:   Fri Oct 2 01:36:18 2020 +0530
+
+    Added Anjali041.json
+
+[33mcommit 58e1ca32d27b374af445b6d9f5a418004a387f0b[m
+Merge: 318677b 289ce37
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Fri Oct 2 01:31:26 2020 +0530
+
+    Merge pull request #66 from BitByte-TPC/many-file-fix
+    
+    Fixed correct file lookup
+
+[33mcommit 289ce37fdeb96f55bbe8b102d2d763319282beff[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Thu Oct 1 19:57:41 2020 +0000
+
+    Fixed correct file lookup
+
+[33mcommit 318677be7e411e9ef15bca0b2ae49d4b7f9af965[m
+Merge: ca3b5b2 de774a5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 16:33:26 2020 +0000
+
+    Merge pull request #65 from Yash10299/yashm
+
+[33mcommit de774a51fb8f5878568ec5ea160d2e183965cc07[m
+Author: Yash Manish Mehta <yashmehta10299@gmail.com>
+Date:   Thu Oct 1 22:01:05 2020 +0530
+
+    Added Yash10299.json
+
+[33mcommit ca3b5b2a01f700396f63ec27b27f12cbbe06559a[m
+Merge: 79da775 1188cc8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 15:49:58 2020 +0000
+
+    Merge pull request #64 from NavtikaKumar/navtika-first-timer
+
+[33mcommit 1188cc86c1e7c01c389411f013c63b87ba753fe4[m
+Author: Navtika Kumar <kumarnavtika@gmail.com>
+Date:   Thu Oct 1 21:15:05 2020 +0530
+
+    Add NavtikaKumar.json
+
+[33mcommit 79da775a604b3d67f707c86a7891b9386557df05[m
+Merge: 16fcaa3 cf84849
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 14:39:35 2020 +0000
+
+    Merge pull request #63 from rizaradiarivaldo/mmc
+
+[33mcommit 16fcaa344aad5ec8fe7a90b9ffab39f3aa6ece62[m
+Merge: 5f9a019 9a470ce
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 14:39:01 2020 +0000
+
+    Merge pull request #62 from patagu/patagu-first-contribution
+
+[33mcommit cf8484952c42680c60bf9625e910e164e7728eac[m
+Author: rizaradiarivaldo <rizaradiarivaldo@gmail.com>
+Date:   Thu Oct 1 21:37:24 2020 +0700
+
+    rizaradiarivaldo
+
+[33mcommit 9a470cef9d34d5288fed305ca872ba6cd2ce8675[m
+Author: patagu <patricia.sterkel@gmail.com>
+Date:   Thu Oct 1 16:32:47 2020 +0200
+
+    Add patagu.json
+    
+    Add patagu.json for first contribution.
+
+[33mcommit 5f9a0190aa19e25d661acef1656c87331eac2b12[m
+Merge: 0a49490 88d6c55
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 12:41:36 2020 +0000
+
+    Merge pull request #61 from kanishka8276/kanishka8276
+
+[33mcommit 88d6c55b23f680ca2c116aa4d7246743dad2dfcd[m
+Author: Kanishka Vijayvargiya <2019076@iiitdmj.ac.in>
+Date:   Thu Oct 1 18:09:26 2020 +0530
+
+    Add kanishka8276.json
+
+[33mcommit 0a494905431c12b3b190e1b0639da83f694dacde[m
+Merge: 4ceff69 148c4d3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 12:18:14 2020 +0000
+
+    Merge pull request #60 from akshatgondane/add-akshat-gondane
+
+[33mcommit 148c4d3606e9fd0fa75f67469980c67f4056ca5e[m
+Author: akshatgondane <akshatgondane@gmail.com>
+Date:   Thu Oct 1 17:40:12 2020 +0530
+
+    Add akshatgondane.json
+
+[33mcommit 4ceff695e3234c343a08f89c6ee21fb1fdb44517[m
+Merge: 6e5093a 414289a
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 10:12:39 2020 +0000
+
+    Merge pull request #59 from x-series/first-change
+
+[33mcommit 414289aafc8ab210f7de2ff40545a5ce6b04c226[m
+Author: Sunil Kumar Nunia <sunilnunia2000@gmail.com>
+Date:   Thu Oct 1 15:41:20 2020 +0530
+
+    changes
+    
+    changes to bio
+
+[33mcommit f61e83f371d281ea3fce2e120e86a6dab004e4b1[m
+Author: Sunil Kumar Nunia <sunilnunia2000@gmail.com>
+Date:   Thu Oct 1 15:28:54 2020 +0530
+
+    Created a file Nunia.json
+    
+    Displaying my username, fullname and bio!
+
+[33mcommit 6e5093ab8fd8af3ebe099956db119e9f06d521bb[m
+Merge: 03d0fcd d5515ce
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 09:22:16 2020 +0000
+
+    Merge pull request #58 from sebastianroming/add-sebastianroming
+
+[33mcommit d5515ce988fb41052ae411d011c2b8fa910bfa28[m
+Author: Roming <sebastian.roming@sw-machines.com>
+Date:   Thu Oct 1 11:18:21 2020 +0200
+
+    Add sebastianroming.json
+
+[33mcommit 03d0fcdda45d7c398a1677edf93da5f3a2163c8a[m
+Merge: 81fcdc9 9af1462
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 08:55:37 2020 +0000
+
+    Merge pull request #56 from haidarrifki/add-haidar-rifki
+
+[33mcommit 9af14620b98e3992051670e069ec20a58de27b60[m
+Author: haidarrifki <haidarrfki@gmail.com>
+Date:   Thu Oct 1 15:50:00 2020 +0700
+
+    Add haidarrifki.json
+
+[33mcommit 81fcdc9ed89c279cd38ad7e1668e7b43f8b8a4c1[m
+Merge: 99cd2a3 f24e184
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 08:10:38 2020 +0000
+
+    Merge pull request #55 from lazav94/add-lazav94
+
+[33mcommit f24e184f83a6b6804ada7d2e9564b76e19721178[m
+Author: Lazar <lazar.vasic@gastfreund.net>
+Date:   Thu Oct 1 10:08:48 2020 +0200
+
+    Add lazav94.json
+
+[33mcommit 99cd2a3a6a49d07626028b6aa66ae027aee98a8e[m
+Merge: 0297a42 96bd1c8
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 07:38:36 2020 +0000
+
+    Merge pull request #54 from manRexx/manRex
+
+[33mcommit 96bd1c8d8857a89905292a67c735329b5f9821fa[m
+Author: Manik-Rawat <manikrawat@outlook.com>
+Date:   Thu Oct 1 13:01:55 2020 +0530
+
+    added info file
+
+[33mcommit 0297a423aeda7cf3e215f2972ae031ed1c4b110e[m
+Merge: e997929 d710d47
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 04:25:02 2020 +0000
+
+    Merge pull request #53 from fikimaul/add-fikimaul
+
+[33mcommit d710d47636870b24337334b959a6f53db19adc7f[m
+Author: Fiki Maulana <fikimaul@gmail.com>
+Date:   Thu Oct 1 11:22:58 2020 +0700
+
+    Add fikimaul.json
+
+[33mcommit e9979298485a6b1bb0f938583690cd5e30aebf53[m
+Merge: 148f16e d60f2c4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 04:02:11 2020 +0000
+
+    Merge pull request #52 from muhamadhafidz/add-hafidz
+
+[33mcommit d60f2c4457c6e808ee1032332f63d9c409c589f4[m
+Author: Muhamad Nur Hafidz <muhamadhafidz07@gmail.com>
+Date:   Thu Oct 1 11:00:01 2020 +0700
+
+    add muhamadhafidz.json
+
+[33mcommit 148f16ee05a4a84f868ead0fa38f9ac1b1253cff[m
+Merge: a5df932 c399e19
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 03:20:19 2020 +0000
+
+    Merge pull request #51 from erikhlp/erikhlp
+
+[33mcommit 0cf43ff6cdae44d887af2236497800bccb6e2b16[m
+Author: KathleenCurran2021 <kathleencurran_2021@depauw.edu>
+Date:   Wed Sep 30 22:40:05 2020 -0400
+
+    add this-is-you.json
+
+[33mcommit 6f4bf9542e5b35abe2eee2970b38be39fe7d407a[m
+Author: KathleenCurran2021 <kathleencurran_2021@depauw.edu>
+Date:   Wed Sep 30 22:37:35 2020 -0400
+
+    add this-is-you.json
+
+[33mcommit 9218dcc72d5b12504be8d8e6a878e36a2cac1f99[m
+Author: KathleenCurran2021 <kathleencurran_2021@depauw.edu>
+Date:   Wed Sep 30 22:21:10 2020 -0400
+
+    add this-is-you.json
+
+[33mcommit a5df932b0a41ef976d9366005375fe48eb316c49[m
+Merge: 7a4aab1 33b64b3
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 1 01:58:51 2020 +0000
+
+    Merge pull request #49 from sofyanmoch/daop
+
+[33mcommit 33b64b387922f7f139139eb4febcdbb114622df2[m
+Author: sofyan-dev <mchsfyan17@gmail.com>
+Date:   Thu Oct 1 08:56:41 2020 +0700
+
+    add sofyanmoch
+
+[33mcommit c399e19cea4e0c313b9f692e3b1dea41a51e7159[m
+Author: Erikh <domingueserikh@gmail.com>
+Date:   Wed Sep 30 22:03:07 2020 -0300
+
+    Add erikhlp.json
+
+[33mcommit 7a4aab1ed649df0062b773cfc2aeb9312e39ad7b[m
+Merge: 3374fd4 e887d60
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Sep 30 18:53:11 2020 +0000
+
+    Merge pull request #46 from garvitgupta13/add-garvit-gupta
+
+[33mcommit e887d60815a3e797170542fe109180d28445ddbf[m
+Author: Garvit Gupta <garvitgupta2001@gmail.com>
+Date:   Thu Oct 1 00:21:30 2020 +0530
+
+    Added Garvit Gupta
+
+[33mcommit 30d32b761cb58174ddaa07132a9f59604ed1b7d9[m
+Author: Arihant Tripathy <arihanttr@live.com>
+Date:   Wed Sep 30 14:29:33 2020 +0530
+
+    Fix grammar and typos in README
+
+[33mcommit 3374fd4e1f2243ccb14f1bf8dbf9831b69760b7a[m
+Merge: 8595484 223c0ea
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Sep 30 07:58:46 2020 +0000
+
+    Merge pull request #45 from MrLucyfer/add-mrlucyfer
+
+[33mcommit 223c0ea798f95837dba97b2a35dac279d5ea0360[m
+Author: Nil Folquer <nfolquer@gmail.com>
+Date:   Wed Sep 30 09:56:10 2020 +0200
+
+    Add MrLucyfer.json
+
+[33mcommit a4157b9c4cc99a71a0eccd521474f31ccf3a276e[m
+Author: Chamindu Amarasinghe <chamindujs@gmail.com>
+Date:   Tue Sep 29 10:02:57 2020 +0530
+
+    Add macOS instructions
+    
+    Add macOS instructions for navigating and editing files.
+
+[33mcommit 859548408fc476103ef4fe2dfd6eb974c9181dc0[m
+Merge: f790d7c fd76206
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Sep 28 20:49:53 2020 +0000
+
+    Merge pull request #44 from TrashPandit/add-my-bio
+
+[33mcommit fd76206a721270aea9398d7626ff7729f446f727[m
+Author: Abraham Guernsey <abrahamguernsey@gmail.com>
+Date:   Mon Sep 28 16:47:03 2020 -0400
+
+    Add TrashPandit.json
+
+[33mcommit f790d7ceebec9cad2ac65f0e06312c226d3f73b3[m
+Merge: 84f6cf2 44ca19f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Sep 28 08:49:32 2020 +0000
+
+    Merge pull request #43 from code-bmk/add-code-bmk
+
+[33mcommit 44ca19f06c8b1fc51599751da0fb743f0f7e455c[m
+Author: Beni Madhab Kayal <benimadhab11@gmail.com>
+Date:   Mon Sep 28 14:16:35 2020 +0530
+
+    add code-bmk.json
+
+[33mcommit 84f6cf275b5a7a0d093ed2688544d122b3c5f2aa[m
+Merge: d97cd6f 55c5dc6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Sep 27 22:45:42 2020 +0000
+
+    Merge pull request #42 from rejvban/add-lazar-karic
+
+[33mcommit 55c5dc629295170331332bb86b60e251d5713346[m
+Author: Lazar Karic <kadzajr@gmail.com>
+Date:   Mon Sep 28 00:43:09 2020 +0200
+
+    Add rejvban.json
+
+[33mcommit d97cd6f72745ea03770299c101670137ebfdb224[m
+Merge: d5d1405 ea4e9a2
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Sun Sep 27 15:03:15 2020 +0530
+
+    Merge pull request #40 from Augilar/spelling_correction
+    
+    Update README.md
+
+[33mcommit d5d14053f77e1433f7d37721712d6fbdc7e41f2d[m
+Merge: 84df6d3 6cb03db
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Sep 27 08:18:59 2020 +0000
+
+    Merge pull request #41 from Augilar/master
+
+[33mcommit 6cb03db8cd207db12aba8b20d33c27d686e2b625[m
+Merge: 84df6d3 9eda0cb
+Author: Varshith Kancharla <58568049+Augilar@users.noreply.github.com>
+Date:   Sun Sep 27 13:44:45 2020 +0530
+
+    Merge pull request #1 from Augilar/add-augilar
+    
+    Create augilar.json
+
+[33mcommit 9eda0cb5901cb38da20c318db7edd913feee80a5[m
+Author: Varshith Kancharla <58568049+Augilar@users.noreply.github.com>
+Date:   Sun Sep 27 13:41:15 2020 +0530
+
+    Create augilar.json
+
+[33mcommit ea4e9a290eaf39edef5bf84798206ac4e607aad5[m
+Author: Varshith Kancharla <58568049+Augilar@users.noreply.github.com>
+Date:   Sun Sep 27 13:26:12 2020 +0530
+
+    Update README.md
+    
+    corrected a spelling mistake
+
+[33mcommit 84df6d38f061a225a1490a1218fc77228b7d4db0[m
+Merge: 29d7a69 fd039c9
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sat Sep 26 21:04:07 2020 +0530
+
+    Merge pull request #34 from rishitha-pericherla95/mybranch-addname
+    
+    Adding RishithaPericherla.json
+
+[33mcommit fd039c9c3ebc6ec3a565725268d36a840ab44940[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sat Sep 26 20:15:26 2020 +0530
+
+    Delete RishithaPericherla.json
+
+[33mcommit 29d7a6999297b5db6be5b179485f46cd0c97a8c9[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sat Sep 26 14:44:40 2020 +0000
+
+    Added checks to abort gh-action
+
+[33mcommit f0bf5836d75acf3b416820d6b51bbbe3bfb7ae6c[m
+Merge: 02ca794 c84be1d
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sat Sep 26 19:53:57 2020 +0530
+
+    Merge pull request #39 from BitByte-TPC/revert-38-my_branch
+    
+    Revert "this is my first commit"
+
+[33mcommit c84be1d0e35dec5ebb6a52132d1fbbe8dcbc876c[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sat Sep 26 19:53:39 2020 +0530
+
+    Revert "this is my first commit"
+
+[33mcommit 02ca794df845ca75ae79fd40f64a83084f24e0c2[m
+Merge: 0ce5b37 1ce2bfd
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Sep 26 10:43:18 2020 +0000
+
+    Merge pull request #38 from pratyush-02/my_branch
+
+[33mcommit 1ce2bfd0bbf532a17196083989574a03626add5e[m
+Author: pratyush-02 <pratyush.messy02@gmail.com>
+Date:   Sat Sep 26 15:54:11 2020 +0530
+
+    this is my first commit
+
+[33mcommit 0ce5b37a78a90de6b370c27201034c13b1b5bc7e[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Sat Sep 26 13:10:40 2020 +0530
+
+    Reduce gif width in before-you-commit section in readme.
+
+[33mcommit 737a62625a400e3bcd8f49a96bb82bab61d8d584[m
+Merge: 94e974b 5c1ea17
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sat Sep 26 08:02:01 2020 +0000
+
+    Merge pull request #37 from sakshi-s/add-firstPR
+
+[33mcommit 5c1ea173ae217effaa4fcc4e0582fc3b59e2beca[m
+Author: Sakshi <sakshis.1407@gmail.com>
+Date:   Sat Sep 26 13:26:59 2020 +0530
+
+    Add sakshi-s.json
+
+[33mcommit 94e974b2cfb6a1e9fbf30cdbab5ba4f8d2c7eb2d[m
+Merge: 256488b c9524b5
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Sat Sep 26 08:42:47 2020 +0530
+
+    Merge pull request #36 from avats-dev/hf-assets
+    
+    Add hacktoberfest assets
+
+[33mcommit c9524b5865196425987beb941e6f814ab2a9c280[m
+Author: avats-dev <avats.osc@gmail.com>
+Date:   Sat Sep 26 08:41:08 2020 +0530
+
+    add hf assets and refactor
+
+[33mcommit d703781f5ea8e1f63f411ab9c38736c110c98984[m
+Merge: 256488b a6d103f
+Author: avats-dev <avats.osc@gmail.com>
+Date:   Sat Sep 26 08:38:43 2020 +0530
+
+    Merge branch 'hf-assets' of https://github.com/avats-dev/first-bit into hf-assets
+
+[33mcommit a6d103fbd971c2167b7d683749d38922baab1cfd[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Sat Sep 26 08:34:34 2020 +0530
+
+    Delete dummy hf
+
+[33mcommit b3e6cae186cfa5a7750f309bdecaca02bc855b2b[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Sat Sep 26 08:33:22 2020 +0530
+
+    Add hf banner and logo
+
+[33mcommit 734afffed545c54f3b16b6ba77d70f677c1855c9[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Sat Sep 26 08:31:39 2020 +0530
+
+    create dummy hf
+
+[33mcommit 256488ba0852f540fd466a2abbeab67d4e9b4a8f[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Sat Sep 26 08:21:25 2020 +0530
+
+    Add hacktoberfest logo
+
+[33mcommit 4f8aa6b25320b99af39956eeca3ba579cf6d669c[m
+Merge: 093e227 e5a70b7
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Sat Sep 26 07:59:19 2020 +0530
+
+    Merge pull request #33 from avats-dev/githubid-edit
+    
+    Github Id guide and badges for actions
+
+[33mcommit 093e22711c30115c3fc1cc6b0ec73e6122de4976[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Sat Sep 26 07:42:07 2020 +0530
+
+    Fix last para in submit-your-changes-for-review
+
+[33mcommit e5a70b735b4d0d00273a5b5bd8b39bacd5457dcd[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Sat Sep 26 07:26:59 2020 +0530
+
+    Updated links
+
+[33mcommit 717dce0ff4cd2e19788c92260402c25f89d43b41[m
+Author: Rishitha Pericherla <pericherla.rishitha@gmail.com>
+Date:   Fri Sep 25 12:21:18 2020 -0700
+
+    adding rishitha-pericherla95 file
+
+[33mcommit 96d326f9fabe1d45e5c3cad54ebec574e62bcdb2[m
+Author: Rishitha Pericherla <pericherla.rishitha@gmail.com>
+Date:   Fri Sep 25 12:15:05 2020 -0700
+
+    Adding RishithaPericherla.json
+
+[33mcommit 857267bb0cbfdbdf1b95ed2560dfba65cdc8f089[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Sep 25 21:50:33 2020 +0530
+
+    Update submit-your-changes-for -review section in readme
+
+[33mcommit beaa7bb4e363110a43f76981a6b87cd80e5dcf79[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Sep 25 21:29:08 2020 +0530
+
+    Update push-changes-to-github section in readme
+
+[33mcommit 13a37a87c210f02a5910f779f776cec8a524e907[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Thu Sep 24 23:57:29 2020 +0530
+
+    Add gif for github username
+
+[33mcommit 24aa5d116954996846c65cd02d15102e12799668[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Thu Sep 24 23:44:49 2020 +0530
+
+    Add githubid guide and badges for actions
+
+[33mcommit 7575822a196a31811ae4f9c236197d7ae168561a[m
+Merge: 3899ed5 763a711
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Thu Sep 24 23:16:35 2020 +0530
+
+    Merge pull request #1 from BitByte-TPC/master
+    
+    Update my fork
+
+[33mcommit 763a7113f01f6dd4f081738bd2d6a16aba2b8147[m
+Merge: 7d92fc5 8d365c2
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Thu Sep 24 19:43:17 2020 +0530
+
+    Merge pull request #31 from Mohitmadhav/Open-Source
+    
+    Mohitmadhav.json
+
+[33mcommit 7d92fc50c79fe2465676cf5ab07f56c9c2f0a481[m
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Thu Sep 24 19:36:01 2020 +0530
+
+    Update shivamrai2001.json
+
+[33mcommit 4ef26ee443eee90b800fc90a43357b35e83600d8[m
+Merge: c074c11 4e4f84c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Sep 24 12:46:00 2020 +0000
+
+    Merge pull request #32 from ChiragSharma1/adding-chirag
+
+[33mcommit 4e4f84ccb436cdf4dbd2bf958821d87912dc19e0[m
+Author: ChiragSharma1 <chiragsharma1441@gmail.com>
+Date:   Thu Sep 24 18:14:08 2020 +0530
+
+    change bio in shivamrai2001.json
+
+[33mcommit 84a2d2a0399420497675ee9ea26ed6dc85bdb3d2[m
+Author: ChiragSharma1 <chiragsharma1441@gmail.com>
+Date:   Thu Sep 24 17:43:17 2020 +0530
+
+    Add ChiragSharma1.json
+
+[33mcommit 8d365c2945154a67bab73aa4640e7e268de8837b[m
+Author: Mohitmadhav <mohitmadhav88@gmail.com>
+Date:   Thu Sep 24 17:21:05 2020 +0530
+
+    Mohitmadhav.json
+
+[33mcommit c074c1172f355d3eaa962c019a056465ffdfac6f[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 23 15:25:25 2020 +0000
+
+    Updated jetBrains Mono font link
+
+[33mcommit ef5f78765362ed21980fa7b17e992150acca0809[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 23 15:15:32 2020 +0000
+
+    Removed unnecessary files
+
+[33mcommit f00dcdae6593d04cada49bfa7ecdde3d3984f6de[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 23 14:57:33 2020 +0000
+
+    Fixed githubId
+
+[33mcommit 42d98d85247aa0626bad07a84db1d9260a001134[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 23 14:56:11 2020 +0000
+
+    Added GitHubId and bio check
+
+[33mcommit 009200fb296b919530ae9733beedb73a5b238df4[m
+Merge: d56a7aa 7b9d3c4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Sep 23 11:10:14 2020 +0000
+
+    Merge pull request #29 from shivamrai2001/srnewbranch
+
+[33mcommit 7b9d3c463f5641b37bed79933716eec27e784391[m
+Author: shivamrai2001 <shivamrai19042001@gmail.com>
+Date:   Wed Sep 23 16:30:28 2020 +0530
+
+    Add shivamrai2001.json
+
+[33mcommit d56a7aa9432b86c19b8a1e7b7ff05a51f23d0176[m
+Merge: 577c443 66b8d1f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Sep 23 10:51:32 2020 +0000
+
+    Merge pull request #28 from RishabhDevbanshi/myBranch
+
+[33mcommit 66b8d1f19acea00461a775acf288160481621742[m
+Author: Rishabh Devbanshi <rdevbanshi35@gmail.com>
+Date:   Wed Sep 23 16:18:01 2020 +0530
+
+    Add RishabhDevbanshi.json
+
+[33mcommit 577c4437565aa530cac7991fbb3a095457060d4b[m
+Merge: 579c09e 2d97b71
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Sep 22 10:02:13 2020 +0000
+
+    Merge pull request #27 from vaibhavaaditya/add-va
+
+[33mcommit 2d97b71e4b4e4c144aea163ea533a6b1ffd2cb3f[m
+Author: Vaibhav <vaibhavaaditya@yahoo.com>
+Date:   Tue Sep 22 15:26:22 2020 +0530
+
+    add vaibhavaaditya.json
+
+[33mcommit 579c09e8b2e882e4cc25b671e27badc30374e0b0[m
+Merge: a82d9e1 4cb746d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Sep 22 06:16:37 2020 +0000
+
+    Merge pull request #26 from tmo66/master
+
+[33mcommit 4cb746d0fb683d7f6f1f55db80209cf46c811f9f[m
+Author: Tushar Maheshwari <tusharmaheshwaritm6@gmail.com>
+Date:   Tue Sep 22 11:44:02 2020 +0530
+
+    Add tmo66.json
+
+[33mcommit e98b0d8ecb0e6d72524bd0417ed9c50f611eb155[m
+Author: Tushar Maheshwari <tusharmaheshwaritm6@gmail.com>
+Date:   Tue Sep 22 11:22:58 2020 +0530
+
+    Add tmo66.json
+
+[33mcommit a82d9e152cd489f8391ab8c649343691cd715328[m
+Merge: 3592ddc 6e62d5c
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Mon Sep 21 23:44:57 2020 +0530
+
+    Merge pull request #24 from BitByte-TPC/new-bg
+
+[33mcommit 6e62d5cbad95495126e482581ef0ba381844e17f[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Mon Sep 21 18:09:39 2020 +0000
+
+    Added sketch in background
+
+[33mcommit fe0a969493e6546d3b0fac70c50733afda7d71b7[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Mon Sep 21 18:08:45 2020 +0000
+
+    Removed unnecessary code
+
+[33mcommit cac2d5cef7a389d27a379ffe57da8a66d78f6239[m
+Author: kanishka8276 <66053534+kanishka8276@users.noreply.github.com>
+Date:   Mon Sep 21 19:29:13 2020 +0530
+
+    Add files via upload
+
+[33mcommit 3592ddcb03e372cc8c5b572490e394eea32feb41[m
+Merge: a43fb3c b10fad6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Sep 21 10:29:10 2020 +0000
+
+    Merge pull request #23 from shivamsouravjha/number-predictor
+
+[33mcommit b10fad6268b49e06b880bf574e209079ef5ca062[m
+Author: shivamsouravjha <2019145@iiitdmj.ac.in>
+Date:   Mon Sep 21 15:48:15 2020 +0530
+
+    I hate tflite
+
+[33mcommit a43fb3c83f6f6c42a9452441d062882ff87ee515[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sun Sep 20 22:08:16 2020 +0530
+
+    Removed explicitly defined opened type.
+    
+    By default, a workflow only runs when a pull_request_target's activity type is opened, synchronize, or reopened.
+
+[33mcommit 511e5896d1f92294b080b8dd22b39a862eef5b54[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Sun Sep 20 18:06:29 2020 +0530
+
+    Change character limit in json file
+
+[33mcommit 43f2cbd907f4af2c84a78af4f0a2a20ff3071564[m
+Merge: 57d751b 2a13293
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Sun Sep 20 17:50:19 2020 +0530
+
+    Merge pull request #22 from pranjalg131/mybranch
+    
+    added my details
+
+[33mcommit 2a132934a07015a1e8cd4b089eaf643037248b3c[m
+Author: Pranjal Gupta <pranjalg131@gmail.com>
+Date:   Sun Sep 20 17:42:49 2020 +0530
+
+    Changed file name
+
+[33mcommit 57d751be7d5794441db4a4d9ed397b89653c9f3a[m
+Merge: 9db27db 83e3965
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Sep 20 12:09:29 2020 +0000
+
+    Merge pull request #21 from MananJethwani/my_branch
+
+[33mcommit e4134a80aacd4373f18af39cb063c3be960b2473[m
+Author: Pranjal Gupta <pranjalg131@gmail.com>
+Date:   Sun Sep 20 17:37:08 2020 +0530
+
+    added my details
+
+[33mcommit 83e3965733073d2dcef99dddef118c3dd48b0f4c[m
+Author: manan jethwani <mananjethwani02@gmail.com>
+Date:   Sun Sep 20 17:34:09 2020 +0530
+
+    my first commit @MananJethwani
+
+[33mcommit 9db27dbc76f2a66be48a65502771b593f0318b74[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Sat Sep 19 23:59:42 2020 +0530
+
+    Update commit-your-changes in readme
+
+[33mcommit 830319322d6f1f10105ca651c653538eb0600e50[m
+Merge: 4aacbc4 c245cf5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun Sep 20 07:48:59 2020 +0000
+
+    Merge pull request #20 from priyanshnama/auto-merge-check
+
+[33mcommit c245cf5d25ec180ad4165732345ce80a40695018[m
+Author: Priyansh Nama <54625644+priyanshnama@users.noreply.github.com>
+Date:   Sun Sep 20 13:16:52 2020 +0530
+
+    Update priyanshnama.json
+
+[33mcommit 4aacbc49ccfce4fff95e309cd7b24ce6f8aa8269[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Sun Sep 20 13:01:43 2020 +0530
+
+    Updated pascalgn/automerge-action base to master
+
+[33mcommit 889f76a824d1d0cbc1be2e8760262d45947d6516[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Thu Sep 17 23:39:05 2020 +0530
+
+    Add links in where-to-go-from-here section
+
+[33mcommit 45c82bdc583dcd1799e7e3c45433105d7aeae3d5[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 16 20:54:04 2020 +0530
+
+    Updated checkout refs
+
+[33mcommit ea77cf63954d395e3d00c7b33150c3b40b789a78[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 16 20:46:55 2020 +0530
+
+    Replaced on event
+
+[33mcommit b7c7ec9ee71071f277ea84741e56cf5547159575[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 16 18:00:47 2020 +0530
+
+    Replaced PAT with GITHUB_TOKEN again!
+
+[33mcommit e3eca38fe660c0e35e6c8b1e34812d7d44a48574[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Wed Sep 16 17:26:42 2020 +0530
+
+    Update discord link in merged PR message
+
+[33mcommit 0b4be5fef98f1b15284cbcd9c69a78454afb0638[m
+Merge: 0462c2d 339356e
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 16 17:14:11 2020 +0530
+
+    Merge pull request #15 from BitByte-TPC/Janglee123-patch-6
+
+[33mcommit 339356ef199833c46031dfa967d76151230cca84[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 16 17:13:01 2020 +0530
+
+    Update janglee123.json
+
+[33mcommit 0462c2d72d012bfdbcd2bda27df1e8d71e3fa2f4[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 16 17:12:31 2020 +0530
+
+    Replaced GITHUB_TOKEN with PAT
+
+[33mcommit 889138be602b71c3bb3ce372966c995e735545d8[m
+Merge: 89793c9 b91e8d3
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 16 16:58:28 2020 +0530
+
+    Merge pull request #14 from priyanshnama/add-priyansh-nama
+    
+    Add priyanshnama.json
+
+[33mcommit b91e8d3536ee26b72370d9630bcc72f1e8ea74a4[m
+Author: Priyansh Nama <54625644+priyanshnama@users.noreply.github.com>
+Date:   Wed Sep 16 16:36:41 2020 +0530
+
+    Add priyanshnama.json
+
+[33mcommit 89793c9aef733163e1e54c19e180eff7bdc42ae1[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Wed Sep 16 03:39:40 2020 +0530
+
+    Update where-to-go-from-here section in readme.
+
+[33mcommit 39634ee74432d4abf4a0c5ef82d6c8ea567041a8[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Wed Sep 16 03:05:14 2020 +0530
+
+    Major modification in "Make necessary changes" section.
+
+[33mcommit 94daea2985e1f6fd8ead954da0d0519f040792fd[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Tue Sep 15 23:45:10 2020 +0530
+
+    Update "Commit your changes" section in readme.
+
+[33mcommit a8f099180b2a9a1d8cbe471d66fdc8525d7cbd1e[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Mon Sep 14 23:14:05 2020 +0530
+
+    Few random fixes in readme
+
+[33mcommit bef54974167c446eca3b747251c2d1880f51bb8c[m
+Merge: 749c0b6 73b5426
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Sep 15 16:37:27 2020 +0000
+
+    Merge pull request #13 from BitByte-TPC/sdhiman99-patch-1
+
+[33mcommit 73b5426e7c2ba6b4f4289551fad9bd512c33f94a[m
+Author: Shivansh Dhiman <38396362+sdhiman99@users.noreply.github.com>
+Date:   Tue Sep 15 22:05:58 2020 +0530
+
+    Update sdhiman99.json
+
+[33mcommit 749c0b66fa57c743e15fe6bbdcabf305c1bde422[m
+Merge: fbc26f8 b0866e5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Sep 15 16:11:54 2020 +0000
+
+    Merge pull request #12 from BitByte-TPC/Janglee123-patch-5
+
+[33mcommit b0866e5a7739fdd151a447e4af797d804f7f01d5[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Sep 15 21:40:45 2020 +0530
+
+    Update janglee123.json
+
+[33mcommit fbc26f82a41f73117d11dec82cebbb1a89302dbf[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Sep 15 21:39:29 2020 +0530
+
+    Added empty MERGE_LABELS field
+
+[33mcommit 00c8b7334d669e04c4ae1b666b6153dc7d41c2c3[m
+Merge: fe3a77c f7d86fb
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Sep 15 21:18:29 2020 +0530
+
+    Merge pull request #8 from BitByte-TPC/Janglee123-patch-2
+    
+    Replaced auto merge action
+
+[33mcommit f7d86fbb8c2a0b7cda0a1c69bbf608751d50b964[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Sep 15 21:18:04 2020 +0530
+
+    Replaced auto merge action
+
+[33mcommit fe3a77c358a44482a374068f7c2aa74cc981528d[m
+Merge: 8d486f0 3ec5fb4
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Mon Sep 14 12:25:16 2020 +0530
+
+    Merge pull request #6 from BitByte-TPC/gh-actions
+    
+    Added github actions
+
+[33mcommit 3ec5fb43809b25aef405519a5cca4c101a6c6cd9[m
+Author: janglee <merupatel123@gmail.com>
+Date:   Thu Sep 10 22:30:02 2020 +0530
+
+    Added github actions
+
+[33mcommit 8d486f04dab7c18babc7e62a635eec0dbe2b1518[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Sat Sep 12 23:39:51 2020 +0530
+
+    Update fork repository section in readme
+
+[33mcommit 61483fbf5268335be2bbcff06e4ccd7cb1c54445[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Sat Sep 12 23:22:31 2020 +0530
+
+    Update Git conf section and make small fixes in readme
+
+[33mcommit 37c82bbd3f23deeadf63834172438782a469cf72[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Sep 11 23:35:53 2020 +0530
+
+    docs: Update Linux instructions.
+
+[33mcommit e03cd30a60b239da3000f3d31b7827dcd71a827a[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Sep 11 23:31:35 2020 +0530
+
+    Added documentation for GUI users.
+
+[33mcommit 1efa084b763020a26b7e1f1bdfa3f5df7bb2753a[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Fri Sep 11 23:31:00 2020 +0530
+
+    Upated template to make it consistent with documentation.
+
+[33mcommit 9c9f1ad2aebe29e2b4dafa82d5896827573f8a62[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Wed Sep 9 21:46:33 2020 +0530
+
+    Separated comitting changes instraction
+    
+    Also updated Linux instruction for making changes.
+
+[33mcommit ed70b8e6a378208a318dc1d8373b11100e75af60[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Wed Sep 9 19:10:10 2020 +0530
+
+    Few updates in Readme
+
+[33mcommit 93b368b46d613cecd057f15d1394da9d9d5c32fb[m
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Wed Sep 9 00:26:31 2020 +0530
+
+    Add Discord links in welcome-bot config
+
+[33mcommit 954f2c51572fe4ccf6ba9e23f2fea3ef66b76027[m
+Author: janglee <merupatel123@gmail.com>
+Date:   Tue Sep 8 22:24:00 2020 +0530
+
+    Made card size responsive
+
+[33mcommit 66414b9528db4eb29796405cd31c6eece86a5403[m
+Author: janglee <merupatel123@gmail.com>
+Date:   Tue Sep 8 21:19:28 2020 +0530
+
+    Removed blank discord invitation
+
+[33mcommit d26c50e28241b622fe769a25be838afd335dcbed[m
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Tue Sep 8 20:09:23 2020 +0530
+
+    Update garg3133.json
+
+[33mcommit affbcfa84a19f062c37be82272c1d2ada4f4f27d[m
+Author: Ajwad Shaikh <shaikhajwad10@gmail.com>
+Date:   Tue Sep 8 12:49:38 2020 +0530
+
+    Add ajwad-shaikh to directory
+
+[33mcommit 6e51ab6f04480c10c8f0085e700ed3302287b220[m
+Author: Aditya Vats <avats.osc@gmail.com>
+Date:   Tue Sep 8 16:34:10 2020 +0530
+
+    add welcome bot config
+
+[33mcommit 3899ed5a53388cb0e4e1820dbf952afe3cdc92f3[m
+Author: janglee <merupatel123@gmail.com>
+Date:   Tue Sep 8 16:11:32 2020 +0530
+
+    Added font cdn for JetBrains Mono
+
+[33mcommit ddbc9b877a6e0a86a139dd18406abadb49d72d8d[m
+Merge: 03ed17e e95c3c2
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Sep 8 16:01:38 2020 +0530
+
+    Merge pull request #3 from BitByte-TPC/init-2
+    
+    Added style and content
+
+[33mcommit e95c3c2404c345d2d89e50c62924a0a8a53341a3[m
+Author: janglee <merupatel123@gmail.com>
+Date:   Tue Sep 8 15:59:43 2020 +0530
+
+    Updated stylesheet and content
+
+[33mcommit 9e6882f4de02994f82a380406250accab7eba651[m
+Author: janglee <merupatel123@gmail.com>
+Date:   Tue Sep 8 15:35:02 2020 +0530
+
+    Updated development settings
+
+[33mcommit 03ed17eea7869be8fd23f614b212fb5ab6fcbbc4[m
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Tue Sep 8 14:04:07 2020 +0530
+
+    Add garg3133.json
+
+[33mcommit d75dd1de455fe833d2a45fdb89e78496da1eefb3[m
+Merge: 217b3c3 add4c29
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Sep 8 10:23:46 2020 +0530
+
+    Merge pull request #1 from Janglee123/dev
+    
+    New static site for gh pages
+
+[33mcommit add4c2947131e8d0e86b6fa379f72d0afafa6e45[m
+Author: Meru Patel <merupatel123@gmail.com>
+Date:   Tue Sep 8 04:49:41 2020 +0000
+
+    init
+
+[33mcommit 217b3c3cc1782d33be9cbd16d5d7b4a34340e99e[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Mon Sep 7 15:08:07 2020 +0530
+
+    Update readme
+
+[33mcommit 3df01f8b49e62fbccb8ac78dc96d187e5f5acb06[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Mon Sep 7 13:58:31 2020 +0530
+
+    Update screenshots readme
+
+[33mcommit c1aff8c48f997be71598aae1bef5d69256b2667c[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Mon Sep 7 02:15:56 2020 +0530
+
+    Update Readme
+
+[33mcommit 16923d5ee6c02fb926bb8383d97db3476684ee2b[m
+Author: Priyansh Garg <priyanshgarg30@gmail.com>
+Date:   Thu Sep 3 23:36:31 2020 +0530
+
+    Update licence
+
+[33mcommit 8a4f77658a9025884c5605070d69d8e0db8c4a57[m
+Author: Priyansh Garg <39924567+garg3133@users.noreply.github.com>
+Date:   Thu Sep 3 23:19:54 2020 +0530
+
+    Initial commit
