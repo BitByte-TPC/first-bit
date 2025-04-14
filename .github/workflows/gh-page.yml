@@ -23,8 +23,6 @@ jobs:
 
     - name: Build DB
       uses: ./.github/actions/buildDB
-      with:
-        GITHUB_TOKEN: ${{ secrets.AVATAR_TOKEN }}
 
     - name: Build static site
       run: yarn run build

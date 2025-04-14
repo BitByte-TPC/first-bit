@@ -6,7 +6,7 @@ const github = require('@actions/github');
 const dir = path.join(__dirname, "..", "..", "..", "public", "directory");
 const files = fs.readdirSync(dir);
 
-const gh = github.getOctokit(core.getInput('GITHUB_TOKEN', { required: true }));
+const gh = process.env.GITHUB_TOKEN;
 const nameDb = [];
 
 const build = async () => {
@@ -41,6 +41,5 @@ build()
     );
   })
   .catch((e) => {
-    // core.setFailed(`Failed to compile a DB, \n${e.message} `);
-    console.log(e);
+    core.setFailed(`Failed to compile a DB, \n${e.message} `);
   });
